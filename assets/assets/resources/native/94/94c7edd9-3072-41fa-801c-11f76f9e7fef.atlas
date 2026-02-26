@@ -1,0 +1,27 @@
+
+pinghengche_02.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/phc-bz
+  rotate: false
+  xy: 2, 2
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+normal/phc-lun02
+  rotate: false
+  xy: 74, 5
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+normal/phc-yz
+  rotate: false
+  xy: 2, 27
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1

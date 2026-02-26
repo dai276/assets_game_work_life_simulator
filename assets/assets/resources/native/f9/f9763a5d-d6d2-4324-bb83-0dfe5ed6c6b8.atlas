@@ -1,0 +1,76 @@
+
+npc_16.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/pt_yb
+  rotate: false
+  xy: 13, 7
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+normal/pt_zb
+  rotate: false
+  xy: 66, 87
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+normal/qunzi
+  rotate: true
+  xy: 98, 93
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 2, 22
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 59
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: false
+  xy: 66, 67
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: false
+  xy: 2, 2
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: true
+  xy: 37, 8
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: false
+  xy: 52, 39
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: false
+  xy: 77, 67
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1

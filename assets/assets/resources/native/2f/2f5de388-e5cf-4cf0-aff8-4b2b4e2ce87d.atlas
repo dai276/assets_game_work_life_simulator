@@ -1,0 +1,104 @@
+
+npc_02_thief.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/mawei1
+  rotate: true
+  xy: 95, 37
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+normal/mawei2
+  rotate: true
+  xy: 95, 13
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+normal/pt_yb
+  rotate: false
+  xy: 192, 22
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+normal/pt_zb
+  rotate: false
+  xy: 205, 22
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+normal/qunzi
+  rotate: false
+  xy: 62, 2
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: true
+  xy: 192, 35
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+normal/shubao-1
+  rotate: false
+  xy: 62, 22
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+normal/shubao-2
+  rotate: true
+  xy: 221, 46
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: true
+  xy: 141, 36
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: true
+  xy: 161, 36
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 141, 46
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: true
+  xy: 221, 35
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: false
+  xy: 181, 26
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1

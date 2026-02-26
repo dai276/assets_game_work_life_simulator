@@ -1,0 +1,41 @@
+
+pinghengche02_02.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/phc02-bz
+  rotate: false
+  xy: 2, 2
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+normal/phc02-lun04
+  rotate: false
+  xy: 86, 30
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+normal/phc02-lun05
+  rotate: false
+  xy: 146, 14
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+normal/phc02-lun06
+  rotate: false
+  xy: 194, 14
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+normal/phc02-yz
+  rotate: false
+  xy: 2, 34
+  size: 82, 26
+  orig: 82, 26
+  offset: 0, 0
+  index: -1

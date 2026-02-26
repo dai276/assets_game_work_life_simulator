@@ -1,0 +1,83 @@
+
+npc_21.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/21_bb01
+  rotate: false
+  xy: 159, 32
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+normal/21_bb02
+  rotate: false
+  xy: 121, 24
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+normal/21_shenti
+  rotate: false
+  xy: 84, 20
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+normal/21_tou
+  rotate: true
+  xy: 2, 6
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+normal/21_ydt
+  rotate: true
+  xy: 84, 9
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+normal/21_yjio
+  rotate: false
+  xy: 108, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+normal/21_ys
+  rotate: true
+  xy: 224, 35
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+normal/21_zdt
+  rotate: true
+  xy: 200, 38
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+normal/21_zjio
+  rotate: false
+  xy: 118, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+normal/21_zs
+  rotate: false
+  xy: 239, 34
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 200, 49
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1

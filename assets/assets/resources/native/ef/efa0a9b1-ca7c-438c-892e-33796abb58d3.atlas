@@ -1,0 +1,83 @@
+
+bahuoguan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/fire_01
+  rotate: false
+  xy: 2, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_02
+  rotate: false
+  xy: 170, 294
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_03
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_04
+  rotate: false
+  xy: 300, 294
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_05
+  rotate: false
+  xy: 170, 164
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_06
+  rotate: false
+  xy: 300, 164
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_07
+  rotate: false
+  xy: 159, 34
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/fire_08
+  rotate: false
+  xy: 289, 34
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+normal/huoguanhou
+  rotate: true
+  xy: 419, 37
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+normal/huoguanqian
+  rotate: false
+  xy: 2, 262
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+normal/mianbang
+  rotate: false
+  xy: 132, 115
+  size: 25, 145
+  orig: 25, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+huotuichang.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/huotuichang
+  rotate: false
+  xy: 2, 71
+  size: 91, 22
+  orig: 91, 22
+  offset: 0, 0
+  index: -1

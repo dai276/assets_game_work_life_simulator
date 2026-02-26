@@ -1,0 +1,41 @@
+
+ceramics.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/ceramics01
+  rotate: true
+  xy: 151, 32
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+normal/ceramics02
+  rotate: false
+  xy: 190, 34
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+normal/ceramics03
+  rotate: false
+  xy: 69, 9
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+normal/ceramics04
+  rotate: false
+  xy: 111, 24
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+normal/ceramics05
+  rotate: false
+  xy: 2, 2
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1

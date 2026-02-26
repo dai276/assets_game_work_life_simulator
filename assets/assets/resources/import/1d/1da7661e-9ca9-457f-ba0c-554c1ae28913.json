@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"ring01_once","_duration":1,"sample":30,"curveData":{"paths":{"ring01":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":0.25,"y":0.15}},{"frame":1,"value":{"__type__":"cc.Vec2","x":1.2,"y":0.8}}],"opacity":[{"frame":0,"value":255},{"frame":1,"value":0}]}}}}}

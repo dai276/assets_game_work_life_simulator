@@ -1,0 +1,69 @@
+
+jiuhuche.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/cheche
+  rotate: false
+  xy: 2, 43
+  size: 396, 181
+  orig: 396, 181
+  offset: 0, 0
+  index: -1
+normal/dd
+  rotate: false
+  xy: 400, 44
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+normal/hd
+  rotate: false
+  xy: 571, 141
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+normal/houlun
+  rotate: false
+  xy: 665, 161
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+normal/ld
+  rotate: false
+  xy: 476, 141
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+normal/men
+  rotate: false
+  xy: 400, 81
+  size: 74, 143
+  orig: 74, 143
+  offset: 0, 0
+  index: -1
+normal/qianlun
+  rotate: false
+  xy: 731, 161
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+normal/weiqi
+  rotate: false
+  xy: 476, 86
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 2, 2
+  size: 392, 39
+  orig: 392, 39
+  offset: 0, 0
+  index: -1

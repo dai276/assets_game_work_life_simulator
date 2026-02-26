@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"sprite_inner","_effectAsset":{"__uuid__":"a0g4e5vqNPH6MMoMdJLqa0"},"_techniqueData":{"0":{"props":{"glowColor":{"__type__":"cc.Color","r":255,"g":255},"glowRange":60},"defines":{"USE_TEXTURE":true,"SHOW_INNER_GLOW":true}}}}

@@ -1,0 +1,48 @@
+
+sanlunche.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/slc
+  rotate: false
+  xy: 2, 56
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+normal/slc_houlun
+  rotate: false
+  xy: 176, 91
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+normal/slc_houlun02
+  rotate: false
+  xy: 2, 2
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+normal/slc_laba
+  rotate: false
+  xy: 136, 58
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+normal/slc_qianlun
+  rotate: false
+  xy: 136, 85
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+normal/slc_yz
+  rotate: false
+  xy: 2, 15
+  size: 137, 39
+  orig: 137, 39
+  offset: 0, 0
+  index: -1

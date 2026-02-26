@@ -1,0 +1,20 @@
+
+shengcai.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/shengcai01
+  rotate: false
+  xy: 2, 53
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+normal/shengcai02
+  rotate: false
+  xy: 2, 2
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1

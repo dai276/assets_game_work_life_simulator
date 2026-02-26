@@ -1,0 +1,90 @@
+
+diaoyu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/qiu
+  rotate: false
+  xy: 409, 100
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+normal/xiantou
+  rotate: false
+  xy: 120, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+normal/yugan
+  rotate: false
+  xy: 219, 35
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+normal/yuxian
+  rotate: false
+  xy: 2, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+normal2/yuxian
+  rotate: false
+  xy: 2, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+normal3/yuxian
+  rotate: false
+  xy: 2, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+normal2/qiu
+  rotate: false
+  xy: 409, 74
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+normal2/xiantou
+  rotate: false
+  xy: 409, 58
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+normal3/xiantou
+  rotate: false
+  xy: 409, 58
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+normal2/yugan
+  rotate: false
+  xy: 314, 35
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+normal3/qiu
+  rotate: false
+  xy: 435, 100
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+normal3/yugan
+  rotate: false
+  xy: 120, 22
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1

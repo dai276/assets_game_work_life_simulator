@@ -1,0 +1,76 @@
+
+npc_04_thief.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/pt_yb
+  rotate: false
+  xy: 2, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+normal/pt_zb
+  rotate: false
+  xy: 93, 77
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+normal/qunzi
+  rotate: false
+  xy: 2, 16
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 83, 91
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 55
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: true
+  xy: 53, 45
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: false
+  xy: 83, 73
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 2, 40
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: false
+  xy: 112, 103
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: false
+  xy: 27, 22
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="160" android:isFeatureSplit="true" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.ultralisk.gameapp.game168.en" platformBuildVersionCode="33" platformBuildVersionName="13" split="gameassets"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:dist="http://schemas.android.com/apk/distribution">
+    <dist:module dist:type="asset-pack">
+        <dist:fusing dist:include="true" />
+        <dist:delivery>
+            <dist:install-time />
+        </dist:delivery>
+    </dist:module>
+    <application android:hasCode="false" />
+</manifest>

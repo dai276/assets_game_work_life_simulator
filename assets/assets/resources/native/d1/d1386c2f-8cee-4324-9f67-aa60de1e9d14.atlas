@@ -1,0 +1,13 @@
+
+danpi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/pukai_jidan
+  rotate: false
+  xy: 2, 51
+  size: 162, 113
+  orig: 162, 113
+  offset: 0, 0
+  index: -1

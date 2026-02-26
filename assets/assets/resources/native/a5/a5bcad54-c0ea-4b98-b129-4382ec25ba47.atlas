@@ -1,0 +1,20 @@
+
+cj_feng.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/kt_xian
+  rotate: true
+  xy: 2, 21
+  size: 1, 97
+  orig: 1, 97
+  offset: 0, 0
+  index: -1
+normal/yezi1
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

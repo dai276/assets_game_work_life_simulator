@@ -1,0 +1,13 @@
+
+chongzi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/congzi
+  rotate: false
+  xy: 2, 75
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+ui_loading.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/paopao1
+  rotate: false
+  xy: 156, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+normal/pingzi1
+  rotate: false
+  xy: 2, 21
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+normal/pingzi2
+  rotate: false
+  xy: 98, 22
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+normal/polie1
+  rotate: true
+  xy: 2, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+normal/quanquan1
+  rotate: false
+  xy: 23, 5
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+normal/yieti
+  rotate: false
+  xy: 98, 86
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+normal/yieti1
+  rotate: false
+  xy: 190, 113
+  size: 64, 12
+  orig: 64, 12
+  offset: 0, 0
+  index: -1
+normal/yieti2
+  rotate: false
+  xy: 190, 99
+  size: 64, 12
+  orig: 64, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+npc_03_thief.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/shenti
+  rotate: false
+  xy: 2, 17
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 54
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: true
+  xy: 2, 4
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+normal/youshou
+  rotate: true
+  xy: 38, 17
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: false
+  xy: 52, 88
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 52, 109
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: false
+  xy: 38, 31
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+normal/zuoshou
+  rotate: false
+  xy: 65, 95
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: true
+  xy: 103, 111
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1

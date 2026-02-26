@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"sprite-outline","_effectAsset":{"__uuid__":"e24xD4osJMCqPLE/FsVknU"},"_techniqueData":{"0":{"defines":{"USE_TEXTURE":true,"SHOW_OUT_LINE":true},"props":{"outlineColor":{"__type__":"cc.Color","r":194,"g":29,"b":241},"outlineWidth":0.005}}}}

@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"sprite_light","_effectAsset":{"__uuid__":"1cyFudq3tGX5hVC3jhqGhH"},"_techniqueData":{"0":{"defines":{"USE_TEXTURE":true,"USE_ALPHA_TEST":false},"props":{"albedo":{"__type__":"cc.Color"}}}}}

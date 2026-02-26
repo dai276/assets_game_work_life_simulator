@@ -1,0 +1,41 @@
+
+manghe.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/001
+  rotate: false
+  xy: 2, 323
+  size: 286, 148
+  orig: 286, 148
+  offset: 0, 0
+  index: -1
+normal/002
+  rotate: false
+  xy: 2, 173
+  size: 286, 148
+  orig: 286, 148
+  offset: 0, 0
+  index: -1
+normal/003
+  rotate: true
+  xy: 290, 185
+  size: 286, 148
+  orig: 286, 148
+  offset: 0, 0
+  index: -1
+normal/dibu
+  rotate: false
+  xy: 261, 2
+  size: 249, 169
+  orig: 249, 169
+  offset: 0, 0
+  index: -1
+normal/gaizi
+  rotate: false
+  xy: 2, 7
+  size: 257, 164
+  orig: 257, 164
+  offset: 0, 0
+  index: -1

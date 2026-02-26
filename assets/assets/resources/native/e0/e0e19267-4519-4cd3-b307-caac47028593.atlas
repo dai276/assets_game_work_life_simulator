@@ -1,0 +1,97 @@
+
+mao_tree_01.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/m_biyan
+  rotate: false
+  xy: 67, 6
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+normal/m_shenti
+  rotate: false
+  xy: 2, 37
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+normal/m_tou
+  rotate: false
+  xy: 2, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+normal/m_weiba
+  rotate: false
+  xy: 36, 4
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+normal/m_yanjing
+  rotate: false
+  xy: 50, 40
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+normal/m_yhdt
+  rotate: false
+  xy: 58, 12
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+normal/m_yhxt
+  rotate: false
+  xy: 78, 12
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+normal/m_yqt
+  rotate: true
+  xy: 101, 47
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+normal/m_zhdt
+  rotate: false
+  xy: 92, 13
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+normal/m_zhxt
+  rotate: true
+  xy: 91, 33
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+normal/m_zqt
+  rotate: true
+  xy: 69, 32
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+normal/m_zui
+  rotate: false
+  xy: 58, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 50, 49
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1

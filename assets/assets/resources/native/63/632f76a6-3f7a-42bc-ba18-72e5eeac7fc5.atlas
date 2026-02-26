@@ -1,0 +1,34 @@
+
+citie.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/huan_s01
+  rotate: true
+  xy: 2, 2
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+normal/huan_s02
+  rotate: false
+  xy: 37, 32
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+normal/shengzi
+  rotate: true
+  xy: 2, 53
+  size: 6, 118
+  orig: 6, 118
+  offset: 0, 0
+  index: -1
+normal/xitie
+  rotate: false
+  xy: 2, 15
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1

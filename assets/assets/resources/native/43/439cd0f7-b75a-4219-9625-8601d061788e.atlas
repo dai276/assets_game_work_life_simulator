@@ -1,0 +1,160 @@
+
+npc_19.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/heart_red
+  rotate: false
+  xy: 66, 183
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+normal1/heart_red
+  rotate: false
+  xy: 66, 183
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+normal/pt_yb
+  rotate: false
+  xy: 2, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+normal/pt_zb
+  rotate: false
+  xy: 35, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 66, 211
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+normal/shouji
+  rotate: false
+  xy: 2, 43
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+normal1/shouji
+  rotate: false
+  xy: 2, 43
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 109
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: true
+  xy: 151, 241
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: false
+  xy: 2, 4
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 100, 239
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal1/yz
+  rotate: false
+  xy: 100, 239
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: true
+  xy: 118, 226
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: true
+  xy: 174, 241
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+normal1/pt_yb
+  rotate: false
+  xy: 35, 90
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+normal1/pt_zb
+  rotate: false
+  xy: 100, 220
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+normal1/shenti
+  rotate: false
+  xy: 2, 68
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+normal1/tou
+  rotate: false
+  xy: 2, 179
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+normal1/youdatui
+  rotate: true
+  xy: 235, 242
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+normal1/youxiaotui
+  rotate: false
+  xy: 53, 92
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+normal1/zuodatui
+  rotate: true
+  xy: 195, 241
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+normal1/zuoxiaotui
+  rotate: true
+  xy: 215, 241
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1

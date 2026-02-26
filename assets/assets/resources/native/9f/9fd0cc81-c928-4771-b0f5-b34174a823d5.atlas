@@ -1,0 +1,34 @@
+
+ranfashi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/1
+  rotate: false
+  xy: 259, 32
+  size: 255, 171
+  orig: 255, 171
+  offset: 0, 0
+  index: -1
+normal/2
+  rotate: true
+  xy: 516, 82
+  size: 121, 179
+  orig: 121, 179
+  offset: 0, 0
+  index: -1
+normal/3
+  rotate: false
+  xy: 2, 2
+  size: 255, 201
+  orig: 255, 201
+  offset: 0, 0
+  index: -1
+normal/4
+  rotate: false
+  xy: 697, 148
+  size: 242, 55
+  orig: 242, 55
+  offset: 0, 0
+  index: -1

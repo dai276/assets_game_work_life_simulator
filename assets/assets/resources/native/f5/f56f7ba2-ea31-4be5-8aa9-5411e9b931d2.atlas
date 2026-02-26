@@ -1,0 +1,13 @@
+
+bq_baofu.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/baofu01
+  rotate: false
+  xy: 2, 2
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1

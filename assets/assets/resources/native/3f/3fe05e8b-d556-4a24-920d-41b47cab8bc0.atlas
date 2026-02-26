@@ -1,0 +1,27 @@
+
+bingpi_shang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/bancp_01
+  rotate: false
+  xy: 2, 193
+  size: 157, 57
+  orig: 157, 57
+  offset: 0, 0
+  index: -1
+normal/bancp_02
+  rotate: false
+  xy: 2, 146
+  size: 145, 45
+  orig: 145, 45
+  offset: 0, 0
+  index: -1
+normal/chengpin_s
+  rotate: false
+  xy: 161, 193
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1

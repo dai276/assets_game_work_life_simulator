@@ -1,0 +1,97 @@
+
+touzi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/1
+  rotate: false
+  xy: 171, 171
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+normal/2
+  rotate: false
+  xy: 2, 168
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+normal/3
+  rotate: false
+  xy: 2, 85
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/11
+  rotate: false
+  xy: 2, 85
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/7
+  rotate: false
+  xy: 2, 85
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/4
+  rotate: false
+  xy: 87, 89
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+normal/12
+  rotate: false
+  xy: 87, 89
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+normal/8
+  rotate: false
+  xy: 87, 89
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+normal/5
+  rotate: false
+  xy: 87, 171
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/13
+  rotate: false
+  xy: 87, 171
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/9
+  rotate: false
+  xy: 87, 171
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/6
+  rotate: false
+  xy: 2, 2
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+normal/10
+  rotate: false
+  xy: 2, 2
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1

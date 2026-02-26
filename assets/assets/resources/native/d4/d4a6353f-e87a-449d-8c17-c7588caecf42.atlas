@@ -1,0 +1,90 @@
+
+chefu.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/ku
+  rotate: false
+  xy: 49, 9
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+normal/pt_yb
+  rotate: false
+  xy: 160, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+normal/pt_zb
+  rotate: false
+  xy: 176, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 49, 25
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 3
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: true
+  xy: 138, 51
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+normal/youku
+  rotate: false
+  xy: 87, 28
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: true
+  xy: 87, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 87, 49
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: true
+  xy: 87, 15
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+normal/zuoku
+  rotate: false
+  xy: 109, 28
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: true
+  xy: 108, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1

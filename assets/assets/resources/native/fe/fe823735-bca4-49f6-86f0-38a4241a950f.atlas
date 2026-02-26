@@ -1,0 +1,83 @@
+
+npc_51.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/kua
+  rotate: false
+  xy: 2, 2
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 2, 16
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+normal/shou_hou
+  rotate: false
+  xy: 53, 42
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+normal/shouq
+  rotate: false
+  xy: 36, 18
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 56
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+normal/tuishang
+  rotate: false
+  xy: 103, 106
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+normal/tuishang02
+  rotate: false
+  xy: 36, 34
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+normal/tuixia
+  rotate: false
+  xy: 82, 75
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+normal/tuixia02
+  rotate: false
+  xy: 82, 52
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+normal/wuguan
+  rotate: false
+  xy: 67, 97
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: true
+  xy: 67, 46
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1

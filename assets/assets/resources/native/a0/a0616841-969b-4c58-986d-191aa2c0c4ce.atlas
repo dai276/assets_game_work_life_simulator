@@ -1,0 +1,20 @@
+
+bangzi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/bang01
+  rotate: false
+  xy: 2, 2
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+normal/bang02
+  rotate: false
+  xy: 2, 56
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1

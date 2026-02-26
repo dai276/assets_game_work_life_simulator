@@ -1,0 +1,13 @@
+
+bocui.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/bocui
+  rotate: false
+  xy: 2, 48
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

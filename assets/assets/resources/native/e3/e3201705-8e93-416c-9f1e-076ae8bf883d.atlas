@@ -1,0 +1,41 @@
+
+shuazi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/jiang01
+  rotate: false
+  xy: 2, 192
+  size: 123, 21
+  orig: 123, 21
+  offset: 0, 0
+  index: -1
+normal/jiang02
+  rotate: false
+  xy: 2, 215
+  size: 135, 39
+  orig: 135, 39
+  offset: 0, 0
+  index: -1
+normal/shuazi_jiangliao
+  rotate: false
+  xy: 2, 170
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+normal/shuazi_s
+  rotate: true
+  xy: 139, 221
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+normal/shuazi_tou
+  rotate: true
+  xy: 210, 214
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1

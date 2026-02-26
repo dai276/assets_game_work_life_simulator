@@ -1,0 +1,76 @@
+
+banche.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/banche_banzi_yz
+  rotate: false
+  xy: 157, 6
+  size: 107, 10
+  orig: 107, 10
+  offset: 0, 0
+  index: -1
+normal/banche_bashou
+  rotate: true
+  xy: 310, 24
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+normal/banche_yhlun01
+  rotate: false
+  xy: 482, 29
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+normal/banche_yhlun02
+  rotate: false
+  xy: 448, 29
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+normal/banche_yingzi
+  rotate: false
+  xy: 157, 18
+  size: 151, 42
+  orig: 151, 42
+  offset: 0, 0
+  index: -1
+normal/banche_zhlun01
+  rotate: false
+  xy: 515, 29
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+normal/banche_zhlun02
+  rotate: false
+  xy: 379, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+normal/banche_zqlun01
+  rotate: false
+  xy: 548, 29
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+normal/banche_zqlun02
+  rotate: true
+  xy: 413, 29
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+normal/banchebanzi
+  rotate: false
+  xy: 2, 2
+  size: 153, 58
+  orig: 153, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+npc_06_thief.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/lianbu
+  rotate: false
+  xy: 2, 16
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 2, 39
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 78
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+normal/yjiao
+  rotate: false
+  xy: 108, 114
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+normal/yjio
+  rotate: false
+  xy: 38, 61
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+normal/ys
+  rotate: false
+  xy: 17, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 57, 113
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zjiao
+  rotate: false
+  xy: 118, 114
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+normal/zjio
+  rotate: false
+  xy: 57, 96
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+normal/zs
+  rotate: false
+  xy: 2, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

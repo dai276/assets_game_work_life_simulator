@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"sprite_dissolve","_effectAsset":{"__uuid__":"80ncgXQmlEjrEzifhxpzaF"},"_techniqueData":{"0":{"props":{"alphaThreshold":0.5,"degree":0.6,"noise":{"__uuid__":"6eUPAsBzJM9ITorR9k5jUC"}},"defines":{"USE_TEXTURE":true,"USE_ALPHA_TEST":true,"USE_NOISE":true}}}}

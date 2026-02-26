@@ -1,0 +1,97 @@
+
+npc_37.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/qunzi
+  rotate: false
+  xy: 62, 22
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: true
+  xy: 150, 39
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+normal/wuguan
+  rotate: false
+  xy: 99, 23
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: true
+  xy: 62, 11
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+normal/youerhuan
+  rotate: true
+  xy: 194, 54
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+normal/youjiao
+  rotate: true
+  xy: 212, 53
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+normal/youshou
+  rotate: false
+  xy: 136, 36
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 99, 49
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: false
+  xy: 150, 24
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+normal/zuoerhuan
+  rotate: true
+  xy: 62, 3
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+normal/zuojiao
+  rotate: false
+  xy: 182, 47
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+normal/zuoshou
+  rotate: false
+  xy: 136, 23
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1

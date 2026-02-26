@@ -1,0 +1,803 @@
+{
+  "PATCH_LIST": [
+    {
+      "pid": 2, 
+      "version": "001", 
+      "hash": "735a5a814614c3422c8ca0d9f27930def7c1d778", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2a628521d80019c7d97ca483accfa0365c246391", 
+      "version": "001", 
+      "pid": 3, 
+      "reboot": false
+    }, 
+    {
+      "pid": 4, 
+      "version": "001", 
+      "hash": "87e29a88f2cef74889cb03eb5539ac763cac3f02", 
+      "reboot": false
+    }, 
+    {
+      "hash": "306fd12992b7a89b9cd67db77ae9c71cb667f9b5", 
+      "version": "001", 
+      "pid": 5, 
+      "reboot": false
+    }, 
+    {
+      "pid": 6, 
+      "version": "001", 
+      "hash": "70a0972a069534a9a3f79bb1207da2b01f394d24", 
+      "reboot": false
+    }, 
+    {
+      "hash": "9d39bd7f24a4dacfa2d3abfeee9e58de13dcd074", 
+      "version": "002", 
+      "pid": 7, 
+      "reboot": false
+    }, 
+    {
+      "pid": 8, 
+      "version": "003", 
+      "hash": "257fdaf0858da1e6d113fb66523da0c4261e6dee", 
+      "reboot": false
+    }, 
+    {
+      "hash": "ed321f66ce2a85e0b7f2532eaf42a3d0d7070f18", 
+      "version": "003", 
+      "pid": 9, 
+      "reboot": false
+    }, 
+    {
+      "pid": 10, 
+      "version": "003", 
+      "hash": "f5e7d1669d1609cac8f3aa1814be0f90b86224ae", 
+      "reboot": false
+    }, 
+    {
+      "hash": "35982bcd4ec7da00f979d4f834f2eeb84bf1ca14", 
+      "version": "003", 
+      "pid": 11, 
+      "reboot": false
+    }, 
+    {
+      "pid": 12, 
+      "version": "003", 
+      "hash": "1f4ffcb6cc9ed96a00eff9722b85608007aab452", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2c19247888c0158117b9fcc6bc822764f1701141", 
+      "version": "003", 
+      "pid": 13, 
+      "reboot": false
+    }, 
+    {
+      "pid": 14, 
+      "version": "003", 
+      "hash": "57e2c477b8919ed25e701b3931afec62f781ee5a", 
+      "reboot": false
+    }, 
+    {
+      "hash": "05e311e2b279895e2cca4d5e4fceaf112f617124", 
+      "version": "003", 
+      "pid": 15, 
+      "reboot": false
+    }, 
+    {
+      "pid": 16, 
+      "version": "003", 
+      "hash": "955e0fc5f1b2fb8561162d390251bb74e5df82f7", 
+      "reboot": false
+    }, 
+    {
+      "hash": "93f4483166082b5d686b627920937417008716a3", 
+      "version": "003", 
+      "pid": 17, 
+      "reboot": false
+    }, 
+    {
+      "pid": 18, 
+      "version": "003", 
+      "hash": "a5268c20e5e659ed88b4469b68f462f42474f7a5", 
+      "reboot": false
+    }, 
+    {
+      "hash": "ccb7a26e36f61cd7fc164d1d93c6e3cf50635057", 
+      "version": "003", 
+      "pid": 19, 
+      "reboot": false
+    }, 
+    {
+      "pid": 20, 
+      "version": "003", 
+      "hash": "3e1ef194009d966e0036f918c7c24bfb7cdb1128", 
+      "reboot": false
+    }, 
+    {
+      "hash": "78937b42c26679032a42e5a1d58f9c48e55da5f4", 
+      "version": "003", 
+      "pid": 21, 
+      "reboot": false
+    }, 
+    {
+      "pid": 22, 
+      "version": "003", 
+      "hash": "8146edb5ce9d20a0f6df0f428995941403297b9d", 
+      "reboot": false
+    }, 
+    {
+      "hash": "f90cbb25adec65628d282fd4bb6ed8e26e6355b4", 
+      "version": "003", 
+      "pid": 23, 
+      "reboot": false
+    }, 
+    {
+      "pid": 24, 
+      "version": "004", 
+      "hash": "60823d8078d45178ffd13faca7910b7163a518e6", 
+      "reboot": false
+    }, 
+    {
+      "pid": 25, 
+      "version": "004", 
+      "hash": "de6237333f6d06ac42fdd3ab7c5bb53a8de3c0ae", 
+      "reboot": false
+    }, 
+    {
+      "hash": "6f9daafe8a54bac3f6cc7d770b47a4c1faaebfbe", 
+      "version": "004", 
+      "pid": 26, 
+      "reboot": false
+    }, 
+    {
+      "pid": 27, 
+      "version": "004", 
+      "hash": "bc4454eaae907adb288481883b86ca6e356580be", 
+      "reboot": false
+    }, 
+    {
+      "hash": "ac1e6c443d48842e0ea8a901482536968a0256bf", 
+      "version": "004", 
+      "pid": 28, 
+      "reboot": false
+    }, 
+    {
+      "pid": 29, 
+      "version": "004", 
+      "hash": "cd1a744fe97f67ef01ff5f866e40d8d521283f94", 
+      "reboot": false
+    }, 
+    {
+      "hash": "0e8876a31cfb328f0948bd9d4ae45d31fffbc695", 
+      "version": "004", 
+      "pid": 30, 
+      "reboot": false
+    }, 
+    {
+      "pid": 31, 
+      "version": "004", 
+      "hash": "626d4759dedceff9f36172c2ef2d0e926773cc69", 
+      "reboot": false
+    }, 
+    {
+      "hash": "089def6722e9f32a160f7db6ce77d31efab0da82", 
+      "version": "004", 
+      "pid": 32, 
+      "reboot": false
+    }, 
+    {
+      "pid": 33, 
+      "version": "004", 
+      "hash": "a7f80c0687ea750b7b0118d25c5804ba809ee463", 
+      "reboot": false
+    }, 
+    {
+      "hash": "7bd4576de9b3d0714b6685b4605fcb6061421921", 
+      "version": "004", 
+      "pid": 34, 
+      "reboot": false
+    }, 
+    {
+      "pid": 35, 
+      "version": "004", 
+      "hash": "17a90f8e803f2c5af3f0b75cd5adf030d7c6f13e", 
+      "reboot": false
+    }, 
+    {
+      "hash": "f50063a4732f1f9562210c58601482e97c47ada2", 
+      "version": "004", 
+      "pid": 36, 
+      "reboot": false
+    }, 
+    {
+      "pid": 37, 
+      "version": "004", 
+      "hash": "ae1956ad9f9a2ca7144382839cfaa69dca50ed8c", 
+      "reboot": false
+    }, 
+    {
+      "hash": "7ab558942f1b42a5ddcf72c0ec9bb5debefd9440", 
+      "version": "004", 
+      "pid": 38, 
+      "reboot": false
+    }, 
+    {
+      "pid": 39, 
+      "version": "004", 
+      "hash": "1ebc7877ad52d9dd9565fbb6263688ddaaf0a066", 
+      "reboot": false
+    }, 
+    {
+      "hash": "d08a322795a435967e6211fef022f10df1766a91", 
+      "version": "004", 
+      "pid": 40, 
+      "reboot": false
+    }, 
+    {
+      "pid": 41, 
+      "version": "004", 
+      "hash": "590bd7552fd4e3eab62600a69d5a845bbb907944", 
+      "reboot": false
+    }, 
+    {
+      "hash": "9b5e8a30206c9a6e395945568317227980360092", 
+      "version": "004", 
+      "pid": 42, 
+      "reboot": false
+    }, 
+    {
+      "pid": 43, 
+      "version": "004", 
+      "hash": "6690239eb74afb9b42ef0676b8c25dfa2fdbfb7a", 
+      "reboot": false
+    }, 
+    {
+      "hash": "5e1364278ea06365ad963a046feb04615c8749ec", 
+      "version": "004", 
+      "pid": 44, 
+      "reboot": false
+    }, 
+    {
+      "pid": 45, 
+      "version": "004", 
+      "hash": "5f4f515cf6a1763d22a73fd021eb23db3a0145b2", 
+      "reboot": false
+    }, 
+    {
+      "hash": "28574c17efdd52f21355517044961f06b3e5df59", 
+      "version": "004", 
+      "pid": 46, 
+      "reboot": false
+    }, 
+    {
+      "pid": 47, 
+      "version": "004", 
+      "hash": "3386d31109073760d6d4c4605892ba9c56b26b0c", 
+      "reboot": false
+    }, 
+    {
+      "hash": "ec6208023bd0353a6bdb7d0c6ff09baa4ad73f08", 
+      "version": "004", 
+      "pid": 48, 
+      "reboot": false
+    }, 
+    {
+      "pid": 49, 
+      "version": "004", 
+      "hash": "b134fd015420ffe85eb4a43ef7bff432c465b4e0", 
+      "reboot": false
+    }, 
+    {
+      "hash": "8734fcc57003be88b0aae9b107b85b9d41d0296b", 
+      "version": "004", 
+      "pid": 50, 
+      "reboot": false
+    }, 
+    {
+      "pid": 51, 
+      "version": "004", 
+      "hash": "6550e991e91171ec43932fcb2341dde6e35b221d", 
+      "reboot": false
+    }, 
+    {
+      "hash": "5a6719ff2f27b206b93f87b2c1cd60a1333cdcd5", 
+      "version": "004", 
+      "pid": 52, 
+      "reboot": false
+    }, 
+    {
+      "pid": 53, 
+      "version": "004", 
+      "hash": "be6e55e1348dea7b21712e0589a6a0bad59da99f", 
+      "reboot": false
+    }, 
+    {
+      "hash": "0b4bd66d8480a252824ad7b1cff856616b9eb1b4", 
+      "version": "004", 
+      "pid": 54, 
+      "reboot": false
+    }, 
+    {
+      "pid": 55, 
+      "version": "004", 
+      "hash": "36b8beff661b45442374fed6672934ee0de7f73b", 
+      "reboot": false
+    }, 
+    {
+      "hash": "90cb3b33b4e7a070f8c646c8171e24734bf1a024", 
+      "version": "004", 
+      "pid": 56, 
+      "reboot": false
+    }, 
+    {
+      "pid": 57, 
+      "version": "004", 
+      "hash": "1ff3eb58e3f189caf57bdccda4627c39fa4b0d82", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2e1a496829456c492dd7f49d6148ac9df9265bc9", 
+      "version": "004", 
+      "pid": 58, 
+      "reboot": false
+    }, 
+    {
+      "pid": 59, 
+      "version": "004", 
+      "hash": "007e7f9ec5ab9890a12e29a1b23a0c7b921a1593", 
+      "reboot": false
+    }, 
+    {
+      "hash": "11ff3b40516f00886a7633d477512af386ce9245", 
+      "version": "004", 
+      "pid": 60, 
+      "reboot": false
+    }, 
+    {
+      "pid": 61, 
+      "version": "004", 
+      "hash": "cc80f2d28a0fca5a6cf20814c65ac1abe558c0d1", 
+      "reboot": false
+    }, 
+    {
+      "hash": "f518895f0027a7c435fa314f9fa29fd648dedde1", 
+      "version": "004", 
+      "pid": 62, 
+      "reboot": false
+    }, 
+    {
+      "pid": 63, 
+      "version": "004", 
+      "hash": "bcd7e72f2f793866834f3eae36fc00372cbf12ce", 
+      "reboot": false
+    }, 
+    {
+      "hash": "37b41eab7b1c5664e66e4ea77ab4b62b90116a46", 
+      "version": "004", 
+      "pid": 64, 
+      "reboot": false
+    }, 
+    {
+      "pid": 65, 
+      "version": "004", 
+      "hash": "d2cf3c6bd1136ececf291d6689e61573ba6929d9", 
+      "reboot": false
+    }, 
+    {
+      "hash": "cd785a697651b23786135137c93a19b9d0a1b335", 
+      "version": "004", 
+      "pid": 66, 
+      "reboot": false
+    }, 
+    {
+      "pid": 67, 
+      "version": "004", 
+      "hash": "bc01f1e08bb63d7de41b2b855232379ffabb6082", 
+      "reboot": false
+    }, 
+    {
+      "hash": "5ec597f85d03019dfbff4240a872ed2265d48512", 
+      "version": "004", 
+      "pid": 68, 
+      "reboot": false
+    }, 
+    {
+      "pid": 69, 
+      "version": "004", 
+      "hash": "8049efab84f7094fa8977752a88a3239608673a3", 
+      "reboot": false
+    }, 
+    {
+      "hash": "77391adcdb549e33038d98695aeaae47ef1dc697", 
+      "version": "004", 
+      "pid": 70, 
+      "reboot": false
+    }, 
+    {
+      "pid": 71, 
+      "version": "004", 
+      "hash": "74e4dd84fd046e06d0771436f7685347bfa3faca", 
+      "reboot": false
+    }, 
+    {
+      "hash": "012f5043661af4acf7054f8d7b4ba2b9e933c3a5", 
+      "version": "004", 
+      "pid": 72, 
+      "reboot": false
+    }, 
+    {
+      "pid": 73, 
+      "version": "004", 
+      "hash": "433c446f0146ee1d3f069f6332b3b3436508b741", 
+      "reboot": false
+    }, 
+    {
+      "hash": "16f4bd4df16835f47bfe2a0a87d204629515c02a", 
+      "version": "004", 
+      "pid": 74, 
+      "reboot": false
+    }, 
+    {
+      "pid": 75, 
+      "version": "004", 
+      "hash": "af14dbe2fb43ce6534e61f99ced1a5a710f12129", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2f7ade8ff610520d39a19e3a8793c87b98f5f4a5", 
+      "version": "004", 
+      "pid": 76, 
+      "reboot": false
+    }, 
+    {
+      "pid": 77, 
+      "version": "004", 
+      "hash": "648e30ea9d8d27659ae1972b44fab3fe3a2f84b8", 
+      "reboot": false
+    }, 
+    {
+      "hash": "8da8f32020710e9c0a253c7ccdb080a92b5be2a0", 
+      "version": "004", 
+      "pid": 78, 
+      "reboot": false
+    }, 
+    {
+      "pid": 79, 
+      "version": "004", 
+      "hash": "526dae828a7c02eff4dfff3d06ad9f1f6fb6174a", 
+      "reboot": false
+    }, 
+    {
+      "hash": "69adaa878cea22cd7e004c16fb34be7b734a790a", 
+      "version": "004", 
+      "pid": 80, 
+      "reboot": false
+    }, 
+    {
+      "pid": 81, 
+      "version": "004", 
+      "hash": "d47f8d15a7ba46f0a2763732955b6be209472ff5", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2976c755fde74dfc9018b902848117517ef3f656", 
+      "version": "004", 
+      "pid": 82, 
+      "reboot": false
+    }, 
+    {
+      "pid": 83, 
+      "version": "004", 
+      "hash": "efa1afaffa00731e66c35ba91c1434eefc92c474", 
+      "reboot": false
+    }, 
+    {
+      "hash": "5cb14d7af813a7f8490ddd7da1a606341323503f", 
+      "version": "004", 
+      "pid": 84, 
+      "reboot": false
+    }, 
+    {
+      "pid": 85, 
+      "version": "004", 
+      "hash": "71b1c373543b6dc33778f1f7f1efcdac733a5c34", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2354d19596c6902e501325acb2fc40a90f6d42b0", 
+      "version": "004", 
+      "pid": 86, 
+      "reboot": false
+    }, 
+    {
+      "pid": 87, 
+      "version": "004", 
+      "hash": "17b998ac6b75a8391edf97eb0ef998401e2c068a", 
+      "reboot": false
+    }, 
+    {
+      "hash": "08b00f4df3ffc2e337d1a2583d845adb1d7768d9", 
+      "version": "004", 
+      "pid": 88, 
+      "reboot": false
+    }, 
+    {
+      "pid": 89, 
+      "version": "004", 
+      "hash": "e5481cb0c1caadc2aea7aeeef625a194e9bfeea9", 
+      "reboot": false
+    }, 
+    {
+      "hash": "d9799742af35e963992b7cbcc8c5634fc2b17b35", 
+      "version": "004", 
+      "pid": 90, 
+      "reboot": false
+    }, 
+    {
+      "pid": 91, 
+      "version": "004", 
+      "hash": "02d43965cad4561bebe57b640fd822454586c16b", 
+      "reboot": false
+    }, 
+    {
+      "hash": "cc05c8daaf78bb9b65874d43a538e0545075fc18", 
+      "version": "004", 
+      "pid": 92, 
+      "reboot": false
+    }, 
+    {
+      "pid": 93, 
+      "version": "004", 
+      "hash": "2c15df82e6eaa90492ea696bdaeebdf1df3318db", 
+      "reboot": false
+    }, 
+    {
+      "hash": "a02beff5848bfbb9f5babe024058a62c34146461", 
+      "version": "004", 
+      "pid": 94, 
+      "reboot": false
+    }, 
+    {
+      "pid": 95, 
+      "version": "004", 
+      "hash": "9d2457b5d448fe7fb00f11504ebfc1f77ff11f61", 
+      "reboot": false
+    }, 
+    {
+      "hash": "55ed09ddf349dcb413a63eac91f59a7f5b78d5f3", 
+      "version": "004", 
+      "pid": 96, 
+      "reboot": false
+    }, 
+    {
+      "pid": 97, 
+      "version": "004", 
+      "hash": "d667e33b61ad8b2a7e0bb0229fef0a2be0ea06d0", 
+      "reboot": false
+    }, 
+    {
+      "hash": "7c1ef7b279cc16b575658b4180ba9e7809cfb1e0", 
+      "version": "004", 
+      "pid": 98, 
+      "reboot": false
+    }, 
+    {
+      "pid": 99, 
+      "version": "004", 
+      "hash": "a982f769225b9429fbaa8d0c1de70f03a89bd3bd", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2379684c042036af856a645434c5447a61349b3b", 
+      "version": "004", 
+      "pid": 100, 
+      "reboot": false
+    }, 
+    {
+      "pid": 101, 
+      "version": "004", 
+      "hash": "a84d27a60e78ca5ad248b051baf4a61a2ba99fdc", 
+      "reboot": false
+    }, 
+    {
+      "hash": "8bc04d903f2125b3ee0b6432511d4ed7f7326c0c", 
+      "version": "004", 
+      "pid": 102, 
+      "reboot": false
+    }, 
+    {
+      "pid": 103, 
+      "version": "004", 
+      "hash": "e86d99e222ce1a6c2cd31e9f7797c103fffd4ffb", 
+      "reboot": false
+    }, 
+    {
+      "hash": "5737e27e78921b0fba6c6522c7c47da16370c539", 
+      "version": "004", 
+      "pid": 104, 
+      "reboot": false
+    }, 
+    {
+      "pid": 105, 
+      "version": "004", 
+      "hash": "2b2f6ca9912c211c9db3c4de16659791a1d21b98", 
+      "reboot": false
+    }, 
+    {
+      "hash": "93f2fb339805ec6bece5dd15738c65fd6b1bc221", 
+      "version": "004", 
+      "pid": 106, 
+      "reboot": false
+    }, 
+    {
+      "pid": 107, 
+      "version": "004", 
+      "hash": "c7c8b2d9c3df7302ad298394b11ef17f93bff5b2", 
+      "reboot": false
+    }, 
+    {
+      "hash": "3f93b5f0fd6beb70b2793725d2b03a2cc799d489", 
+      "version": "004", 
+      "pid": 108, 
+      "reboot": false
+    }, 
+    {
+      "pid": 109, 
+      "version": "004", 
+      "hash": "29bf396cfc9f14685199607bed65108dc92abc05", 
+      "reboot": false
+    }, 
+    {
+      "hash": "89dbec49bea899f80ec877b025ddb0a8e0bfee94", 
+      "version": "004", 
+      "pid": 110, 
+      "reboot": false
+    }, 
+    {
+      "pid": 111, 
+      "version": "004", 
+      "hash": "6a002707989ffa9db2f88df5c95468ce563389bd", 
+      "reboot": false
+    }, 
+    {
+      "hash": "3ce05932d467bc14d22d90b0742a36931ae1e928", 
+      "version": "004", 
+      "pid": 112, 
+      "reboot": false
+    }, 
+    {
+      "pid": 113, 
+      "version": "004", 
+      "hash": "19777ed8aab52f9b67bcf91dbca3ad935f05335c", 
+      "reboot": false
+    }, 
+    {
+      "hash": "d1584d23679dbb2478eee602b42e052dfeefe820", 
+      "version": "004", 
+      "pid": 114, 
+      "reboot": false
+    }, 
+    {
+      "pid": 115, 
+      "version": "004", 
+      "hash": "711613c30398fbf1def9fa3acd5f2bf39ba4f5d0", 
+      "reboot": false
+    }, 
+    {
+      "hash": "2737776f7ecbb02ce7abd283758f08fe4f2d37fb", 
+      "version": "004", 
+      "pid": 116, 
+      "reboot": false
+    }, 
+    {
+      "pid": 117, 
+      "version": "004", 
+      "hash": "b37a00c2a124ef478c5f9520a27d73c9c82c73b9", 
+      "reboot": false
+    }, 
+    {
+      "hash": "57080dbbf2839fe2862cc08d9f78e82b51858a20", 
+      "version": "004", 
+      "pid": 118, 
+      "reboot": false
+    }, 
+    {
+      "pid": 119, 
+      "version": "004", 
+      "hash": "4c2a0fc6d183cb286651a9c50f997d34957a7b9f", 
+      "reboot": false
+    }, 
+    {
+      "hash": "ed2bbc4a56a92d01789828eed806ea0480e09044", 
+      "version": "004", 
+      "pid": 120, 
+      "reboot": false
+    }, 
+    {
+      "pid": 121, 
+      "version": "004", 
+      "hash": "87ba9d509d153eb23f6ca0390f590c6e808abfa0", 
+      "reboot": false
+    }, 
+    {
+      "hash": "7d9c26ea4c513173552bfef7d66444bb60144d16", 
+      "version": "004", 
+      "pid": 122, 
+      "reboot": false
+    }, 
+    {
+      "pid": 123, 
+      "version": "004", 
+      "hash": "3c1fdb49e73b9242e7126989639451629c9a498c", 
+      "reboot": false
+    }, 
+    {
+      "hash": "9f4a91d2958ca635766280f9532b311c07f438ae", 
+      "version": "004", 
+      "pid": 124, 
+      "reboot": false
+    }, 
+    {
+      "pid": 125, 
+      "version": "004", 
+      "hash": "0bbfc0388bd4a239ac3dc025dee2281152b86f01", 
+      "reboot": false
+    }, 
+    {
+      "hash": "da4b5db99e19bfd60cfa83a609b01d2443d96c0b", 
+      "version": "004", 
+      "pid": 126, 
+      "reboot": false
+    }, 
+    {
+      "pid": 127, 
+      "version": "004", 
+      "hash": "087d2457e03519e2eaec6956fdd8c6ebb0a38f8a", 
+      "reboot": false
+    }, 
+    {
+      "hash": "ef524161f39da41ea47a7073920114f3883f11e5", 
+      "version": "004", 
+      "pid": 128, 
+      "reboot": false
+    }, 
+    {
+      "pid": 129, 
+      "version": "004", 
+      "hash": "3ee3fb83628fc92ec86f3e2ff9fb2604f7ac2665", 
+      "reboot": false
+    }, 
+    {
+      "hash": "17a27e539ae6639e30d738c4db517a57b411a265", 
+      "version": "004", 
+      "pid": 130, 
+      "reboot": false
+    }
+  ], 
+  "CONF": {
+    "CONFIG_VERSION": "", 
+    "LOGIN_NOTICE_URL": null, 
+    "PUBLISH_CHANNEL": "v1_android_release_publish1", 
+    "LOGO_TEXTURES": [
+      "2d/ui/loading/logo_ultralisk.jpg"
+    ], 
+    "B_SKIP_PAYMENT": false, 
+    "B_REVIEW_MODE": false, 
+    "GATE_SERVER_HOST": null, 
+    "PATCH_FILTER": {}, 
+    "B_BUILD_ANDROID_STUDIO_PROJECT": true, 
+    "B_DISABLE_DEVTEST_BUTTON": true, 
+    "AFTER_MAKE_RELEASE_TASKS": []
+  }, 
+  "B_ID": 0, 
+  "PATCH_INFO_FILENAME": "patch_info.json", 
+  "APP": "game168", 
+  "P_ID": 130, 
+  "HOST_CDN": "h005up.ultralisk.cn", 
+  "HOST": "h005.ultralisk.cn:4022", 
+  "VERSION": "004", 
+  "PATCH_PATH": "cc_patch", 
+  "GIT_HASH": "17a27e539ae6639e30d738c4db517a57b411a265", 
+  "CHANNEL": "v1_android_release_publish1"
+}

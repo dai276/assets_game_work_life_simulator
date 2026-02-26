@@ -1,0 +1,34 @@
+
+tuiche.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/che
+  rotate: false
+  xy: 2, 36
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+normal/gulu
+  rotate: false
+  xy: 119, 97
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+normal/gulu01
+  rotate: false
+  xy: 119, 97
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+normal/yingzi
+  rotate: false
+  xy: 2, 2
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1

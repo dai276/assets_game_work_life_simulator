@@ -1,0 +1,153 @@
+
+npc_24.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/loudou-dai
+  rotate: false
+  xy: 36, 5
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+normal/loudou01
+  rotate: true
+  xy: 374, 92
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+normal/loudou02
+  rotate: false
+  xy: 109, 66
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+normal/phc-bz
+  rotate: false
+  xy: 312, 103
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+normal/phc-lun01
+  rotate: false
+  xy: 218, 81
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+normal/phc-lun02
+  rotate: false
+  xy: 265, 81
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+normal/phc-yz
+  rotate: false
+  xy: 2, 32
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+normal/shenti_24
+  rotate: false
+  xy: 170, 80
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+normal/tou_24
+  rotate: false
+  xy: 2, 57
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+normal/tuiche-cs01
+  rotate: false
+  xy: 75, 100
+  size: 93, 26
+  orig: 93, 26
+  offset: 0, 0
+  index: -1
+normal/tuiche-cs02
+  rotate: false
+  xy: 75, 80
+  size: 93, 18
+  orig: 93, 18
+  offset: 0, 0
+  index: -1
+normal/tuiche-lun01
+  rotate: false
+  xy: 415, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+normal/tuiche-lun02
+  rotate: false
+  xy: 456, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+normal/wuguan_24
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+normal/youdatui_24
+  rotate: false
+  xy: 75, 57
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+normal/youjiao_24
+  rotate: false
+  xy: 74, 35
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+normal/youshou_24
+  rotate: false
+  xy: 90, 61
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: true
+  xy: 497, 77
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zuodatui_24
+  rotate: true
+  xy: 312, 86
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+normal/zuojiao_24
+  rotate: true
+  xy: 335, 88
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+normal/zuoshou_24
+  rotate: false
+  xy: 90, 42
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1

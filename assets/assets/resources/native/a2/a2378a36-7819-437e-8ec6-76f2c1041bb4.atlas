@@ -1,0 +1,97 @@
+
+suishi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/1
+  rotate: false
+  xy: 96, 22
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+normal/10
+  rotate: true
+  xy: 322, 63
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+normal/11
+  rotate: false
+  xy: 224, 55
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+normal/12
+  rotate: false
+  xy: 337, 16
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+normal/13
+  rotate: false
+  xy: 2, 48
+  size: 119, 78
+  orig: 119, 78
+  offset: 0, 0
+  index: -1
+normal/2
+  rotate: false
+  xy: 406, 71
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+normal/3
+  rotate: false
+  xy: 224, 2
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+normal/4
+  rotate: false
+  xy: 290, 2
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+normal/5
+  rotate: false
+  xy: 123, 48
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+normal/6
+  rotate: false
+  xy: 57, 16
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+normal/7
+  rotate: true
+  xy: 471, 79
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+normal/8
+  rotate: false
+  xy: 125, 24
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+normal/9
+  rotate: false
+  xy: 2, 6
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1

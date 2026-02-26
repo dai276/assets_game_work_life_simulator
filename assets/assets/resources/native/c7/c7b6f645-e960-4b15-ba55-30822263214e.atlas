@@ -1,0 +1,27 @@
+
+jingyou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/jingyou
+  rotate: false
+  xy: 2, 2
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+normal/jingyou2
+  rotate: true
+  xy: 318, 61
+  size: 155, 191
+  orig: 155, 191
+  offset: 0, 0
+  index: -1
+normal/pingzi
+  rotate: false
+  xy: 2, 84
+  size: 314, 132
+  orig: 314, 132
+  offset: 0, 0
+  index: -1

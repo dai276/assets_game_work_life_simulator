@@ -1,0 +1,41 @@
+
+leida.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/1
+  rotate: false
+  xy: 50, 25
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+normal/2
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+normal/3
+  rotate: false
+  xy: 64, 97
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+normal/4
+  rotate: false
+  xy: 2, 20
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+normal/5
+  rotate: false
+  xy: 2, 67
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1

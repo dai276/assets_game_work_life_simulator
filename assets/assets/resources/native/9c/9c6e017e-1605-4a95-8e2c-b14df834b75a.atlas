@@ -1,0 +1,13 @@
+
+saw.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/saw
+  rotate: false
+  xy: 2, 2
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+danke.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/dan_01
+  rotate: false
+  xy: 2, 16
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+normal/dan_02
+  rotate: false
+  xy: 2, 84
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+normal/jidanke01
+  rotate: false
+  xy: 2, 50
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+normal/jidanke02
+  rotate: false
+  xy: 63, 92
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+normal/jidanke03
+  rotate: false
+  xy: 104, 94
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

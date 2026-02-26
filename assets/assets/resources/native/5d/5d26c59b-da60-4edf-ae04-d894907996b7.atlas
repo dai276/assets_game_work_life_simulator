@@ -1,0 +1,76 @@
+
+npc_14.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/shenti
+  rotate: false
+  xy: 61, 18
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+normal/shouji
+  rotate: false
+  xy: 104, 31
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+normal/ydt
+  rotate: true
+  xy: 61, 4
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+normal/yjiao
+  rotate: false
+  xy: 129, 32
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+normal/youshou
+  rotate: false
+  xy: 82, 4
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 104, 49
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/zdt
+  rotate: true
+  xy: 155, 50
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+normal/zjiao
+  rotate: true
+  xy: 104, 18
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+normal/zuoshou
+  rotate: false
+  xy: 176, 50
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1

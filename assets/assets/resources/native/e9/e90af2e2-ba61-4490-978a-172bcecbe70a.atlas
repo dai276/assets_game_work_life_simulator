@@ -1,0 +1,55 @@
+
+npc_33.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/33shenti
+  rotate: true
+  xy: 73, 2
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+normal/33tou
+  rotate: true
+  xy: 2, 3
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+normal/33yjiao
+  rotate: false
+  xy: 133, 8
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+normal/33youshou
+  rotate: false
+  xy: 148, 26
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+normal/33zjiao
+  rotate: true
+  xy: 184, 44
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+normal/33zuoshou
+  rotate: false
+  xy: 148, 8
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 133, 44
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1

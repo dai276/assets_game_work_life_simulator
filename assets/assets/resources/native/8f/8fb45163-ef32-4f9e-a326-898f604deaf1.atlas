@@ -1,0 +1,83 @@
+
+npc_42.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/shangbanshen
+  rotate: false
+  xy: 122, 10
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: true
+  xy: 2, 4
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+normal/toufa
+  rotate: false
+  xy: 66, 10
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+normal/wuguan
+  rotate: true
+  xy: 149, 16
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+normal/y_datui
+  rotate: false
+  xy: 212, 41
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+normal/y_shou
+  rotate: false
+  xy: 229, 47
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+normal/y_xiaotui
+  rotate: false
+  xy: 194, 39
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 122, 49
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+normal/z_datui
+  rotate: true
+  xy: 149, 2
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+normal/z_shou
+  rotate: false
+  xy: 171, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+normal/z_xiaotui
+  rotate: false
+  xy: 177, 30
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

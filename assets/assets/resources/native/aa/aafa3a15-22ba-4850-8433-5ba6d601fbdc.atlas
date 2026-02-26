@@ -1,0 +1,118 @@
+
+anmoshou_black.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/dmz_01
+  rotate: false
+  xy: 379, 287
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+normal/dmz_02
+  rotate: false
+  xy: 219, 19
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+normal/et_flare01
+  rotate: false
+  xy: 2, 155
+  size: 375, 342
+  orig: 375, 342
+  offset: 0, 0
+  index: -1
+normal/shouzhang
+  rotate: false
+  xy: 2, 2
+  size: 215, 151
+  orig: 215, 151
+  offset: 0, 0
+  index: -1
+normal/sz_01
+  rotate: false
+  xy: 290, 33
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+normal/sz_02
+  rotate: false
+  xy: 379, 233
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+normal/sz_03
+  rotate: false
+  xy: 379, 397
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+normal/wmz_01
+  rotate: false
+  xy: 379, 334
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+normal/wmz_02
+  rotate: true
+  xy: 468, 436
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+normal/wmz_03
+  rotate: true
+  xy: 468, 388
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+normal/xmz_01
+  rotate: false
+  xy: 307, 101
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+normal/xmz_02
+  rotate: true
+  xy: 344, 46
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+normal/xmz_03
+  rotate: false
+  xy: 379, 138
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+normal/zs_01
+  rotate: false
+  xy: 219, 88
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+normal/zs_02
+  rotate: true
+  xy: 379, 169
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+normal/zs_03
+  rotate: true
+  xy: 461, 338
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1

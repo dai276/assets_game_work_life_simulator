@@ -1,0 +1,27 @@
+
+bz_dsb.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/baozi_dousha
+  rotate: false
+  xy: 2, 105
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+normal/baozi_gai
+  rotate: false
+  xy: 95, 118
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+normal/baozi_long
+  rotate: true
+  xy: 2, 11
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1

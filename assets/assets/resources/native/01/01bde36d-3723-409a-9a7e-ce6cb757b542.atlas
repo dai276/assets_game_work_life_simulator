@@ -1,0 +1,76 @@
+
+jiqi02.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/1
+  rotate: false
+  xy: 368, 91
+  size: 80, 35
+  orig: 80, 35
+  offset: 0, 0
+  index: -1
+normal/duihao
+  rotate: false
+  xy: 368, 11
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+normal/duihao02
+  rotate: false
+  xy: 368, 33
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+normal/guan
+  rotate: false
+  xy: 420, 54
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+normal/jiu02
+  rotate: true
+  xy: 2, 10
+  size: 116, 181
+  orig: 116, 181
+  offset: 0, 0
+  index: -1
+normal/kai
+  rotate: false
+  xy: 450, 91
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+normal/sao
+  rotate: true
+  xy: 368, 2
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+normal/tuoyuan
+  rotate: false
+  xy: 450, 104
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+normal/xin02
+  rotate: true
+  xy: 185, 10
+  size: 116, 181
+  orig: 116, 181
+  offset: 0, 0
+  index: -1
+normal/yuanjiao
+  rotate: false
+  xy: 368, 61
+  size: 81, 28
+  orig: 81, 28
+  offset: 0, 0
+  index: -1

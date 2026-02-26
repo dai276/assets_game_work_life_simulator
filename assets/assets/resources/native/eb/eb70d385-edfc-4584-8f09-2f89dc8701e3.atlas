@@ -1,0 +1,41 @@
+
+mianbaoche.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/lt01
+  rotate: false
+  xy: 268, 47
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+normal/lt02
+  rotate: false
+  xy: 268, 3
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+normal/mbc
+  rotate: false
+  xy: 2, 2
+  size: 264, 113
+  orig: 264, 113
+  offset: 0, 0
+  index: -1
+normal/weiqi
+  rotate: false
+  xy: 313, 62
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: false
+  xy: 268, 91
+  size: 264, 24
+  orig: 264, 24
+  offset: 0, 0
+  index: -1

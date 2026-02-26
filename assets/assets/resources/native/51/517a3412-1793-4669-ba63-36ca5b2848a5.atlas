@@ -1,0 +1,62 @@
+
+npc_31.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/nv_shenti
+  rotate: false
+  xy: 2, 9
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+normal/nv_tou
+  rotate: false
+  xy: 2, 53
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+normal/nv_toufa
+  rotate: true
+  xy: 66, 63
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+normal/nv_yjiao
+  rotate: false
+  xy: 55, 22
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+normal/nv_youshuo
+  rotate: false
+  xy: 80, 44
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+normal/nv_zjiao
+  rotate: false
+  xy: 68, 32
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+normal/nv_zuoshou
+  rotate: false
+  xy: 98, 44
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+normal/yz
+  rotate: true
+  xy: 40, 2
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+bingpi_xia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/bancp_03
+  rotate: true
+  xy: 2, 161
+  size: 173, 68
+  orig: 173, 68
+  offset: 0, 0
+  index: -1
+normal/bancp_04
+  rotate: false
+  xy: 166, 397
+  size: 153, 53
+  orig: 153, 53
+  offset: 0, 0
+  index: -1
+normal/bancp_05
+  rotate: true
+  xy: 2, 2
+  size: 157, 42
+  orig: 157, 42
+  offset: 0, 0
+  index: -1
+normal/chengpin_x
+  rotate: true
+  xy: 72, 231
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+normal/pugai_jianbing
+  rotate: false
+  xy: 2, 336
+  size: 162, 114
+  orig: 162, 114
+  offset: 0, 0
+  index: -1

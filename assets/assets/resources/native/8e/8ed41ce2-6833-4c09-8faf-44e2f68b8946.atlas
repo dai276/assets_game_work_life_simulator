@@ -1,0 +1,83 @@
+
+npc_47.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/kua
+  rotate: false
+  xy: 150, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+normal/mojing
+  rotate: false
+  xy: 70, 2
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 70, 19
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: true
+  xy: 2, 9
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+normal/wuguan
+  rotate: false
+  xy: 114, 30
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: false
+  xy: 211, 47
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+normal/youshou
+  rotate: true
+  xy: 150, 25
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: false
+  xy: 181, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: true
+  xy: 227, 49
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+normal/zuoshou
+  rotate: false
+  xy: 165, 24
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: false
+  xy: 196, 41
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
