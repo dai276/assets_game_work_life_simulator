@@ -1,1 +1,27 @@
-{"__type__":"cc.SpriteFrame","content":{"name":"账单","texture":"fdwTFLduhAcb6X58XffLVZ","rect":[0,0,1280,768],"offset":[0,0],"originalSize":[1280,768],"capInsets":[0,0,0,0]}}
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hóa đơn",
+    "texture": "fdwTFLduhAcb6X58XffLVZ",
+    "rect": [
+      0,
+      0,
+      1280,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

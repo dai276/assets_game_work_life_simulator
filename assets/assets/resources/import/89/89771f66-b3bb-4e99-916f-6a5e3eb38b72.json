@@ -1,1 +1,27 @@
-{"__type__":"cc.SpriteFrame","content":{"name":"基金-收益明细","texture":"cdBTdOuohE9I50hz0lsWv3","rect":[0,0,1280,768],"offset":[0,0],"originalSize":[1280,768],"capInsets":[0,0,0,0]}}
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chi tiết thu nhập quỹ",
+    "texture": "cdBTdOuohE9I50hz0lsWv3",
+    "rect": [
+      0,
+      0,
+      1280,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

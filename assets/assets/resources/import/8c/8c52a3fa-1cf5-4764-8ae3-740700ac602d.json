@@ -1,1 +1,178 @@
-{"__type__":"cc.EffectAsset","_name":"sprite-flash-light-texture","techniques":[{"passes":[{"blendState":{"targets":[{"blend":true}]},"rasterizerState":{"cullMode":0},"properties":{"texture":{"value":"white","type":29},"flashTexture":{"value":"white","type":29},"alphaThreshold":{"value":[0.5],"type":13},"mainTiling":{"value":[1,1],"editor":{"tooltip":"平铺"},"type":14},"mainOffset":{"value":[0,0],"editor":{"tooltip":"偏移"},"type":14}},"program":"sprite-flash-light-texture|vs|fs"}]}],"shaders":[{"hash":2478876114,"glsl3":{"vert":"\nprecision highp float;\nuniform CCGlobal {\n  mat4 cc_matView;\n  mat4 cc_matViewInv;\n  mat4 cc_matProj;\n  mat4 cc_matProjInv;\n  mat4 cc_matViewProj;\n  mat4 cc_matViewProjInv;\n  vec4 cc_cameraPos;\n  vec4 cc_time;\n  mediump vec4 cc_screenSize;\n  mediump vec4 cc_screenScale;\n};\nuniform CCLocal {\n  mat4 cc_matWorld;\n  mat4 cc_matWorldIT;\n};\nin vec3 a_position;\nin vec4 a_color;\nout vec4 v_color;\n#if USE_TEXTURE\nin vec2 a_uv0;\nout vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}","frag":"\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform ALPHA_TEST {\n    float alphaThreshold;\n  };\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nin vec4 v_color;\n#if USE_TEXTURE\nin vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if ENABLE_LIGHT\nuniform sampler2D flashTexture;\nuniform Light {\n  vec2 mainTiling;\n  vec2 mainOffset;\n};\n#endif\nvoid main () {\n  vec4 o = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n    o *= texture(texture, v_uv0);\n    #if CC_USE_ALPHA_ATLAS_TEXTURE\n    o.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n  o *= v_color;\n  ALPHA_TEST(o);\n  #if ENABLE_LIGHT\n    vec2 uv = v_uv0.xy * mainTiling.xy;\n    uv.x += mainOffset.x;\n    uv.y += mainOffset.y;\n    uv.x = mod(uv.x, 1.0);\n    uv.y = mod(uv.y, 1.0);\n    vec4 color = texture2D(flashTexture, uv);\n    color.a = o.a;\n    gl_FragColor = color;\n  #else\n    gl_FragColor = o;\n  #endif\n}"},"glsl1":{"vert":"\nprecision highp float;\nuniform mat4 cc_matViewProj;\nuniform mat4 cc_matWorld;\nattribute vec3 a_position;\nattribute vec4 a_color;\nvarying vec4 v_color;\n#if USE_TEXTURE\nattribute vec2 a_uv0;\nvarying vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}","frag":"\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform float alphaThreshold;\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nvarying vec4 v_color;\n#if USE_TEXTURE\nvarying vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if ENABLE_LIGHT\nuniform sampler2D flashTexture;\nuniform vec2 mainTiling;\nuniform vec2 mainOffset;\n#endif\nvoid main () {\n  vec4 o = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n    o *= texture2D(texture, v_uv0);\n    #if CC_USE_ALPHA_ATLAS_TEXTURE\n    o.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n  o *= v_color;\n  ALPHA_TEST(o);\n  #if ENABLE_LIGHT\n    vec2 uv = v_uv0.xy * mainTiling.xy;\n    uv.x += mainOffset.x;\n    uv.y += mainOffset.y;\n    uv.x = mod(uv.x, 1.0);\n    uv.y = mod(uv.y, 1.0);\n    vec4 color = texture2D(flashTexture, uv);\n    color.a = o.a;\n    gl_FragColor = color;\n  #else\n    gl_FragColor = o;\n  #endif\n}"},"builtins":{"globals":{"blocks":[{"name":"CCGlobal","defines":[]}],"samplers":[]},"locals":{"blocks":[{"name":"CCLocal","defines":[]}],"samplers":[]}},"defines":[{"name":"USE_TEXTURE","type":"boolean","defines":[]},{"name":"CC_USE_MODEL","type":"boolean","defines":[]},{"name":"USE_ALPHA_TEST","type":"boolean","defines":[]},{"name":"ENABLE_LIGHT","type":"boolean","defines":[]},{"name":"CC_USE_ALPHA_ATLAS_TEXTURE","type":"boolean","defines":["USE_TEXTURE"]}],"blocks":[{"name":"ALPHA_TEST","members":[{"name":"alphaThreshold","type":13,"count":1}],"defines":["USE_ALPHA_TEST"],"binding":0},{"name":"Light","members":[{"name":"mainTiling","type":14,"count":1},{"name":"mainOffset","type":14,"count":1}],"defines":["ENABLE_LIGHT"],"binding":1}],"samplers":[{"name":"texture","type":29,"count":1,"defines":["USE_TEXTURE"],"binding":30},{"name":"flashTexture","type":29,"count":1,"defines":["ENABLE_LIGHT"],"binding":31}],"record":null,"name":"sprite-flash-light-texture|vs|fs"}]}
+{
+  "__type__": "cc.EffectAsset",
+  "_name": "sprite-flash-light-texture",
+  "techniques": [
+    {
+      "passes": [
+        {
+          "blendState": {
+            "targets": [
+              {
+                "blend": true
+              }
+            ]
+          },
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "properties": {
+            "texture": {
+              "value": "white",
+              "type": 29
+            },
+            "flashTexture": {
+              "value": "white",
+              "type": 29
+            },
+            "alphaThreshold": {
+              "value": [
+                0.5
+              ],
+              "type": 13
+            },
+            "mainTiling": {
+              "value": [
+                1,
+                1
+              ],
+              "editor": {
+                "tooltip": "Ngói"
+              },
+              "type": 14
+            },
+            "mainOffset": {
+              "value": [
+                0,
+                0
+              ],
+              "editor": {
+                "tooltip": "bù lại"
+              },
+              "type": 14
+            }
+          },
+          "program": "sprite-flash-light-texture|vs|fs"
+        }
+      ]
+    }
+  ],
+  "shaders": [
+    {
+      "hash": 2478876114,
+      "glsl3": {
+        "vert": "\nprecision highp float;\nuniform CCGlobal {\n  mat4 cc_matView;\n  mat4 cc_matViewInv;\n  mat4 cc_matProj;\n  mat4 cc_matProjInv;\n  mat4 cc_matViewProj;\n  mat4 cc_matViewProjInv;\n  vec4 cc_cameraPos;\n  vec4 cc_time;\n  mediump vec4 cc_screenSize;\n  mediump vec4 cc_screenScale;\n};\nuniform CCLocal {\n  mat4 cc_matWorld;\n  mat4 cc_matWorldIT;\n};\nin vec3 a_position;\nin vec4 a_color;\nout vec4 v_color;\n#if USE_TEXTURE\nin vec2 a_uv0;\nout vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}",
+        "frag": "\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform ALPHA_TEST {\n    float alphaThreshold;\n  };\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nin vec4 v_color;\n#if USE_TEXTURE\nin vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if ENABLE_LIGHT\nuniform sampler2D flashTexture;\nuniform Light {\n  vec2 mainTiling;\n  vec2 mainOffset;\n};\n#endif\nvoid main () {\n  vec4 o = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n    o *= texture(texture, v_uv0);\n    #if CC_USE_ALPHA_ATLAS_TEXTURE\n    o.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n  o *= v_color;\n  ALPHA_TEST(o);\n  #if ENABLE_LIGHT\n    vec2 uv = v_uv0.xy * mainTiling.xy;\n    uv.x += mainOffset.x;\n    uv.y += mainOffset.y;\n    uv.x = mod(uv.x, 1.0);\n    uv.y = mod(uv.y, 1.0);\n    vec4 color = texture2D(flashTexture, uv);\n    color.a = o.a;\n    gl_FragColor = color;\n  #else\n    gl_FragColor = o;\n  #endif\n}"
+      },
+      "glsl1": {
+        "vert": "\nprecision highp float;\nuniform mat4 cc_matViewProj;\nuniform mat4 cc_matWorld;\nattribute vec3 a_position;\nattribute vec4 a_color;\nvarying vec4 v_color;\n#if USE_TEXTURE\nattribute vec2 a_uv0;\nvarying vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}",
+        "frag": "\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform float alphaThreshold;\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nvarying vec4 v_color;\n#if USE_TEXTURE\nvarying vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if ENABLE_LIGHT\nuniform sampler2D flashTexture;\nuniform vec2 mainTiling;\nuniform vec2 mainOffset;\n#endif\nvoid main () {\n  vec4 o = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n    o *= texture2D(texture, v_uv0);\n    #if CC_USE_ALPHA_ATLAS_TEXTURE\n    o.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n  o *= v_color;\n  ALPHA_TEST(o);\n  #if ENABLE_LIGHT\n    vec2 uv = v_uv0.xy * mainTiling.xy;\n    uv.x += mainOffset.x;\n    uv.y += mainOffset.y;\n    uv.x = mod(uv.x, 1.0);\n    uv.y = mod(uv.y, 1.0);\n    vec4 color = texture2D(flashTexture, uv);\n    color.a = o.a;\n    gl_FragColor = color;\n  #else\n    gl_FragColor = o;\n  #endif\n}"
+      },
+      "builtins": {
+        "globals": {
+          "blocks": [
+            {
+              "name": "CCGlobal",
+              "defines": []
+            }
+          ],
+          "samplers": []
+        },
+        "locals": {
+          "blocks": [
+            {
+              "name": "CCLocal",
+              "defines": []
+            }
+          ],
+          "samplers": []
+        }
+      },
+      "defines": [
+        {
+          "name": "USE_TEXTURE",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "CC_USE_MODEL",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_ALPHA_TEST",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "ENABLE_LIGHT",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "CC_USE_ALPHA_ATLAS_TEXTURE",
+          "type": "boolean",
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "name": "ALPHA_TEST",
+          "members": [
+            {
+              "name": "alphaThreshold",
+              "type": 13,
+              "count": 1
+            }
+          ],
+          "defines": [
+            "USE_ALPHA_TEST"
+          ],
+          "binding": 0
+        },
+        {
+          "name": "Light",
+          "members": [
+            {
+              "name": "mainTiling",
+              "type": 14,
+              "count": 1
+            },
+            {
+              "name": "mainOffset",
+              "type": 14,
+              "count": 1
+            }
+          ],
+          "defines": [
+            "ENABLE_LIGHT"
+          ],
+          "binding": 1
+        }
+      ],
+      "samplers": [
+        {
+          "name": "texture",
+          "type": 29,
+          "count": 1,
+          "defines": [
+            "USE_TEXTURE"
+          ],
+          "binding": 30
+        },
+        {
+          "name": "flashTexture",
+          "type": 29,
+          "count": 1,
+          "defines": [
+            "ENABLE_LIGHT"
+          ],
+          "binding": 31
+        }
+      ],
+      "record": null,
+      "name": "sprite-flash-light-texture|vs|fs"
+    }
+  ]
+}

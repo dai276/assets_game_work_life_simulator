@@ -1,1 +1,225 @@
-[{"__type__":"cc.Prefab","_name":"vHaircutPaperDialog","data":{"__id__":1}},{"__type__":"cc.Node","_name":"layout","_children":[{"__id__":2},{"__id__":4}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"3cLGqz1LlPAoOn1MqkQSrd"},"fileId":"00V1MuvRFHWrUMRaYdz54+"},"_trs":{"__type__":"TypedArray","ctor":"Float64Array","array":[0,0,0,0,0,0,1,1,1,1]}},{"__type__":"cc.Node","_name":"bg","_parent":{"__id__":1},"_children":[{"__id__":3}],"_components":[{"__type__":"cc.Sprite","node":{"__id__":2},"_materials":[{"__uuid__":"ecpdLyjvZBwrvm+cedCcQy"}],"_spriteFrame":{"__uuid__":"83jBuWrOBAJqOUOSz5cil8"}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"3cLGqz1LlPAoOn1MqkQSrd"},"fileId":"4eyLXhxe9Io7isGkdTTx8o"},"_contentSize":{"__type__":"cc.Size","width":306,"height":269},"_trs":{"__type__":"TypedArray","ctor":"Float64Array","array":[0,0,0,0,0,0,1,1,1,1]}},{"__type__":"cc.Node","_name":"CC_labelContent","_parent":{"__id__":2},"_components":[{"__type__":"cc.Label","node":{"__id__":3},"_materials":[{"__uuid__":"ecpdLyjvZBwrvm+cedCcQy"}],"_useOriginalSize":false,"_string":"文字文字文字文字文字文文字文字文字文字文字文文字文字文字文字文字文","_N$string":"文字文字文字文字文字文文字文字文字文字文字文文字文字文字文字文字文","_fontSize":20,"_lineHeight":22,"_N$horizontalAlign":1,"_N$verticalAlign":1,"_N$overflow":3}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"3cLGqz1LlPAoOn1MqkQSrd"},"fileId":"d9WUecqVZKBJuqYp7kP7UE"},"_color":{"__type__":"cc.Color","r":29,"g":29,"b":29},"_contentSize":{"__type__":"cc.Size","width":220,"height":71.72},"_trs":{"__type__":"TypedArray","ctor":"Float64Array","array":[0,0,0,0,0,0,1,1,1,1]}},{"__type__":"cc.Node","_name":"CC_buttonClose","_parent":{"__id__":1},"_components":[{"__type__":"cc.Sprite","node":{"__id__":4},"_materials":[{"__uuid__":"ecpdLyjvZBwrvm+cedCcQy"}],"_spriteFrame":{"__uuid__":"43YIJdkAFKKaB/2b/WDNcH"}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"3cLGqz1LlPAoOn1MqkQSrd"},"fileId":"e8xl9I9+NP97MRVwGQAl34"},"_contentSize":{"__type__":"cc.Size","width":55,"height":53},"_trs":{"__type__":"TypedArray","ctor":"Float64Array","array":[216,135,0,0,0,0,1,1,1,1]}}]
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "vHaircutPaperDialog",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "layout",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3cLGqz1LlPAoOn1MqkQSrd"
+      },
+      "fileId": "00V1MuvRFHWrUMRaYdz54+"
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "83jBuWrOBAJqOUOSz5cil8"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3cLGqz1LlPAoOn1MqkQSrd"
+      },
+      "fileId": "4eyLXhxe9Io7isGkdTTx8o"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 306,
+      "height": 269
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "CC_labelContent",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 3
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_useOriginalSize": false,
+        "_string": "văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản",
+        "_N$string": "văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản văn bản",
+        "_fontSize": 20,
+        "_lineHeight": 22,
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "_N$overflow": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3cLGqz1LlPAoOn1MqkQSrd"
+      },
+      "fileId": "d9WUecqVZKBJuqYp7kP7UE"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 29,
+      "g": 29,
+      "b": 29
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 220,
+      "height": 71.72
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "CC_buttonClose",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 4
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "43YIJdkAFKKaB/2b/WDNcH"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3cLGqz1LlPAoOn1MqkQSrd"
+      },
+      "fileId": "e8xl9I9+NP97MRVwGQAl34"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 55,
+      "height": 53
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        216,
+        135,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

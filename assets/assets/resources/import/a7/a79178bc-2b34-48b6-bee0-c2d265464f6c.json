@@ -1,1 +1,27 @@
-{"__type__":"cc.SpriteFrame","content":{"name":"章节","texture":"c6G4w9zspHu5GOT9v38zn1","rect":[0,0,1280,768],"offset":[0,0],"originalSize":[1280,768],"capInsets":[0,0,0,0]}}
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chương",
+    "texture": "c6G4w9zspHu5GOT9v38zn1",
+    "rect": [
+      0,
+      0,
+      1280,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

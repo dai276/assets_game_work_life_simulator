@@ -1,19 +1,9 @@
-"""
-HUONG DAN CHAY TRONG VSCODE
-============================
-1. Mo Terminal trong VSCode: Ctrl + `
-2. Cai thu vien:  python -m pip install deep-translator
-3. Chay:          python auto_translate.py
-4. Doi ~5-10 phut, file index_vi.js se duoc tao ra
-   (khong can API key, hoan toan mien phi!)
-"""
-
 import json, time, re, os
 
 INPUT_JS      = "index.js"
 OUTPUT_JS     = "index_vi.js"
 PROGRESS_FILE = "translate_progress.json"
-BATCH_SIZE    = 30   # Google Translate gioi han do dai, de nho hon
+BATCH_SIZE    = 30  
 DELAY_SECONDS = 1
 
 # ---- Kiem tra thu vien ----

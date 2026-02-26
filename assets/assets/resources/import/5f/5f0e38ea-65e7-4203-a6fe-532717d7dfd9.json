@@ -1,1 +1,27 @@
-{"__type__":"cc.SpriteFrame","content":{"name":"基金","texture":"b2+zuTUt9IHaOrLXzsZeeV","rect":[0,0,1280,768],"offset":[0,0],"originalSize":[1280,768],"capInsets":[0,0,0,0]}}
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quỹ",
+    "texture": "b2+zuTUt9IHaOrLXzsZeeV",
+    "rect": [
+      0,
+      0,
+      1280,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

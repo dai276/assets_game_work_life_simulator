@@ -1,1 +1,27 @@
-{"__type__":"cc.SpriteFrame","content":{"name":"网吧-模拟考1","texture":"b5uQ6b0ChGwp/y9X4Plvxr","rect":[0,0,1280,768],"offset":[0,0],"originalSize":[1280,768],"capInsets":[0,0,0,0]}}
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Internet Cafe-Thử nghiệm mô phỏng 1",
+    "texture": "b5uQ6b0ChGwp/y9X4Plvxr",
+    "rect": [
+      0,
+      0,
+      1280,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
