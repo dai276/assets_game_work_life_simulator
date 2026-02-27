@@ -189,7 +189,7 @@
         "_useOriginalSize": false,
         "_string": "Chi tiết thiết bị",
         "_N$string": "Chi tiết thiết bị",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -416,7 +416,7 @@
         "_useOriginalSize": false,
         "_string": "Mở khóa khi truyền miệng đạt đến mức độ nổi tiếng nhất định",
         "_N$string": "Mở khóa khi truyền miệng đạt đến mức độ nổi tiếng nhất định",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -537,7 +537,7 @@
         "_useOriginalSize": false,
         "_string": "1000",
         "_N$string": "1000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -601,7 +601,7 @@
         "_useOriginalSize": false,
         "_string": "Máy quét mã trung gian",
         "_N$string": "Máy quét mã trung gian",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -793,7 +793,7 @@
         "_useOriginalSize": false,
         "_string": "Được làm bằng hợp kim titan, rất mạnh mẽ",
         "_N$string": "Được làm bằng hợp kim titan, rất mạnh mẽ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -943,7 +943,7 @@
         "_useOriginalSize": false,
         "_string": "◆",
         "_N$string": "◆",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1076,7 +1076,7 @@
         "_useOriginalSize": false,
         "_string": "tăng hiệu quả",
         "_N$string": "tăng hiệu quả",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1144,7 +1144,7 @@
         "_useOriginalSize": false,
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1253,7 +1253,7 @@
         "_useOriginalSize": false,
         "_string": "◆",
         "_N$string": "◆",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1386,7 +1386,7 @@
         "_useOriginalSize": false,
         "_string": "tăng thu nhập",
         "_N$string": "tăng thu nhập",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1454,7 +1454,7 @@
         "_useOriginalSize": false,
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1581,7 +1581,7 @@
         "_useOriginalSize": false,
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1867,7 +1867,7 @@
         "_useOriginalSize": false,
         "_string": "Mở khóa trước",
         "_N$string": "Mở khóa trước",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

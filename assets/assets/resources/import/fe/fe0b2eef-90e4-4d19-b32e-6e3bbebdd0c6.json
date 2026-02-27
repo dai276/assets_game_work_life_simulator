@@ -592,7 +592,7 @@
         "_useOriginalSize": false,
         "_string": "Người dẫn trò chơi: Công Công",
         "_N$string": "Người dẫn trò chơi: Công Công",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -773,7 +773,7 @@
         "_useOriginalSize": false,
         "_string": "Nhà thực vật học: Tiểu Dạ",
         "_N$string": "Nhà thực vật học: Tiểu Dạ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -985,7 +985,7 @@
         "_useOriginalSize": false,
         "_string": "Chào mừng mọi người\nChào mừng mọi người",
         "_N$string": "Chào mừng mọi người\nChào mừng mọi người",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1349,7 +1349,7 @@
         "_useOriginalSize": false,
         "_string": "Chào mừng mọi người\nChào mừng mọi người",
         "_N$string": "Chào mừng mọi người\nChào mừng mọi người",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

@@ -210,7 +210,7 @@
         "_useOriginalSize": false,
         "_string": "tác dụng:",
         "_N$string": "tác dụng:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -274,7 +274,7 @@
         "_useOriginalSize": false,
         "_string": "khỏe mạnh",
         "_N$string": "khỏe mạnh",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -332,7 +332,7 @@
         "_useOriginalSize": false,
         "_string": "+30",
         "_N$string": "+30",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -400,7 +400,7 @@
         "_useOriginalSize": false,
         "_string": "Cảm giác",
         "_N$string": "Cảm giác",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -499,7 +499,7 @@
         "_useOriginalSize": false,
         "_string": "Các tính năng bổ sung:",
         "_N$string": "Các tính năng bổ sung:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -563,7 +563,7 @@
         "_useOriginalSize": false,
         "_string": "Tốc độ di chuyển trong thị trấn tăng 10% Tốc độ di chuyển trong thị trấn tăng 10%",
         "_N$string": "Tốc độ di chuyển trong thị trấn tăng 10% Tốc độ di chuyển trong thị trấn tăng 10%",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$overflow": 1
       }
@@ -630,7 +630,7 @@
         "_useOriginalSize": false,
         "_string": "+30",
         "_N$string": "+30",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -769,7 +769,7 @@
         "_useOriginalSize": false,
         "_string": "Ông chủ, nhìn kìa~",
         "_N$string": "Ông chủ, nhìn kìa~",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$overflow": 2
       }
@@ -1120,7 +1120,7 @@
         ],
         "_string": "đừng bận tâm",
         "_N$string": "đừng bận tâm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1242,7 +1242,7 @@
         ],
         "_string": "350",
         "_N$string": "350",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1367,7 +1367,7 @@
         ],
         "_string": "đừng bận tâm",
         "_N$string": "đừng bận tâm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1489,7 +1489,7 @@
         ],
         "_string": "350",
         "_N$string": "350",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2003,7 +2003,7 @@
         "_useOriginalSize": false,
         "_string": "50",
         "_N$string": "50",
-        "_fontSize": 32,
+        "_fontSize": 22,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -206,7 +206,7 @@
         ],
         "_string": "Giá thị trường: 60-80",
         "_N$string": "Giá thị trường: 60-80",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -269,7 +269,7 @@
         ],
         "_string": "Đơn giá: 80",
         "_N$string": "Đơn giá: 80",
-        "_fontSize": 25,
+        "_fontSize": 18,
         "_lineHeight": 25,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -331,7 +331,7 @@
         ],
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -458,7 +458,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -794,7 +794,7 @@
         ],
         "_string": "Tiếng súng nổ lúc 8 giờ",
         "_N$string": "Tiếng súng nổ lúc 8 giờ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1125,7 +1125,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

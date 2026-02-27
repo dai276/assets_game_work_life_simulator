@@ -811,7 +811,7 @@
         "_useOriginalSize": false,
         "_string": "Tiểu Nham",
         "_N$string": "Tiểu Nham",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -880,7 +880,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn có thích cô ấy không?",
         "_N$string": "Bạn có thích cô ấy không?",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1000,7 +1000,7 @@
         "_useOriginalSize": false,
         "_string": "Độc thoại cá nhân:",
         "_N$string": "Độc thoại cá nhân:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -1067,7 +1067,7 @@
         "_useOriginalSize": false,
         "_string": "Woooooooooooooooooooooooooo",
         "_N$string": "Woooooooooooooooooooooooooo",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 1,
         "_N$cacheMode": 2
@@ -1640,7 +1640,7 @@
         "_useOriginalSize": false,
         "_string": "Tiểu Nham",
         "_N$string": "Tiểu Nham",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1709,7 +1709,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn có thích cô ấy không?",
         "_N$string": "Bạn có thích cô ấy không?",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1829,7 +1829,7 @@
         "_useOriginalSize": false,
         "_string": "Độc thoại cá nhân:",
         "_N$string": "Độc thoại cá nhân:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -1896,7 +1896,7 @@
         "_useOriginalSize": false,
         "_string": "Woooooooooooooooooooooooooo",
         "_N$string": "Woooooooooooooooooooooooooo",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 1,
         "_N$cacheMode": 2
@@ -2469,7 +2469,7 @@
         "_useOriginalSize": false,
         "_string": "Tiểu Nham",
         "_N$string": "Tiểu Nham",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2538,7 +2538,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn có thích cô ấy không?",
         "_N$string": "Bạn có thích cô ấy không?",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2658,7 +2658,7 @@
         "_useOriginalSize": false,
         "_string": "Độc thoại cá nhân:",
         "_N$string": "Độc thoại cá nhân:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2725,7 +2725,7 @@
         "_useOriginalSize": false,
         "_string": "Woooooooooooooooooooooooooo",
         "_N$string": "Woooooooooooooooooooooooooo",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 1,
         "_N$cacheMode": 2

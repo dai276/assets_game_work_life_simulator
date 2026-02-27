@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"defaultDialogOpen","_duration":1,"speed":2.5,"curveData":{"props":{"scaleX":[{"frame":0,"value":0,"curve":[0.18,0.89,0.31,1.21]},{"frame":1,"value":1}],"scaleY":[{"frame":0,"value":1.5,"curve":[0.18,0.89,0.31,1.21]},{"frame":1,"value":1}]}}}

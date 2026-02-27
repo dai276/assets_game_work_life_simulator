@@ -244,7 +244,7 @@
         "_useOriginalSize": false,
         "_string": "Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung.",
         "_N$string": "Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung. Đây là nội dung.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$overflow": 3
       }
@@ -307,7 +307,7 @@
         "_useOriginalSize": false,
         "_string": "tiêu đề",
         "_N$string": "tiêu đề",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_enableWrapText": false,
         "_N$verticalAlign": 1
@@ -476,7 +476,7 @@
         "_useOriginalSize": false,
         "_string": "xem quảng cáo",
         "_N$string": "xem quảng cáo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
@@ -535,7 +535,7 @@
         "_useOriginalSize": false,
         "_string": "quảng cáo",
         "_N$string": "quảng cáo",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -600,7 +600,7 @@
         "_useOriginalSize": false,
         "_string": "tên tên",
         "_N$string": "tên tên",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,

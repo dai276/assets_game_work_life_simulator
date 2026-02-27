@@ -934,7 +934,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1551,7 +1551,7 @@
         ],
         "_string": "1200",
         "_N$string": "1200",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -1628,7 +1628,7 @@
         ],
         "_string": "Chi phí lao động:",
         "_N$string": "Chi phí lao động:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1687,7 +1687,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1754,7 +1754,7 @@
         ],
         "_string": "Trả lương làm thêm giờ:",
         "_N$string": "Trả lương làm thêm giờ:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1813,7 +1813,7 @@
         ],
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1875,7 +1875,7 @@
         ],
         "_string": "Lợi nhuận của tôi:",
         "_N$string": "Lợi nhuận của tôi:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$cacheMode": 2
       },
@@ -1940,7 +1940,7 @@
         ],
         "_string": "Dự án đã hoàn thành",
         "_N$string": "Dự án đã hoàn thành",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2016,7 +2016,7 @@
         ],
         "_string": "(Tiền lương sẽ ảnh hưởng đến sự nhiệt tình của người lao động, vui lòng phân bổ hợp lý)",
         "_N$string": "(Tiền lương sẽ ảnh hưởng đến sự nhiệt tình của người lao động, vui lòng phân bổ hợp lý)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2130,7 +2130,7 @@
         ],
         "_string": "phân phối tiền lương",
         "_N$string": "phân phối tiền lương",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$cacheMode": 2
@@ -2205,7 +2205,7 @@
         ],
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2286,7 +2286,7 @@
         ],
         "_string": "Số viên gạch đã di chuyển:",
         "_N$string": "Số viên gạch đã di chuyển:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2348,7 +2348,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2415,7 +2415,7 @@
         ],
         "_string": "Lòng trung thành:",
         "_N$string": "Lòng trung thành:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2477,7 +2477,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2539,7 +2539,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       },
@@ -2660,7 +2660,7 @@
         ],
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2736,7 +2736,7 @@
         ],
         "_string": "Số viên gạch đã di chuyển:",
         "_N$string": "Số viên gạch đã di chuyển:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2798,7 +2798,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2860,7 +2860,7 @@
         ],
         "_string": "Lòng trung thành:",
         "_N$string": "Lòng trung thành:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2922,7 +2922,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -2984,7 +2984,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       },
@@ -3049,7 +3049,7 @@
         ],
         "_string": "phân phối tiền lương",
         "_N$string": "phân phối tiền lương",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$cacheMode": 2
@@ -3174,7 +3174,7 @@
         ],
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -3255,7 +3255,7 @@
         ],
         "_string": "Số viên gạch đã di chuyển:",
         "_N$string": "Số viên gạch đã di chuyển:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -3317,7 +3317,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -3384,7 +3384,7 @@
         ],
         "_string": "Lòng trung thành:",
         "_N$string": "Lòng trung thành:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -3446,7 +3446,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       }
@@ -3508,7 +3508,7 @@
         ],
         "_string": "12",
         "_N$string": "12",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$cacheMode": 2
       },
@@ -3573,7 +3573,7 @@
         ],
         "_string": "phân phối tiền lương",
         "_N$string": "phân phối tiền lương",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$cacheMode": 2
@@ -3760,7 +3760,7 @@
         ],
         "_string": "NPC muốn nói gì",
         "_N$string": "NPC muốn nói gì",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4298,7 +4298,7 @@
         ],
         "_string": "NPC muốn nói gì",
         "_N$string": "NPC muốn nói gì",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4836,7 +4836,7 @@
         ],
         "_string": "NPC muốn nói gì",
         "_N$string": "NPC muốn nói gì",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

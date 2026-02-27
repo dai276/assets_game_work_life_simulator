@@ -189,7 +189,7 @@
         "_useOriginalSize": false,
         "_string": "Phân công công việc",
         "_N$string": "Phân công công việc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -247,7 +247,7 @@
         "_useOriginalSize": false,
         "_string": "Mô tả nhân viên: Nhân viên này rất thích nhặt rác",
         "_N$string": "Mô tả nhân viên: Nhân viên này rất thích nhặt rác",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -374,7 +374,7 @@
         "_useOriginalSize": false,
         "_string": "chọn",
         "_N$string": "chọn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -504,7 +504,7 @@
         "_useOriginalSize": false,
         "_string": "chọn",
         "_N$string": "chọn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -634,7 +634,7 @@
         "_useOriginalSize": false,
         "_string": "chọn",
         "_N$string": "chọn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -862,7 +862,7 @@
         "_useOriginalSize": false,
         "_string": "Quét mã QR để thoát khỏi kho",
         "_N$string": "Quét mã QR để thoát khỏi kho",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1087,7 +1087,7 @@
         "_useOriginalSize": false,
         "_string": "Quét mã QR để thoát khỏi kho",
         "_N$string": "Quét mã QR để thoát khỏi kho",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1312,7 +1312,7 @@
         "_useOriginalSize": false,
         "_string": "Quét mã QR để thoát khỏi kho",
         "_N$string": "Quét mã QR để thoát khỏi kho",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

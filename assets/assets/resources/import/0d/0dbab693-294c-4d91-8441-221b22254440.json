@@ -221,7 +221,7 @@
         "_useOriginalSize": false,
         "_string": "20-56",
         "_N$string": "20-56",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -285,7 +285,7 @@
         "_useOriginalSize": false,
         "_string": "Như mưa và khói",
         "_N$string": "Như mưa và khói",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -353,7 +353,7 @@
         "_useOriginalSize": false,
         "_string": "Phòng 701, Đơn vị 3, Tòa nhà 2, Cộng đồng Yongxing, Thị trấn Yongxing",
         "_N$string": "Phòng 701, Đơn vị 3, Tòa nhà 2, Cộng đồng Yongxing, Thị trấn Yongxing",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 17,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -418,7 +418,7 @@
         "_useOriginalSize": false,
         "_string": "Hãy xử lý nó một cách cẩn thận và đặt nó trước cửa cộng đồng khi thời cơ đến.\nHãy nhắn tin cho tôi, cảm ơn bạn.",
         "_N$string": "Hãy xử lý nó một cách cẩn thận và đặt nó trước cửa cộng đồng khi thời cơ đến.\nHãy nhắn tin cho tôi, cảm ơn bạn.",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 21,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -484,7 +484,7 @@
         "_useOriginalSize": false,
         "_string": "18212341234",
         "_N$string": "18212341234",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -830,7 +830,7 @@
         "_useOriginalSize": false,
         "_string": "Từ chối quét mã QR",
         "_N$string": "Từ chối quét mã QR",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -966,7 +966,7 @@
         "_useOriginalSize": false,
         "_string": "Quét mã QR để thoát khỏi kho",
         "_N$string": "Quét mã QR để thoát khỏi kho",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

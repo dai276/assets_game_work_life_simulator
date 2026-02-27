@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"sprite-flash-light-texture","_effectAsset":{"__uuid__":"8cUqP6HPVHZIrjdAcArGAt"},"_techniqueData":{"0":{"props":{"texture":{"__uuid__":"4eTqX7ntJN37fOjgMyv64n"},"flashTexture":{"__uuid__":"4eTqX7ntJN37fOjgMyv64n"}},"defines":{"USE_TEXTURE":true,"ENABLE_LIGHT":true,"USE_ALPHA_TEST":false}}}}

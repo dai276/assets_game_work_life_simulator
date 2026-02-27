@@ -317,7 +317,7 @@
         "_useOriginalSize": false,
         "_string": "Tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề",
         "_N$string": "Tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$overflow": 2
       }
@@ -454,7 +454,7 @@
         "_useOriginalSize": false,
         "_string": "Đáp: Tùy chọn 1",
         "_N$string": "Đáp: Tùy chọn 1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -518,7 +518,7 @@
         "_useOriginalSize": false,
         "_string": "B: Phương án 2",
         "_N$string": "B: Phương án 2",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -582,7 +582,7 @@
         "_useOriginalSize": false,
         "_string": "C: Phương án 3",
         "_N$string": "C: Phương án 3",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -646,7 +646,7 @@
         "_useOriginalSize": false,
         "_string": "Đ: Phương án 4",
         "_N$string": "Đ: Phương án 4",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -751,7 +751,7 @@
         "_useOriginalSize": false,
         "_string": "Trả lời:",
         "_N$string": "Trả lời:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -811,7 +811,7 @@
         ],
         "_string": "phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích",
         "_N$string": "phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$overflow": 2
       }
@@ -976,7 +976,7 @@
         "_useOriginalSize": false,
         "_string": "Câu hỏi trước",
         "_N$string": "Câu hỏi trước",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1099,7 +1099,7 @@
         "_useOriginalSize": false,
         "_string": "Câu hỏi tiếp theo",
         "_N$string": "Câu hỏi tiếp theo",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

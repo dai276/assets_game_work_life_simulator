@@ -141,7 +141,7 @@
         ],
         "_string": "Cập nhật thông báo",
         "_N$string": "Cập nhật thông báo",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -971,7 +971,7 @@
         ],
         "_string": "---------------------------- Lời nhắc nhở thân thiện--------------------------",
         "_N$string": "---------------------------- Lời nhắc nhở thân thiện--------------------------",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1038,7 +1038,7 @@
         ],
         "_string": "*Khi gặp tình huống không thể hoàn thành các công việc liên quan, nên tìm hiểu nguyên nhân trước:\n   1. Có làm sai cách không?\n   2. Thời gian cần thiết để hoàn thành nhiệm vụ còn chưa hết;\n   3. Liệu các điều kiện cụ thể cần thiết để hoàn thành nhiệm vụ có được đáp ứng hay không?\nNếu những vấn đề trên được loại bỏ, nên phản hồi vấn đề cho quan chức, người sẽ giải quyết vấn đề trong thời gian sớm nhất!",
         "_N$string": "*Khi gặp tình huống không thể hoàn thành các công việc liên quan, nên tìm hiểu nguyên nhân trước:\n   1. Có làm sai cách không?\n   2. Thời gian cần thiết để hoàn thành nhiệm vụ còn chưa hết;\n   3. Liệu các điều kiện cụ thể cần thiết để hoàn thành nhiệm vụ có được đáp ứng hay không?\nNếu những vấn đề trên được loại bỏ, nên phản hồi vấn đề cho quan chức, người sẽ giải quyết vấn đề trong thời gian sớm nhất!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1105,7 +1105,7 @@
         ],
         "_string": "*Về vấn đề lưu trữ trò chơi:\n   1. [Không xóa bộ nhớ đệm của các ứng dụng liên quan];\n   2. [Đừng dễ dàng nhấp vào “Trò chơi mới” trên giao diện chính];\n   3. Nếu bạn vô tình thất bại giữa game, [Đừng dễ dàng chọn \"Khởi động lại\"], tốt nhất bạn nên chọn \"Khởi động lại ngay hôm nay\";\n   4. Chức năng lưu trữ đám mây chính thức sẽ ra mắt vào giữa tháng 6. Sau khi ra mắt, bạn sẽ không còn phải lo lắng về việc mất kho lưu trữ nữa. Bạn bè có nhu cầu thay đổi thiết bị cũng có thể yên tâm thay đổi.",
         "_N$string": "*Về vấn đề lưu trữ trò chơi:\n   1. [Không xóa bộ nhớ đệm của các ứng dụng liên quan];\n   2. [Đừng dễ dàng nhấp vào “Trò chơi mới” trên giao diện chính];\n   3. Nếu bạn vô tình thất bại giữa game, [Đừng dễ dàng chọn \"Khởi động lại\"], tốt nhất bạn nên chọn \"Khởi động lại ngay hôm nay\";\n   4. Chức năng lưu trữ đám mây chính thức sẽ ra mắt vào giữa tháng 6. Sau khi ra mắt, bạn sẽ không còn phải lo lắng về việc mất kho lưu trữ nữa. Bạn bè có nhu cầu thay đổi thiết bị cũng có thể yên tâm thay đổi.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1785,7 +1785,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

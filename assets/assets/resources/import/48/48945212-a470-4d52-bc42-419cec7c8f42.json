@@ -212,7 +212,7 @@
         "_useOriginalSize": false,
         "_string": "chiến thắng",
         "_N$string": "chiến thắng",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -381,7 +381,7 @@
         "_useOriginalSize": false,
         "_string": "+54",
         "_N$string": "+54",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -540,7 +540,7 @@
         "_useOriginalSize": false,
         "_string": "+1",
         "_N$string": "+1",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -604,7 +604,7 @@
         "_useOriginalSize": false,
         "_string": "Chúc mừng! Thắng ván cờ!",
         "_N$string": "Chúc mừng! Thắng ván cờ!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -947,7 +947,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -341,7 +341,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -523,7 +523,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -648,7 +648,7 @@
         "_useOriginalSize": false,
         "_string": "1565",
         "_N$string": "1565",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
@@ -891,7 +891,7 @@
         ],
         "_string": "Bán tất cả các sản phẩm xấu",
         "_N$string": "Bán tất cả các sản phẩm xấu",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1026,7 +1026,7 @@
         ],
         "_string": "Chọn tất cả các sản phẩm xấu",
         "_N$string": "Chọn tất cả các sản phẩm xấu",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1161,7 +1161,7 @@
         ],
         "_string": "để bán",
         "_N$string": "để bán",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1549,7 +1549,7 @@
         "_useOriginalSize": false,
         "_string": "Đã sửa: (2/3)",
         "_N$string": "Đã sửa: (2/3)",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

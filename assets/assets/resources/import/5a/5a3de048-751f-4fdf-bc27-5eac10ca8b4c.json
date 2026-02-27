@@ -138,7 +138,7 @@
         "_useOriginalSize": false,
         "_string": "Bài này đã được học",
         "_N$string": "Bài này đã được học",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -264,7 +264,7 @@
         "_useOriginalSize": false,
         "_string": "Số câu hỏi đã trả lời:",
         "_N$string": "Số câu hỏi đã trả lời:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -325,7 +325,7 @@
         "_useOriginalSize": false,
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -457,7 +457,7 @@
         "_useOriginalSize": false,
         "_string": "Tỷ lệ chính xác:",
         "_N$string": "Tỷ lệ chính xác:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -518,7 +518,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -582,7 +582,7 @@
         "_useOriginalSize": false,
         "_string": "%",
         "_N$string": "%",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -707,7 +707,7 @@
         "_useOriginalSize": false,
         "_string": "Chúc mừng bạn đã giành được học bổng:",
         "_N$string": "Chúc mừng bạn đã giành được học bổng:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -771,7 +771,7 @@
         "_useOriginalSize": false,
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -900,7 +900,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -329,7 +329,7 @@
         "_useOriginalSize": false,
         "_string": "Khóa học: Lớp nào",
         "_N$string": "Khóa học: Lớp nào",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -393,7 +393,7 @@
         "_useOriginalSize": false,
         "_string": "phần thưởng",
         "_N$string": "phần thưởng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -457,7 +457,7 @@
         "_useOriginalSize": false,
         "_string": "khoảng thời gian",
         "_N$string": "khoảng thời gian",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -521,7 +521,7 @@
         "_useOriginalSize": false,
         "_string": "Giờ bắt đầu lớp học",
         "_N$string": "Giờ bắt đầu lớp học",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$overflow": 2
       }
@@ -796,7 +796,7 @@
         "_useOriginalSize": false,
         "_string": "học",
         "_N$string": "học",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -966,7 +966,7 @@
         "_useOriginalSize": false,
         "_string": "Kỳ thi[400]",
         "_N$string": "Kỳ thi[400]",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
@@ -1175,7 +1175,7 @@
         "_useOriginalSize": false,
         "_string": "tiến độ khóa học",
         "_N$string": "tiến độ khóa học",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1446,7 +1446,7 @@
         "_useOriginalSize": false,
         "_string": "yêu cầu phần thưởng",
         "_N$string": "yêu cầu phần thưởng",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1616,7 +1616,7 @@
         "_useOriginalSize": false,
         "_string": "Đã nhận được phần thưởng",
         "_N$string": "Đã nhận được phần thưởng",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

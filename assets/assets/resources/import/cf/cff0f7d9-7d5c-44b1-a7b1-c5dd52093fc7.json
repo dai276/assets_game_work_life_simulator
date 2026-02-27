@@ -129,7 +129,7 @@
         "_useOriginalSize": false,
         "_string": "Chuẩn bị tuyển dụng",
         "_N$string": "Chuẩn bị tuyển dụng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -421,7 +421,7 @@
     "_useOriginalSize": false,
     "_string": "Chương trình cơ sở",
     "_N$string": "Chương trình cơ sở",
-    "_fontSize": 26,
+    "_fontSize": 18,
     "_lineHeight": 26,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -615,7 +615,7 @@
     "_useOriginalSize": false,
     "_string": "250000",
     "_N$string": "250000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -751,7 +751,7 @@
     "_useOriginalSize": false,
     "_string": "10",
     "_N$string": "10",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1024,7 +1024,7 @@
     "_useOriginalSize": false,
     "_string": "Chương trình cơ sở",
     "_N$string": "Chương trình cơ sở",
-    "_fontSize": 26,
+    "_fontSize": 18,
     "_lineHeight": 26,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1218,7 +1218,7 @@
     "_useOriginalSize": false,
     "_string": "250000",
     "_N$string": "250000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1354,7 +1354,7 @@
     "_useOriginalSize": false,
     "_string": "10",
     "_N$string": "10",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1627,7 +1627,7 @@
     "_useOriginalSize": false,
     "_string": "Chương trình cơ sở",
     "_N$string": "Chương trình cơ sở",
-    "_fontSize": 26,
+    "_fontSize": 18,
     "_lineHeight": 26,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1821,7 +1821,7 @@
     "_useOriginalSize": false,
     "_string": "250000",
     "_N$string": "250000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1957,7 +1957,7 @@
     "_useOriginalSize": false,
     "_string": "10",
     "_N$string": "10",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2230,7 +2230,7 @@
     "_useOriginalSize": false,
     "_string": "Chương trình cơ sở",
     "_N$string": "Chương trình cơ sở",
-    "_fontSize": 26,
+    "_fontSize": 18,
     "_lineHeight": 26,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2424,7 +2424,7 @@
     "_useOriginalSize": false,
     "_string": "250000",
     "_N$string": "250000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2560,7 +2560,7 @@
     "_useOriginalSize": false,
     "_string": "10",
     "_N$string": "10",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2833,7 +2833,7 @@
     "_useOriginalSize": false,
     "_string": "Chương trình cơ sở",
     "_N$string": "Chương trình cơ sở",
-    "_fontSize": 26,
+    "_fontSize": 18,
     "_lineHeight": 26,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3027,7 +3027,7 @@
     "_useOriginalSize": false,
     "_string": "250000",
     "_N$string": "250000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3163,7 +3163,7 @@
     "_useOriginalSize": false,
     "_string": "10",
     "_N$string": "10",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3436,7 +3436,7 @@
     "_useOriginalSize": false,
     "_string": "Chương trình cơ sở",
     "_N$string": "Chương trình cơ sở",
-    "_fontSize": 26,
+    "_fontSize": 18,
     "_lineHeight": 26,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3630,7 +3630,7 @@
     "_useOriginalSize": false,
     "_string": "250000",
     "_N$string": "250000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3766,7 +3766,7 @@
     "_useOriginalSize": false,
     "_string": "10",
     "_N$string": "10",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3979,7 +3979,7 @@
         "_useOriginalSize": false,
         "_string": "Mục tiếp theo",
         "_N$string": "Mục tiếp theo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4052,7 +4052,7 @@
         "_useOriginalSize": false,
         "_string": "Nhà tuyển dụng:",
         "_N$string": "Nhà tuyển dụng:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4188,7 +4188,7 @@
         "_useOriginalSize": false,
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4257,7 +4257,7 @@
         "_useOriginalSize": false,
         "_string": "/5",
         "_N$string": "/5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

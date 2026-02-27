@@ -447,7 +447,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng học bổng",
         "_N$string": "Tổng học bổng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -511,7 +511,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -679,7 +679,7 @@
         "_useOriginalSize": false,
         "_string": "Đập",
         "_N$string": "Đập",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -784,7 +784,7 @@
         "_useOriginalSize": false,
         "_string": "Đăng chặn:",
         "_N$string": "Đăng chặn:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -978,7 +978,7 @@
         "_useOriginalSize": false,
         "_string": "Thầy dạy hay quá",
         "_N$string": "Thầy dạy hay quá",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1104,7 +1104,7 @@
         "_useOriginalSize": false,
         "_string": "Thầy dạy hay quá",
         "_N$string": "Thầy dạy hay quá",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1230,7 +1230,7 @@
         "_useOriginalSize": false,
         "_string": "Thầy dạy hay quá",
         "_N$string": "Thầy dạy hay quá",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1807,7 +1807,7 @@
         "_useOriginalSize": false,
         "_string": "Đăng nhập",
         "_N$string": "Đăng nhập",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2031,7 +2031,7 @@
         "_useOriginalSize": false,
         "_string": "Tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề",
         "_N$string": "Tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề tiêu đề",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 21,
         "_N$overflow": 2
       }
@@ -2173,7 +2173,7 @@
         "_useOriginalSize": false,
         "_string": "Đáp: Tùy chọn 1",
         "_N$string": "Đáp: Tùy chọn 1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2296,7 +2296,7 @@
         "_useOriginalSize": false,
         "_string": "B: Phương án 2",
         "_N$string": "B: Phương án 2",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2419,7 +2419,7 @@
         "_useOriginalSize": false,
         "_string": "C: Phương án 3",
         "_N$string": "C: Phương án 3",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2542,7 +2542,7 @@
         "_useOriginalSize": false,
         "_string": "Đ: Phương án 4",
         "_N$string": "Đ: Phương án 4",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2702,7 +2702,7 @@
         ],
         "_string": "phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích",
         "_N$string": "phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích phân tích",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$overflow": 2
       }
@@ -2767,7 +2767,7 @@
         "_useOriginalSize": false,
         "_string": "Trả lời:",
         "_N$string": "Trả lời:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2890,7 +2890,7 @@
         "_useOriginalSize": false,
         "_string": "Bắt đầu trả lời",
         "_N$string": "Bắt đầu trả lời",
-        "_fontSize": 50,
+        "_fontSize": 35,
         "_lineHeight": 50,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2958,7 +2958,7 @@
         "_useOriginalSize": false,
         "_string": "5",
         "_N$string": "5",
-        "_fontSize": 70,
+        "_fontSize": 49,
         "_lineHeight": 70,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3186,7 +3186,7 @@
         "_useOriginalSize": false,
         "_string": "giơ tay",
         "_N$string": "giơ tay",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3307,7 +3307,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3428,7 +3428,7 @@
         "_useOriginalSize": false,
         "_string": "Câu hỏi tiếp theo",
         "_N$string": "Câu hỏi tiếp theo",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3549,7 +3549,7 @@
         "_useOriginalSize": false,
         "_string": "kết thúc khóa học",
         "_N$string": "kết thúc khóa học",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3730,7 +3730,7 @@
         ],
         "_string": "Điều giáo viên nói Điều giáo viên nói Điều giáo viên nói Điều giáo viên nói",
         "_N$string": "Điều giáo viên nói Điều giáo viên nói Điều giáo viên nói Điều giáo viên nói",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 3
       }
@@ -3919,7 +3919,7 @@
         "_useOriginalSize": false,
         "_string": "Đã trả lời đúng:",
         "_N$string": "Đã trả lời đúng:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4051,7 +4051,7 @@
         "_useOriginalSize": false,
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4115,7 +4115,7 @@
         "_useOriginalSize": false,
         "_string": "/",
         "_N$string": "/",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4179,7 +4179,7 @@
         "_useOriginalSize": false,
         "_string": "5",
         "_N$string": "5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4414,7 +4414,7 @@
         "_useOriginalSize": false,
         "_string": "cư dân mạng",
         "_N$string": "cư dân mạng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$overflow": 2
       }
@@ -4481,7 +4481,7 @@
         "_useOriginalSize": false,
         "_string": "Lời thầy nói thật hay. Lời thầy nói thật hay.",
         "_N$string": "Lời thầy nói thật hay. Lời thầy nói thật hay.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 17,
         "_N$overflow": 3
       }

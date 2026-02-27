@@ -448,7 +448,7 @@
     "node": {
       "__id__": 8
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -529,7 +529,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -793,7 +793,7 @@
     "node": {
       "__id__": 16
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -874,7 +874,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,

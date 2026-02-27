@@ -702,7 +702,7 @@
         "_useOriginalSize": false,
         "_string": "Đếm ngược:",
         "_N$string": "Đếm ngược:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -781,7 +781,7 @@
         "_useOriginalSize": false,
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -860,7 +860,7 @@
         "_useOriginalSize": false,
         "_string": "Số đúng:",
         "_N$string": "Số đúng:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -940,7 +940,7 @@
         "_useOriginalSize": false,
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1355,7 +1355,7 @@
         ],
         "_string": "Bắt đầu thử thách",
         "_N$string": "Bắt đầu thử thách",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1596,7 +1596,7 @@
         ],
         "_string": "xem lại",
         "_N$string": "xem lại",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

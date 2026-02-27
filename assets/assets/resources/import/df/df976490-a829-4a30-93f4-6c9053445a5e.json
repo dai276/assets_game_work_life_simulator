@@ -327,7 +327,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -394,7 +394,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -462,7 +462,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -536,7 +536,7 @@
         ],
         "_string": "30/100",
         "_N$string": "30/100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -603,7 +603,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -671,7 +671,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -738,7 +738,7 @@
         "_useOriginalSize": false,
         "_string": "30",
         "_N$string": "30",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -918,7 +918,7 @@
         "_useOriginalSize": false,
         "_string": "Nhận được",
         "_N$string": "Nhận được",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

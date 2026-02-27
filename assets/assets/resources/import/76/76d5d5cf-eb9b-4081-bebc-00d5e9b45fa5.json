@@ -49363,7 +49363,7 @@
         ],
         "_string": "Đại lý ô tô Vĩnh Hưng",
         "_N$string": "Đại lý ô tô Vĩnh Hưng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -49652,7 +49652,7 @@
         ],
         "_string": "Trạm xăng Yongxing",
         "_N$string": "Trạm xăng Yongxing",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -51662,7 +51662,7 @@
         ],
         "_string": "180",
         "_N$string": "180",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -51723,7 +51723,7 @@
         ],
         "_string": "Km/h",
         "_N$string": "Km/h",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -51843,7 +51843,7 @@
         ],
         "_string": "80%",
         "_N$string": "80%",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -52170,7 +52170,7 @@
         ],
         "_string": " 08:00",
         "_N$string": " 08:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -52238,7 +52238,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -52977,7 +52977,7 @@
         "_useOriginalSize": false,
         "_string": "đối thoại",
         "_N$string": "đối thoại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -53100,7 +53100,7 @@
         "_useOriginalSize": false,
         "_string": "đối thoại",
         "_N$string": "đối thoại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -53278,7 +53278,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 1
       }
@@ -53775,7 +53775,7 @@
         "_useOriginalSize": false,
         "_string": "đối thoại",
         "_N$string": "đối thoại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -53898,7 +53898,7 @@
         "_useOriginalSize": false,
         "_string": "đối thoại",
         "_N$string": "đối thoại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -54076,7 +54076,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 1
       }
@@ -54573,7 +54573,7 @@
         "_useOriginalSize": false,
         "_string": "đối thoại",
         "_N$string": "đối thoại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -54696,7 +54696,7 @@
         "_useOriginalSize": false,
         "_string": "đối thoại",
         "_N$string": "đối thoại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -54874,7 +54874,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 1
       }
@@ -55296,7 +55296,7 @@
         "_useOriginalSize": false,
         "_string": "Doanh thu ước tính:",
         "_N$string": "Doanh thu ước tính:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -55363,7 +55363,7 @@
         "_useOriginalSize": false,
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -55551,7 +55551,7 @@
         "_useOriginalSize": false,
         "_string": "Mô phỏng lệnh gấp",
         "_N$string": "Mô phỏng lệnh gấp",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -55677,7 +55677,7 @@
         "_useOriginalSize": false,
         "_string": "Kiểm tra",
         "_N$string": "Kiểm tra",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -55809,7 +55809,7 @@
         "_useOriginalSize": false,
         "_string": "Nhận đơn đặt hàng",
         "_N$string": "Nhận đơn đặt hàng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -56046,7 +56046,7 @@
         "_useOriginalSize": false,
         "_string": "Nhận đặt hàng cho bạn...",
         "_N$string": "Nhận đặt hàng cho bạn...",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -57775,7 +57775,7 @@
         "_useOriginalSize": false,
         "_string": "Thôi nào [100]",
         "_N$string": "Thôi nào [100]",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -58020,7 +58020,7 @@
         "_useOriginalSize": false,
         "_string": "Đổ đầy bình",
         "_N$string": "Đổ đầy bình",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -58235,7 +58235,7 @@
         ],
         "_string": "Aishidaduo Aishidaduo",
         "_N$string": "Aishidaduo Aishidaduo",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -58302,7 +58302,7 @@
         ],
         "_string": "Aishidaduo Aishidaduo",
         "_N$string": "Aishidaduo Aishidaduo",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }

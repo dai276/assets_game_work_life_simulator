@@ -2012,7 +2012,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -3176,7 +3176,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4340,7 +4340,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -5257,7 +5257,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -5502,7 +5502,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -6688,7 +6688,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -6929,7 +6929,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -7372,7 +7372,7 @@
         ],
         "_string": "99",
         "_N$string": "99",
-        "_fontSize": 36,
+        "_fontSize": 25,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
       },
@@ -7510,7 +7510,7 @@
         ],
         "_string": "Đã hết giờ làm việc!",
         "_N$string": "Đã hết giờ làm việc!",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 34,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7573,7 +7573,7 @@
         ],
         "_string": "Số lần chuyển hoàn thành: 7 lần",
         "_N$string": "Số lần chuyển hoàn thành: 7 lần",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7813,7 +7813,7 @@
         ],
         "_string": "10%",
         "_N$string": "10%",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7876,7 +7876,7 @@
         ],
         "_string": "Mục tiêu kỹ thuật",
         "_N$string": "Mục tiêu kỹ thuật",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7939,7 +7939,7 @@
         ],
         "_string": "Mỗi khi hoàn thành 20% dự án, ba công cụ sẽ được chọn ngẫu nhiên.",
         "_N$string": "Mỗi khi hoàn thành 20% dự án, ba công cụ sẽ được chọn ngẫu nhiên.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8067,7 +8067,7 @@
         ],
         "_string": "Chi phí dụng cụ:",
         "_N$string": "Chi phí dụng cụ:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8185,7 +8185,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8467,7 +8467,7 @@
         ],
         "_string": "sức mạnh thể chất",
         "_N$string": "sức mạnh thể chất",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8534,7 +8534,7 @@
         ],
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8918,7 +8918,7 @@
         ],
         "_string": "sức mạnh thể chất",
         "_N$string": "sức mạnh thể chất",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8985,7 +8985,7 @@
         ],
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -9369,7 +9369,7 @@
         ],
         "_string": "sức mạnh thể chất",
         "_N$string": "sức mạnh thể chất",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -9436,7 +9436,7 @@
         ],
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10460,7 +10460,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10521,7 +10521,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10594,7 +10594,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10655,7 +10655,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10728,7 +10728,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10789,7 +10789,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11252,7 +11252,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -11477,7 +11477,7 @@
         ],
         "_string": "Bắt đầu công việc!",
         "_N$string": "Bắt đầu công việc!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -174,7 +174,7 @@
         "_useOriginalSize": false,
         "_string": "Không có lương cơ bản, làm việc nhiều hơn, thưởng nhiều hơn",
         "_N$string": "Không có lương cơ bản, làm việc nhiều hơn, thưởng nhiều hơn",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -242,7 +242,7 @@
         "_useOriginalSize": false,
         "_string": "Nhân viên nhà ga",
         "_N$string": "Nhân viên nhà ga",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -310,7 +310,7 @@
         "_useOriginalSize": false,
         "_string": "Sau khi hoàn thành các nhu cầu của khách trọ và trở nên có năng lực hơn,\nCó thể thăng tiến lên quản lý trong tương lai",
         "_N$string": "Sau khi hoàn thành các nhu cầu của khách trọ và trở nên có năng lực hơn,\nCó thể thăng tiến lên quản lý trong tương lai",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -762,7 +762,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm vật lý:",
         "_N$string": "Điểm vật lý:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -824,7 +824,7 @@
         "_useOriginalSize": false,
         "_string": "1",
         "_N$string": "1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -892,7 +892,7 @@
         "_useOriginalSize": false,
         "_string": "(Không có tiền thưởng cho công việc này)",
         "_N$string": "(Không có tiền thưởng cho công việc này)",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -1079,7 +1079,7 @@
         "_useOriginalSize": false,
         "_string": "Lời khuyên:",
         "_N$string": "Lời khuyên:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -1141,7 +1141,7 @@
         "_useOriginalSize": false,
         "_string": "1",
         "_N$string": "1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1209,7 +1209,7 @@
         "_useOriginalSize": false,
         "_string": "(Thưởng kinh nghiệm%2)",
         "_N$string": "(Thưởng kinh nghiệm%2)",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -1430,7 +1430,7 @@
         "_useOriginalSize": false,
         "_string": "7:00-21:00",
         "_N$string": "7:00-21:00",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1648,7 +1648,7 @@
         "_useOriginalSize": false,
         "_string": "bắt đầu làm việc",
         "_N$string": "bắt đầu làm việc",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

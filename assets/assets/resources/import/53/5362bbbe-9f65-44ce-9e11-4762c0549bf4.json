@@ -224,7 +224,7 @@
         ],
         "_string": "gợi ý",
         "_N$string": "gợi ý",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -301,7 +301,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -439,7 +439,7 @@
         ],
         "_string": "1. Bắt đầu sự kiện sẽ tạm thời lưu trữ kho lưu trữ gốc.",
         "_N$string": "1. Bắt đầu sự kiện sẽ tạm thời lưu trữ kho lưu trữ gốc.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -503,7 +503,7 @@
         ],
         "_string": "2. Bạn có thể quay lại kho lưu trữ ban đầu sau khi thử thách kết thúc hoặc thoát giữa chừng.",
         "_N$string": "2. Bạn có thể quay lại kho lưu trữ ban đầu sau khi thử thách kết thúc hoặc thoát giữa chừng.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -567,7 +567,7 @@
         ],
         "_string": "3. Thử thách có thể được lặp lại.",
         "_N$string": "3. Thử thách có thể được lặp lại.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -631,7 +631,7 @@
         ],
         "_string": "4. Chúng tôi sẽ tiếp tục xem xét dữ liệu xếp hạng",
         "_N$string": "4. Chúng tôi sẽ tiếp tục xem xét dữ liệu xếp hạng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -695,7 +695,7 @@
         ],
         "_string": "Theo dõi và điều trị",
         "_N$string": "Theo dõi và điều trị",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -762,7 +762,7 @@
         ],
         "_string": "。",
         "_N$string": "。",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -993,7 +993,7 @@
         ],
         "_string": "Hủy bỏ",
         "_N$string": "Hủy bỏ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1177,7 +1177,7 @@
         ],
         "_string": "Xác định những thách thức",
         "_N$string": "Xác định những thách thức",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -252,7 +252,7 @@
         "_useOriginalSize": false,
         "_string": "Ngân sách hiện tại:",
         "_N$string": "Ngân sách hiện tại:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -321,7 +321,7 @@
         "_useOriginalSize": false,
         "_string": "100000",
         "_N$string": "100000",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -599,7 +599,7 @@
         "_useOriginalSize": false,
         "_string": "Mục tiếp theo",
         "_N$string": "Mục tiếp theo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

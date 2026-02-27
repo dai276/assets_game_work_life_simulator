@@ -335,7 +335,7 @@
         "_useOriginalSize": false,
         "_string": "x24",
         "_N$string": "x24",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -456,7 +456,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -453,7 +453,7 @@
         "_useOriginalSize": false,
         "_string": "Phí dịch vụ:",
         "_N$string": "Phí dịch vụ:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -515,7 +515,7 @@
         "_useOriginalSize": false,
         "_string": "50",
         "_N$string": "50",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -641,7 +641,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

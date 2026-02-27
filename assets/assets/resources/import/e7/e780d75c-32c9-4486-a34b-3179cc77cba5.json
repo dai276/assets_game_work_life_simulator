@@ -264,7 +264,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm hiện tại:",
         "_N$string": "Điểm hiện tại:",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -328,7 +328,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -557,7 +557,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm cao nhất:",
         "_N$string": "Điểm cao nhất:",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -621,7 +621,7 @@
         "_useOriginalSize": false,
         "_string": "1000",
         "_N$string": "1000",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 32,
         "_N$verticalAlign": 1
       }
@@ -853,7 +853,7 @@
         "_useOriginalSize": false,
         "_string": "Hoàn thành",
         "_N$string": "Hoàn thành",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1022,7 +1022,7 @@
         "_useOriginalSize": false,
         "_string": "Bắt đầu lại",
         "_N$string": "Bắt đầu lại",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1247,7 +1247,7 @@
         "_useOriginalSize": false,
         "_string": "sự hồi sinh",
         "_N$string": "sự hồi sinh",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1397,7 +1397,7 @@
         "_useOriginalSize": false,
         "_string": "1 phiếu giảm giá Yongxing cho 5 điểm\n2 phiếu giảm giá Yongxing cho 10 điểm\n4 phiếu giảm giá Yongxing cho 15 điểm\n6 phiếu giảm giá Yongxing cho 20 điểm\n8 phiếu giảm giá Yongxing cho 25 điểm\n10 phiếu giảm giá Yongxing trong 30 phút\n35 phút và 12 phiếu giảm giá Yongxing",
         "_N$string": "1 phiếu giảm giá Yongxing cho 5 điểm\n2 phiếu giảm giá Yongxing cho 10 điểm\n4 phiếu giảm giá Yongxing cho 15 điểm\n6 phiếu giảm giá Yongxing cho 20 điểm\n8 phiếu giảm giá Yongxing cho 25 điểm\n10 phiếu giảm giá Yongxing trong 30 phút\n35 phút và 12 phiếu giảm giá Yongxing",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3

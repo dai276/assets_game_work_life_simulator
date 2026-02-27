@@ -228,7 +228,7 @@
         ],
         "_string": "cài đặt",
         "_N$string": "cài đặt",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -549,7 +549,7 @@
         ],
         "_string": "chủ đề",
         "_N$string": "chủ đề",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -716,7 +716,7 @@
         ],
         "_string": "nhạc nền",
         "_N$string": "nhạc nền",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -980,7 +980,7 @@
         ],
         "_string": "chủ đề",
         "_N$string": "chủ đề",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1334,7 +1334,7 @@
         ],
         "_string": "nhạc nền",
         "_N$string": "nhạc nền",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1591,7 +1591,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

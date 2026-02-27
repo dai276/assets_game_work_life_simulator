@@ -182,7 +182,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -320,7 +320,7 @@
         ],
         "_string": "thuê",
         "_N$string": "thuê",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -630,7 +630,7 @@
         "_useOriginalSize": false,
         "_string": "Nhân viên nhà ga",
         "_N$string": "Nhân viên nhà ga",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -698,7 +698,7 @@
         "_useOriginalSize": false,
         "_string": "Năng lực cá nhân có giá trị năm phần",
         "_N$string": "Năng lực cá nhân có giá trị năm phần",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -766,7 +766,7 @@
         "_useOriginalSize": false,
         "_string": "Giúp bạn làm việc trong một giờ",
         "_N$string": "Giúp bạn làm việc trong một giờ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

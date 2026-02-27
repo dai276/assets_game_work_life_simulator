@@ -190,7 +190,7 @@
         "_useOriginalSize": false,
         "_string": "Trò chơi mùa đông:",
         "_N$string": "Trò chơi mùa đông:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -255,7 +255,7 @@
         "_useOriginalSize": false,
         "_string": "tên\ntên",
         "_N$string": "tên\ntên",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1,
         "_N$overflow": 3

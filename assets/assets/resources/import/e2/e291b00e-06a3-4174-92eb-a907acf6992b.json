@@ -162,7 +162,7 @@
         "_useOriginalSize": false,
         "_string": "Chọn doanh nghiệp bạn muốn quản lý",
         "_N$string": "Chọn doanh nghiệp bạn muốn quản lý",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -396,7 +396,7 @@
         ],
         "_string": "tiền gửi",
         "_N$string": "tiền gửi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -580,7 +580,7 @@
         ],
         "_string": "Rút tiền",
         "_N$string": "Rút tiền",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

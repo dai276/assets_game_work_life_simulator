@@ -137,7 +137,7 @@
         ],
         "_string": "Tin tức Yongxing",
         "_N$string": "Tin tức Yongxing",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -438,7 +438,7 @@
         "_useOriginalSize": false,
         "_string": "nông nghiệp",
         "_N$string": "nông nghiệp",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -602,7 +602,7 @@
         "_useOriginalSize": false,
         "_string": "Việc kinh doanh",
         "_N$string": "Việc kinh doanh",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -766,7 +766,7 @@
         "_useOriginalSize": false,
         "_string": "ngành công nghiệp",
         "_N$string": "ngành công nghiệp",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -987,7 +987,7 @@
         "_useOriginalSize": false,
         "_string": "Bây giờ không còn nữa",
         "_N$string": "Bây giờ không còn nữa",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1051,7 +1051,7 @@
         "_useOriginalSize": false,
         "_string": "sốc!",
         "_N$string": "sốc!",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1224,7 +1224,7 @@
         "_useOriginalSize": false,
         "_string": "Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc!",
         "_N$string": "Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc! Sốc!",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1400,7 +1400,7 @@
         "_useOriginalSize": false,
         "_string": "Khu vực bình luận",
         "_N$string": "Khu vực bình luận",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1721,7 +1721,7 @@
         ],
         "_string": "Sếp Vương:",
         "_N$string": "Sếp Vương:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1789,7 +1789,7 @@
         ],
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1954,7 +1954,7 @@
         "_useOriginalSize": false,
         "_string": "Chưa có tin tức nào",
         "_N$string": "Chưa có tin tức nào",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2116,7 +2116,7 @@
         "_useOriginalSize": false,
         "_string": "Chưa có tin tức nào",
         "_N$string": "Chưa có tin tức nào",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

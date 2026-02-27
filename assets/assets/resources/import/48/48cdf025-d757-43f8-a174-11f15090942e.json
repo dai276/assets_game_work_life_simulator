@@ -446,7 +446,7 @@
         "_useOriginalSize": false,
         "_string": "90 điểm",
         "_N$string": "90 điểm",
-        "_fontSize": 34,
+        "_fontSize": 24,
         "_lineHeight": 34,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -510,7 +510,7 @@
         "_useOriginalSize": false,
         "_string": "đạt tiêu chuẩn",
         "_N$string": "đạt tiêu chuẩn",
-        "_fontSize": 34,
+        "_fontSize": 24,
         "_lineHeight": 34,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -700,7 +700,7 @@
         "_useOriginalSize": false,
         "_string": "Chúc mừng! Bạn đã vượt qua kỳ thi này!",
         "_N$string": "Chúc mừng! Bạn đã vượt qua kỳ thi này!",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -763,7 +763,7 @@
         "_useOriginalSize": false,
         "_string": "trả lời",
         "_N$string": "trả lời",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -824,7 +824,7 @@
         "_useOriginalSize": false,
         "_string": "Câu trả lời sai",
         "_N$string": "Câu trả lời sai",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -885,7 +885,7 @@
         "_useOriginalSize": false,
         "_string": "Không có câu trả lời",
         "_N$string": "Không có câu trả lời",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -946,7 +946,7 @@
         "_useOriginalSize": false,
         "_string": "thời gian",
         "_N$string": "thời gian",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1066,7 +1066,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1127,7 +1127,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1191,7 +1191,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1255,7 +1255,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1316,7 +1316,7 @@
         "_useOriginalSize": false,
         "_string": "09:52",
         "_N$string": "09:52",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -269,7 +269,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -337,7 +337,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm hiện tại:",
         "_N$string": "Điểm hiện tại:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -526,7 +526,7 @@
         "_useOriginalSize": false,
         "_string": "****",
         "_N$string": "****",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -587,7 +587,7 @@
         "_useOriginalSize": false,
         "_string": "Bài kiểm tra viết lập kế hoạch trò chơi",
         "_N$string": "Bài kiểm tra viết lập kế hoạch trò chơi",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1041,7 +1041,7 @@
         "_useOriginalSize": false,
         "_string": "Câu hỏi trước",
         "_N$string": "Câu hỏi trước",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1162,7 +1162,7 @@
         "_useOriginalSize": false,
         "_string": "Câu hỏi tiếp theo",
         "_N$string": "Câu hỏi tiếp theo",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1283,7 +1283,7 @@
         "_useOriginalSize": false,
         "_string": "thực hiện một nhiệm vụ",
         "_N$string": "thực hiện một nhiệm vụ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1411,7 +1411,7 @@
         "_useOriginalSize": false,
         "_string": "Tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề",
         "_N$string": "Tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề, tiêu đề",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$overflow": 2
       }
@@ -1555,7 +1555,7 @@
         "_useOriginalSize": false,
         "_string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn",
         "_N$string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20
       }
     ],
@@ -1683,7 +1683,7 @@
         "_useOriginalSize": false,
         "_string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn",
         "_N$string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20
       }
     ],
@@ -1811,7 +1811,7 @@
         "_useOriginalSize": false,
         "_string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn",
         "_N$string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20
       }
     ],
@@ -1939,7 +1939,7 @@
         "_useOriginalSize": false,
         "_string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A:",
         "_N$string": "A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A: tùy chọn tùy chọn tùy chọn tùy chọn tùy chọn A:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20
       }
     ],
@@ -2393,7 +2393,7 @@
         ],
         "_string": "Nói điều gì đó, nói điều gì đó, nói điều gì đó, nói điều gì đó",
         "_N$string": "Nói điều gì đó, nói điều gì đó, nói điều gì đó, nói điều gì đó",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3

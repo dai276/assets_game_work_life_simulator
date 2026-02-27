@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tài liệu tham khảo đầy đủ",
+    "texture": "8drfigTSlNn4/1FIuY3hlb",
+    "rect": [
+      0,
+      0,
+      2304,
+      2496
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2304,
+      2496
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

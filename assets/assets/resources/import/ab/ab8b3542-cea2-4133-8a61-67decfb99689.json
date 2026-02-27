@@ -185,7 +185,7 @@
         "_useOriginalSize": false,
         "_string": "Đang tìm kiếm địa điểm gian hàng phù hợp...",
         "_N$string": "Đang tìm kiếm địa điểm gian hàng phù hợp...",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -243,7 +243,7 @@
         "_useOriginalSize": false,
         "_string": "Mẹo: Mỗi khách hàng sẽ khiến bạn mất 5 phút thời gian",
         "_N$string": "Mẹo: Mỗi khách hàng sẽ khiến bạn mất 5 phút thời gian",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

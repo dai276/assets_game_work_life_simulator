@@ -831,7 +831,7 @@
         "_useOriginalSize": false,
         "_string": "lửa vòm",
         "_N$string": "lửa vòm",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -964,7 +964,7 @@
         "_useOriginalSize": false,
         "_string": "thuyết phục chiến đấu",
         "_N$string": "thuyết phục chiến đấu",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1107,7 +1107,7 @@
         ],
         "_string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
         "_N$string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3,
@@ -1173,7 +1173,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1355,7 +1355,7 @@
         ],
         "_string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
         "_N$string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3,
@@ -1421,7 +1421,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }

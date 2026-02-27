@@ -288,7 +288,7 @@
         "_useOriginalSize": false,
         "_string": "Aistado Aistado Aistado Aistado",
         "_N$string": "Aistado Aistado Aistado Aistado",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -581,7 +581,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -801,7 +801,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -936,7 +936,7 @@
         ],
         "_string": "Mua và kích hoạt",
         "_N$string": "Mua và kích hoạt",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1527,7 +1527,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1582,7 +1582,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1914,7 +1914,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1969,7 +1969,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2301,7 +2301,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2356,7 +2356,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2688,7 +2688,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2743,7 +2743,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3075,7 +3075,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3130,7 +3130,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3542,7 +3542,7 @@
         "_useOriginalSize": false,
         "_string": "Giá trị phước lành: 0",
         "_N$string": "Giá trị phước lành: 0",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3674,7 +3674,7 @@
         "_useOriginalSize": false,
         "_string": "hạt may mắn",
         "_N$string": "hạt may mắn",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3742,7 +3742,7 @@
         "_useOriginalSize": false,
         "_string": "Nghêu chất lượng hàng đầu\nMỗi lần làm mới sẽ tăng giá trị phước lành. Khi giá trị phước lành đã đầy, lần làm mới tiếp theo sẽ cho ra những con nghêu đỉnh cao.",
         "_N$string": "Nghêu chất lượng hàng đầu\nMỗi lần làm mới sẽ tăng giá trị phước lành. Khi giá trị phước lành đã đầy, lần làm mới tiếp theo sẽ cho ra những con nghêu đỉnh cao.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 2
       }
@@ -3799,7 +3799,7 @@
         "_useOriginalSize": false,
         "_string": "Số lần làm mới còn lại: 3",
         "_N$string": "Số lần làm mới còn lại: 3",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3865,7 +3865,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

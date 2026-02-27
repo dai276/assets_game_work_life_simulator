@@ -284,7 +284,7 @@
         ],
         "_string": "tên",
         "_N$string": "tên",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$overflow": 2,
@@ -570,7 +570,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

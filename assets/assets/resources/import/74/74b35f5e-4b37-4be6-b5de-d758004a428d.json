@@ -900,7 +900,7 @@
         "_useOriginalSize": false,
         "_string": "60",
         "_N$string": "60",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -964,7 +964,7 @@
         "_useOriginalSize": false,
         "_string": "60",
         "_N$string": "60",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1823,7 +1823,7 @@
         "_useOriginalSize": false,
         "_string": "chọn",
         "_N$string": "chọn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1946,7 +1946,7 @@
         "_useOriginalSize": false,
         "_string": "chọn",
         "_N$string": "chọn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

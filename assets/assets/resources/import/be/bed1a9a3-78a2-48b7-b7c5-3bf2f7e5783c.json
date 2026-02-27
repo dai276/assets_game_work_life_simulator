@@ -162,7 +162,7 @@
         "_useOriginalSize": false,
         "_string": "Cổng bóng tối",
         "_N$string": "Cổng bóng tối",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 36,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,
@@ -408,7 +408,7 @@
     "node": {
       "__id__": 8
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -491,7 +491,7 @@
     ],
     "_string": "Vui lòng nhập mật khẩu",
     "_N$string": "Vui lòng nhập mật khẩu",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -622,7 +622,7 @@
         "_useOriginalSize": false,
         "_string": "Hủy bỏ",
         "_N$string": "Hủy bỏ",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -785,7 +785,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -601,7 +601,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -666,7 +666,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -1175,7 +1175,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -1240,7 +1240,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -1749,7 +1749,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -1814,7 +1814,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -2323,7 +2323,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -2388,7 +2388,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -2897,7 +2897,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -2962,7 +2962,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -3471,7 +3471,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -3536,7 +3536,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -4045,7 +4045,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -4110,7 +4110,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -4619,7 +4619,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -4684,7 +4684,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -5193,7 +5193,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -5258,7 +5258,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -5767,7 +5767,7 @@
         ],
         "_string": "300",
         "_N$string": "300",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "24pCAAgBdPS7vxuAnGKLsi"
@@ -5832,7 +5832,7 @@
         ],
         "_string": "888",
         "_N$string": "888",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$file": {
           "__uuid__": "2dKe9L+85Mc7YuhEY/NW02"
@@ -6581,7 +6581,7 @@
         ],
         "_string": "Hủy bỏ",
         "_N$string": "Hủy bỏ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6723,7 +6723,7 @@
         ],
         "_string": "Một cái nữa",
         "_N$string": "Một cái nữa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6853,7 +6853,7 @@
         ],
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6930,7 +6930,7 @@
         "_useOriginalSize": false,
         "_string": "5200",
         "_N$string": "5200",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

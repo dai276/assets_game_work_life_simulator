@@ -208,7 +208,7 @@
         ],
         "_string": "nuôi thú cưng",
         "_N$string": "nuôi thú cưng",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -340,7 +340,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -918,7 +918,7 @@
         "_useOriginalSize": false,
         "_string": "Thay đổi làn da:",
         "_N$string": "Thay đổi làn da:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -996,7 +996,7 @@
         "_useOriginalSize": false,
         "_string": "Mức độ tim:",
         "_N$string": "Mức độ tim:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1750,7 +1750,7 @@
         "_useOriginalSize": false,
         "_string": "Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng",
         "_N$string": "Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng Kỹ năng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1818,7 +1818,7 @@
         "_useOriginalSize": false,
         "_string": "loại thú cưng",
         "_N$string": "loại thú cưng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1883,7 +1883,7 @@
         "_useOriginalSize": false,
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

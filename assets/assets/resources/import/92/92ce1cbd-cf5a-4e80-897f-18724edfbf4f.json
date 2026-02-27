@@ -1009,7 +1009,7 @@
         "_useOriginalSize": false,
         "_string": "Giá mặt hàng:",
         "_N$string": "Giá mặt hàng:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1240,7 +1240,7 @@
         "_useOriginalSize": false,
         "_string": "+50%",
         "_N$string": "+50%",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1366,7 +1366,7 @@
         "_useOriginalSize": false,
         "_string": "(so với giá thị trường",
         "_N$string": "(so với giá thị trường",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1430,7 +1430,7 @@
         "_useOriginalSize": false,
         "_string": "10%",
         "_N$string": "10%",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1494,7 +1494,7 @@
         "_useOriginalSize": false,
         "_string": ")",
         "_N$string": ")",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1558,7 +1558,7 @@
         "_useOriginalSize": false,
         "_string": "Trước khi bạn bắt đầu thiết lập gian hàng của mình, hãy định giá sản phẩm của bạn. (Lưu ý: Giá quá cao sẽ ảnh hưởng tới khả năng mua hàng của khách hàng)",
         "_N$string": "Trước khi bạn bắt đầu thiết lập gian hàng của mình, hãy định giá sản phẩm của bạn. (Lưu ý: Giá quá cao sẽ ảnh hưởng tới khả năng mua hàng của khách hàng)",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1657,7 +1657,7 @@
         "_useOriginalSize": false,
         "_string": "Mong muốn mua hàng ước tính của khách hàng:",
         "_N$string": "Mong muốn mua hàng ước tính của khách hàng:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1860,7 +1860,7 @@
         "_useOriginalSize": false,
         "_string": "thấp hơn",
         "_N$string": "thấp hơn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2019,7 +2019,7 @@
         "_useOriginalSize": false,
         "_string": "ở giữa",
         "_N$string": "ở giữa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2178,7 +2178,7 @@
         "_useOriginalSize": false,
         "_string": "cao",
         "_N$string": "cao",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

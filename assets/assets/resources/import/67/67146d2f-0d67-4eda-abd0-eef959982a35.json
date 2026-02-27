@@ -357,7 +357,7 @@
         "_useOriginalSize": false,
         "_string": "chó",
         "_N$string": "chó",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -422,7 +422,7 @@
         "_useOriginalSize": false,
         "_string": "Tiếp theo",
         "_N$string": "Tiếp theo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

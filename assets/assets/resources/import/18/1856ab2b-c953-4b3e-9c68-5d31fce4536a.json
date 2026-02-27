@@ -169,7 +169,7 @@
         "_useOriginalSize": false,
         "_string": "Hãy giúp tôi chuyển phát nhanh",
         "_N$string": "Hãy giúp tôi chuyển phát nhanh",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -360,7 +360,7 @@
         "_useOriginalSize": false,
         "_string": "từ chối",
         "_N$string": "từ chối",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -497,7 +497,7 @@
         "_useOriginalSize": false,
         "_string": "ĐƯỢC RỒI",
         "_N$string": "ĐƯỢC RỒI",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -659,7 +659,7 @@
         "_useOriginalSize": false,
         "_string": "118 bình luận đã được xếp lại cho bạn",
         "_N$string": "118 bình luận đã được xếp lại cho bạn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -897,7 +897,7 @@
         ],
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -962,7 +962,7 @@
         ],
         "_string": "250",
         "_N$string": "250",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -1027,7 +1027,7 @@
         ],
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -1255,7 +1255,7 @@
         "_useOriginalSize": false,
         "_string": "Đánh giá tích cực:",
         "_N$string": "Đánh giá tích cực:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1319,7 +1319,7 @@
         "_useOriginalSize": false,
         "_string": "Đánh giá tiêu cực:",
         "_N$string": "Đánh giá tiêu cực:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1383,7 +1383,7 @@
         "_useOriginalSize": false,
         "_string": "Nhận xét chung:",
         "_N$string": "Nhận xét chung:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1834,7 +1834,7 @@
         "_useOriginalSize": false,
         "_string": "Hết hàng:",
         "_N$string": "Hết hàng:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1898,7 +1898,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1965,7 +1965,7 @@
         "_useOriginalSize": false,
         "_string": "Thu nhập tích lũy:",
         "_N$string": "Thu nhập tích lũy:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2029,7 +2029,7 @@
         "_useOriginalSize": false,
         "_string": "250",
         "_N$string": "250",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2213,7 +2213,7 @@
         "_useOriginalSize": false,
         "_string": "6-8",
         "_N$string": "6-8",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -239,7 +239,7 @@
         "_useOriginalSize": false,
         "_string": "Hãy thử ngay bây giờ",
         "_N$string": "Hãy thử ngay bây giờ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -366,7 +366,7 @@
         "_useOriginalSize": false,
         "_string": "Bé Pony Philly",
         "_N$string": "Bé Pony Philly",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -431,7 +431,7 @@
         "_useOriginalSize": false,
         "_string": "Trải nghiệm 60 giây quay lại",
         "_N$string": "Trải nghiệm 60 giây quay lại",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

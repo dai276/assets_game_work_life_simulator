@@ -281,7 +281,7 @@
         "_useOriginalSize": false,
         "_string": "Lệnh của ông chủ Vương",
         "_N$string": "Lệnh của ông chủ Vương",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -846,7 +846,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1178,7 +1178,7 @@
         "_useOriginalSize": false,
         "_string": "Nâng cấp để mở khóa đơn hàng mới",
         "_N$string": "Nâng cấp để mở khóa đơn hàng mới",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1242,7 +1242,7 @@
         "_useOriginalSize": false,
         "_string": "Mức độ yêu cầu:",
         "_N$string": "Mức độ yêu cầu:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1306,7 +1306,7 @@
         "_useOriginalSize": false,
         "_string": "30",
         "_N$string": "30",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

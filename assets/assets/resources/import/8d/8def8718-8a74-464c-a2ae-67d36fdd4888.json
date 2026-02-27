@@ -645,7 +645,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -717,7 +717,7 @@
         "_useOriginalSize": false,
         "_string": "/",
         "_N$string": "/",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -784,7 +784,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1395,7 +1395,7 @@
         "_useOriginalSize": false,
         "_string": "Mẹo",
         "_N$string": "Mẹo",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1462,7 +1462,7 @@
         "_useOriginalSize": false,
         "_string": "+6",
         "_N$string": "+6",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1692,7 +1692,7 @@
         "_useOriginalSize": false,
         "_string": "Thu gom rác",
         "_N$string": "Thu gom rác",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1916,7 +1916,7 @@
         "_useOriginalSize": false,
         "_string": "Quận Tân Thành",
         "_N$string": "Quận Tân Thành",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2140,7 +2140,7 @@
         "_useOriginalSize": false,
         "_string": "Máy 1",
         "_N$string": "Máy 1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2364,7 +2364,7 @@
         "_useOriginalSize": false,
         "_string": "Kệ 1",
         "_N$string": "Kệ 1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

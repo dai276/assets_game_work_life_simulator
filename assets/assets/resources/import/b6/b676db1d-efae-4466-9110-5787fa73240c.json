@@ -318,7 +318,7 @@
         "_useOriginalSize": false,
         "_string": "kinh nghiệm",
         "_N$string": "kinh nghiệm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 28,
         "_N$verticalAlign": 1
       },
@@ -387,7 +387,7 @@
         "_useOriginalSize": false,
         "_string": "3 ván đấu sau 60 giây",
         "_N$string": "3 ván đấu sau 60 giây",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 28,
         "_N$verticalAlign": 1
       },
@@ -456,7 +456,7 @@
         "_useOriginalSize": false,
         "_string": "Quay trở lại để nhận phần thưởng sau",
         "_N$string": "Quay trở lại để nhận phần thưởng sau",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 28,
         "_N$verticalAlign": 1
       },

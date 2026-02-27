@@ -771,7 +771,7 @@
         "_useOriginalSize": false,
         "_string": "khách sạn tám ngày",
         "_N$string": "khách sạn tám ngày",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -852,7 +852,7 @@
         "_useOriginalSize": false,
         "_string": "Xin chào, chào mừng",
         "_N$string": "Xin chào, chào mừng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$overflow": 1
@@ -916,7 +916,7 @@
         "_useOriginalSize": false,
         "_string": "Đã đăng ký ngay hôm nay!",
         "_N$string": "Đã đăng ký ngay hôm nay!",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -1087,7 +1087,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -1265,7 +1265,7 @@
         "_useOriginalSize": false,
         "_string": "Đăng ký vào",
         "_N$string": "Đăng ký vào",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1438,7 +1438,7 @@
         "_useOriginalSize": false,
         "_string": "ở lại miễn phí",
         "_N$string": "ở lại miễn phí",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

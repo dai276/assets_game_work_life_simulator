@@ -214,7 +214,7 @@
         "_useOriginalSize": false,
         "_string": "nhiệm vụ kích hoạt",
         "_N$string": "nhiệm vụ kích hoạt",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -344,7 +344,7 @@
         "_useOriginalSize": false,
         "_string": "Nhiệm vụ ẩn được kích hoạt!",
         "_N$string": "Nhiệm vụ ẩn được kích hoạt!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -468,7 +468,7 @@
         "_useOriginalSize": false,
         "_string": "ký ức tuổi thơ",
         "_N$string": "ký ức tuổi thơ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -657,7 +657,7 @@
         ],
         "_string": "lương gấp đôi",
         "_N$string": "lương gấp đôi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

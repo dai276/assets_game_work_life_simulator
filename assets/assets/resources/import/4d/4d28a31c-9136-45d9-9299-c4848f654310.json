@@ -1985,7 +1985,7 @@
         ],
         "_string": "huấn luyện viên",
         "_N$string": "huấn luyện viên",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2167,7 +2167,7 @@
         ],
         "_string": "ông chủ kinh doanh",
         "_N$string": "ông chủ kinh doanh",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2349,7 +2349,7 @@
         ],
         "_string": "Bắc Đăng Cung",
         "_N$string": "Bắc Đăng Cung",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2644,7 +2644,7 @@
         ],
         "_string": "Sở hữu",
         "_N$string": "Sở hữu",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3153,7 +3153,7 @@
         ],
         "_string": "thắng",
         "_N$string": "thắng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 50,
         "_N$verticalAlign": 1
       }
@@ -3220,7 +3220,7 @@
         ],
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 50,
         "_N$verticalAlign": 1
       }
@@ -3287,7 +3287,7 @@
         ],
         "_string": "trường có sẵn",
         "_N$string": "trường có sẵn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 50,
         "_N$verticalAlign": 1
       }
@@ -3354,7 +3354,7 @@
         ],
         "_string": "1000",
         "_N$string": "1000",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 50,
         "_N$verticalAlign": 1
       }
@@ -3421,7 +3421,7 @@
         ],
         "_string": "thưởng",
         "_N$string": "thưởng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 50,
         "_N$verticalAlign": 1
       }
@@ -3547,7 +3547,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3847,7 +3847,7 @@
         ],
         "_string": "cờ vua hối tiếc",
         "_N$string": "cờ vua hối tiếc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4042,7 +4042,7 @@
         ],
         "_string": "Tiến thêm một bước nữa",
         "_N$string": "Tiến thêm một bước nữa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4119,7 +4119,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn có thể thực hiện một nước cờ của đối thủ!",
         "_N$string": "Bạn có thể thực hiện một nước cờ của đối thủ!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

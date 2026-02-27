@@ -214,7 +214,7 @@
         ],
         "_string": "gợi ý",
         "_N$string": "gợi ý",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -343,7 +343,7 @@
         ],
         "_string": "Siêu nhân giao hàng, bạn xứng đáng với điều đó!",
         "_N$string": "Siêu nhân giao hàng, bạn xứng đáng với điều đó!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -406,7 +406,7 @@
         ],
         "_string": "Tăng tốc độ di chuyển lên 100%",
         "_N$string": "Tăng tốc độ di chuyển lên 100%",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -641,7 +641,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -717,7 +717,7 @@
         ],
         "_string": "(Nó sẽ không còn bật lên vào cùng ngày sau khi bỏ cuộc)",
         "_N$string": "(Nó sẽ không còn bật lên vào cùng ngày sau khi bỏ cuộc)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1004,7 +1004,7 @@
         ],
         "_string": "Lấy",
         "_N$string": "Lấy",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

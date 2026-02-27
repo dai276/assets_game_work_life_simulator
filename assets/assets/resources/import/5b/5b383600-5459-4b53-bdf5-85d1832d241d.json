@@ -130,7 +130,7 @@
         "_useOriginalSize": false,
         "_string": "Hãy chọn khu vực bạn muốn trang trí trước",
         "_N$string": "Hãy chọn khu vực bạn muốn trang trí trước",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -194,7 +194,7 @@
         "_useOriginalSize": false,
         "_string": "Chưa có vật phẩm trang trí nào\nBạn có thể tìm người bí ẩn chơi Monopoly để có được nó.",
         "_N$string": "Chưa có vật phẩm trang trí nào\nBạn có thể tìm người bí ẩn chơi Monopoly để có được nó.",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -335,7 +335,7 @@
         "_useOriginalSize": false,
         "_string": "Những đồ vật có thể trang trí:",
         "_N$string": "Những đồ vật có thể trang trí:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

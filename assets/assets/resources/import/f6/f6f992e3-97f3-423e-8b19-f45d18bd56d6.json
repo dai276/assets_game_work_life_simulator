@@ -393,7 +393,7 @@
         "_useOriginalSize": false,
         "_string": "siêu ngao",
         "_N$string": "siêu ngao",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -955,7 +955,7 @@
         ],
         "_string": "ngao mở",
         "_N$string": "ngao mở",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1764,7 +1764,7 @@
         "_useOriginalSize": false,
         "_string": "Giá trị phước lành: 0",
         "_N$string": "Giá trị phước lành: 0",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1896,7 +1896,7 @@
         "_useOriginalSize": false,
         "_string": "hạt may mắn",
         "_N$string": "hạt may mắn",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1964,7 +1964,7 @@
         "_useOriginalSize": false,
         "_string": "Khi giá trị phước lành đã đầy, hãy mở con nghêu tương ứng để lấy viên ngọc phước lành.",
         "_N$string": "Khi giá trị phước lành đã đầy, hãy mở con nghêu tương ứng để lấy viên ngọc phước lành.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 1
       }
@@ -2079,7 +2079,7 @@
         ],
         "_string": "Một cú nhấp chuột để nhận",
         "_N$string": "Một cú nhấp chuột để nhận",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2210,7 +2210,7 @@
         "_useOriginalSize": false,
         "_string": "ngao mở",
         "_N$string": "ngao mở",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

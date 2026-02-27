@@ -131,7 +131,7 @@
         ],
         "_string": "Đặt cược",
         "_N$string": "Đặt cược",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -566,7 +566,7 @@
         "_useOriginalSize": false,
         "_string": "tổng số tiền đầu tư",
         "_N$string": "tổng số tiền đầu tư",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -630,7 +630,7 @@
         "_useOriginalSize": false,
         "_string": "36.000 nhân dân tệ",
         "_N$string": "36.000 nhân dân tệ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -694,7 +694,7 @@
         "_useOriginalSize": false,
         "_string": "Thu nhập của ngày hôm qua",
         "_N$string": "Thu nhập của ngày hôm qua",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -758,7 +758,7 @@
         "_useOriginalSize": false,
         "_string": "50000",
         "_N$string": "50000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -822,7 +822,7 @@
         "_useOriginalSize": false,
         "_string": "Chi tiết",
         "_N$string": "Chi tiết",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1048,7 +1048,7 @@
         "_useOriginalSize": false,
         "_string": "thông tin",
         "_N$string": "thông tin",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1207,7 +1207,7 @@
         "_useOriginalSize": false,
         "_string": "khoản đầu tư của tôi",
         "_N$string": "khoản đầu tư của tôi",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

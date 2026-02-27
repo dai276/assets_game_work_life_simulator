@@ -246,7 +246,7 @@
         ],
         "_string": "Số kệ:",
         "_N$string": "Số kệ:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18
       }
     ],
@@ -304,7 +304,7 @@
         ],
         "_string": "2-2",
         "_N$string": "2-2",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18
       }
     ],
@@ -555,7 +555,7 @@
         ],
         "_string": "Người nhận:",
         "_N$string": "Người nhận:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18
       }
     ],
@@ -613,7 +613,7 @@
         ],
         "_string": "Dì Vương",
         "_N$string": "Dì Vương",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18
       }
     ],

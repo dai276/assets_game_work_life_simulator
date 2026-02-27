@@ -545,7 +545,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -606,7 +606,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -667,7 +667,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -728,7 +728,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -958,7 +958,7 @@
         ],
         "_string": "bắt giữ",
         "_N$string": "bắt giữ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1142,7 +1142,7 @@
         ],
         "_string": "giải phóng",
         "_N$string": "giải phóng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1296,7 +1296,7 @@
         "_useOriginalSize": false,
         "_string": "aisdaduo aisidao aisidaduo ais",
         "_N$string": "aisdaduo aisidao aisidaduo ais",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

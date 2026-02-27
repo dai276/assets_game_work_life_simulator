@@ -185,7 +185,7 @@
         "_useOriginalSize": false,
         "_string": "Ngân hàng Wing Hing",
         "_N$string": "Ngân hàng Wing Hing",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1
       }
@@ -246,7 +246,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 1
       }

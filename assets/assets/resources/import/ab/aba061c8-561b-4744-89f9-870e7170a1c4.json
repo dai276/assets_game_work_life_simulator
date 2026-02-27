@@ -257,7 +257,7 @@
         "_useOriginalSize": false,
         "_string": "khóa học:",
         "_N$string": "khóa học:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -321,7 +321,7 @@
         "_useOriginalSize": false,
         "_string": "Cách kinh doanh",
         "_N$string": "Cách kinh doanh",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$verticalAlign": 1
       }
@@ -614,7 +614,7 @@
         "_useOriginalSize": false,
         "_string": "tình trạng khóa học",
         "_N$string": "tình trạng khóa học",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -776,7 +776,7 @@
         "_useOriginalSize": false,
         "_string": "Bắt đầu học [200]",
         "_N$string": "Bắt đầu học [200]",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -900,7 +900,7 @@
         "_useOriginalSize": false,
         "_string": "trở lại",
         "_N$string": "trở lại",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1077,7 +1077,7 @@
         "_useOriginalSize": false,
         "_string": "Nghiên cứu trước",
         "_N$string": "Nghiên cứu trước",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1236,7 +1236,7 @@
         "_useOriginalSize": false,
         "_string": "200000",
         "_N$string": "200000",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$verticalAlign": 1,
         "_N$overflow": 2
@@ -1298,7 +1298,7 @@
         "_useOriginalSize": false,
         "_string": "Lớp học vẫn chưa bắt đầu",
         "_N$string": "Lớp học vẫn chưa bắt đầu",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

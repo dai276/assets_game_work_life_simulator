@@ -266,7 +266,7 @@
         "_useOriginalSize": false,
         "_string": "trị giá:",
         "_N$string": "trị giá:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -330,7 +330,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -459,7 +459,7 @@
         "_useOriginalSize": false,
         "_string": "tiêu:",
         "_N$string": "tiêu:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -523,7 +523,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -652,7 +652,7 @@
         "_useOriginalSize": false,
         "_string": "lợi nhuận:",
         "_N$string": "lợi nhuận:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -716,7 +716,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -914,7 +914,7 @@
         "_useOriginalSize": false,
         "_string": "Lợi ích cá nhân:",
         "_N$string": "Lợi ích cá nhân:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -978,7 +978,7 @@
         "_useOriginalSize": false,
         "_string": "100000",
         "_N$string": "100000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1165,7 +1165,7 @@
         "_useOriginalSize": false,
         "_string": "đánh giá:",
         "_N$string": "đánh giá:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1229,7 +1229,7 @@
         "_useOriginalSize": false,
         "_string": "Nhà sản xuất rác rưởi, bà tôi làm game giỏi hơn ông đấy.",
         "_N$string": "Nhà sản xuất rác rưởi, bà tôi làm game giỏi hơn ông đấy.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1410,7 +1410,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

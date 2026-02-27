@@ -194,7 +194,7 @@
         "_useOriginalSize": false,
         "_string": "Ngân hàng Wing Hing",
         "_N$string": "Ngân hàng Wing Hing",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18
       }
     ],
@@ -257,7 +257,7 @@
         "_useOriginalSize": false,
         "_string": "tiền gốc còn lại",
         "_N$string": "tiền gốc còn lại",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16
       }
     ],
@@ -319,7 +319,7 @@
         "_useOriginalSize": false,
         "_string": "Thu nhập của ngày hôm qua",
         "_N$string": "Thu nhập của ngày hôm qua",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16
       }
     ],
@@ -381,7 +381,7 @@
         "_useOriginalSize": false,
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16
       }
     ],
@@ -440,7 +440,7 @@
         "_useOriginalSize": false,
         "_string": "-360",
         "_N$string": "-360",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16
       }
     ],

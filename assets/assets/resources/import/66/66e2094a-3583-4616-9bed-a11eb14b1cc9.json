@@ -133,7 +133,7 @@
         "_useOriginalSize": false,
         "_string": "có được một danh hiệu",
         "_N$string": "có được một danh hiệu",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -553,7 +553,7 @@
         ],
         "_string": "Phần thưởng thuộc tính",
         "_N$string": "Phần thưởng thuộc tính",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -675,7 +675,7 @@
         ],
         "_string": "Số lượng khách hàng",
         "_N$string": "Số lượng khách hàng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -742,7 +742,7 @@
         ],
         "_string": "tăng nhẹ",
         "_N$string": "tăng nhẹ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -874,7 +874,7 @@
         ],
         "_string": "Tỷ lệ tăng giá thành công",
         "_N$string": "Tỷ lệ tăng giá thành công",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -941,7 +941,7 @@
         ],
         "_string": "cải thiện một chút",
         "_N$string": "cải thiện một chút",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1067,7 +1067,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

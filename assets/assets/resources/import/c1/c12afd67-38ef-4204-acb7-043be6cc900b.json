@@ -639,7 +639,7 @@
         "_useOriginalSize": false,
         "_string": "Chọn loại: Mô phỏng",
         "_N$string": "Chọn loại: Mô phỏng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -830,7 +830,7 @@
         "_useOriginalSize": false,
         "_string": "Chọn chủ đề: việc làm bán thời gian",
         "_N$string": "Chọn chủ đề: việc làm bán thời gian",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -1039,7 +1039,7 @@
         "_useOriginalSize": false,
         "_string": "Chọn số phận của bạn:",
         "_N$string": "Chọn số phận của bạn:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -1160,7 +1160,7 @@
         "_useOriginalSize": false,
         "_string": "1. Việc đăng ký số phiên bản ngày càng trở nên khó khăn hơn và nó có thể không xuất hiện lại trong một thời gian.",
         "_N$string": "1. Việc đăng ký số phiên bản ngày càng trở nên khó khăn hơn và nó có thể không xuất hiện lại trong một thời gian.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1316,7 +1316,7 @@
         "_useOriginalSize": false,
         "_string": "Đầu tư tuyển dụng:",
         "_N$string": "Đầu tư tuyển dụng:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -1435,7 +1435,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1591,7 +1591,7 @@
         "_useOriginalSize": false,
         "_string": "Đầu tư R&D:",
         "_N$string": "Đầu tư R&D:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -1710,7 +1710,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1866,7 +1866,7 @@
         "_useOriginalSize": false,
         "_string": "Kiểm tra đầu vào:",
         "_N$string": "Kiểm tra đầu vào:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -1985,7 +1985,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -2141,7 +2141,7 @@
         "_useOriginalSize": false,
         "_string": "Đầu tư tiếp thị:",
         "_N$string": "Đầu tư tiếp thị:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2260,7 +2260,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3

@@ -557,7 +557,7 @@
         "_useOriginalSize": false,
         "_string": "1700",
         "_N$string": "1700",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -621,7 +621,7 @@
         "_useOriginalSize": false,
         "_string": "Nhân dân tệ/tấn",
         "_N$string": "Nhân dân tệ/tấn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -685,7 +685,7 @@
         "_useOriginalSize": false,
         "_string": "5",
         "_N$string": "5",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -749,7 +749,7 @@
         "_useOriginalSize": false,
         "_string": "tấn",
         "_N$string": "tấn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -813,7 +813,7 @@
         "_useOriginalSize": false,
         "_string": "Trọng tải đã mua:",
         "_N$string": "Trọng tải đã mua:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -877,7 +877,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -945,7 +945,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng ngân sách:",
         "_N$string": "Tổng ngân sách:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1013,7 +1013,7 @@
         "_useOriginalSize": false,
         "_string": "365",
         "_N$string": "365",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1207,7 +1207,7 @@
         ],
         "_string": "rời khỏi",
         "_N$string": "rời khỏi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1342,7 +1342,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

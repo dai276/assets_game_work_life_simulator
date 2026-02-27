@@ -302,7 +302,7 @@
         "_useOriginalSize": false,
         "_string": "Việc tuyển dụng nhân viên mất quá nhiều thời gian, công ty không còn sẵn sàng tiếp tục, nhóm dự án bị giải tán và bạn bị sa thải.",
         "_N$string": "Việc tuyển dụng nhân viên mất quá nhiều thời gian, công ty không còn sẵn sàng tiếp tục, nhóm dự án bị giải tán và bạn bị sa thải.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$verticalAlign": 1,
         "_N$overflow": 2
@@ -423,7 +423,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

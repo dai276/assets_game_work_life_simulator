@@ -1416,7 +1416,7 @@
         "_useOriginalSize": false,
         "_string": "Giải thưởng cuối cùng đang chờ bạn nhận lấy!",
         "_N$string": "Giải thưởng cuối cùng đang chờ bạn nhận lấy!",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1647,7 +1647,7 @@
         ],
         "_string": "Hủy bỏ",
         "_N$string": "Hủy bỏ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1947,7 +1947,7 @@
         ],
         "_string": "Mở khóa ngay bây giờ",
         "_N$string": "Mở khóa ngay bây giờ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -313,7 +313,7 @@
         "_useOriginalSize": false,
         "_string": "165cm",
         "_N$string": "165cm",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -374,7 +374,7 @@
         "_useOriginalSize": false,
         "_string": "58kg",
         "_N$string": "58kg",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -489,7 +489,7 @@
         "_useOriginalSize": false,
         "_string": "24",
         "_N$string": "24",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -607,7 +607,7 @@
         "_useOriginalSize": false,
         "_string": "52",
         "_N$string": "52",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -944,7 +944,7 @@
         "_useOriginalSize": false,
         "_string": "điểm sức chịu đựng",
         "_N$string": "điểm sức chịu đựng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1008,7 +1008,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm sức chịu đựng có thể được sử dụng để nâng cao hiệu quả công việc\ntốc độ, hiệu quả hiện tại tăng lên",
         "_N$string": "Điểm sức chịu đựng có thể được sử dụng để nâng cao hiệu quả công việc\ntốc độ, hiệu quả hiện tại tăng lên",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 19,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1072,7 +1072,7 @@
         "_useOriginalSize": false,
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1203,7 +1203,7 @@
         "_useOriginalSize": false,
         "_string": "Mẹo",
         "_N$string": "Mẹo",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1267,7 +1267,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm sức chịu đựng có thể được sử dụng để nâng cao hiệu quả công việc\ntốc độ, hiệu quả hiện tại tăng lên",
         "_N$string": "Điểm sức chịu đựng có thể được sử dụng để nâng cao hiệu quả công việc\ntốc độ, hiệu quả hiện tại tăng lên",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1331,7 +1331,7 @@
         "_useOriginalSize": false,
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

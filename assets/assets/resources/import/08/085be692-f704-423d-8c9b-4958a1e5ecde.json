@@ -233,7 +233,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -358,7 +358,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -435,7 +435,7 @@
         "_useOriginalSize": false,
         "_string": "nhà kho",
         "_N$string": "nhà kho",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -563,7 +563,7 @@
         "_useOriginalSize": false,
         "_string": "Thời tiết hôm nay:",
         "_N$string": "Thời tiết hôm nay:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -627,7 +627,7 @@
         "_useOriginalSize": false,
         "_string": "nhiều nắng",
         "_N$string": "nhiều nắng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -693,7 +693,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

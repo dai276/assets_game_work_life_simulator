@@ -135,7 +135,7 @@
         "_useOriginalSize": false,
         "_string": "Chúc mừng bạn đã tham gia",
         "_N$string": "Chúc mừng bạn đã tham gia",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -323,7 +323,7 @@
         "_useOriginalSize": false,
         "_string": "Chức vụ",
         "_N$string": "Chức vụ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -384,7 +384,7 @@
         "_useOriginalSize": false,
         "_string": "Một nhà sản xuất tầm thường",
         "_N$string": "Một nhà sản xuất tầm thường",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1
       }
@@ -515,7 +515,7 @@
         "_useOriginalSize": false,
         "_string": "Ngân sách",
         "_N$string": "Ngân sách",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -641,7 +641,7 @@
         "_useOriginalSize": false,
         "_string": "100000",
         "_N$string": "100000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1
       }
@@ -1088,7 +1088,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1261,7 +1261,7 @@
         "_useOriginalSize": false,
         "_string": "Trình độ tầm thường 1.000.000\nBình thường 3000000\nCơ hội hiếm có 5000000\nTài năng 8000000\nChúa xuống trần gian 10000000",
         "_N$string": "Trình độ tầm thường 1.000.000\nBình thường 3000000\nCơ hội hiếm có 5000000\nTài năng 8000000\nChúa xuống trần gian 10000000",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }

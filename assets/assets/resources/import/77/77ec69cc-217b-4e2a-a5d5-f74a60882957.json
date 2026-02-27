@@ -4072,7 +4072,7 @@
         "_useOriginalSize": false,
         "_string": "Rất tiếc, nó không quá tệ. Ồ, nó không quá tệ. Ồ, nó không quá tệ.",
         "_N$string": "Rất tiếc, nó không quá tệ. Ồ, nó không quá tệ. Ồ, nó không quá tệ.",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 1
       }
@@ -4190,7 +4190,7 @@
         ],
         "_string": "hỏi thăm",
         "_N$string": "hỏi thăm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4325,7 +4325,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4615,7 +4615,7 @@
         "_useOriginalSize": false,
         "_string": "Rất tiếc, nó không quá tệ. Ồ, nó không quá tệ. Ồ, nó không quá tệ.",
         "_N$string": "Rất tiếc, nó không quá tệ. Ồ, nó không quá tệ. Ồ, nó không quá tệ.",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 1
       }

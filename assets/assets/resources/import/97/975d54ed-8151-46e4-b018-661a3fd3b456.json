@@ -172,7 +172,7 @@
         ],
         "_string": "95",
         "_N$string": "95",
-        "_fontSize": 34,
+        "_fontSize": 24,
         "_N$file": {
           "__uuid__": "9eQyPk67RHqaQ28LEu2fPV"
         },
@@ -341,7 +341,7 @@
         "_useOriginalSize": false,
         "_string": "C",
         "_N$string": "C",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -402,7 +402,7 @@
         "_useOriginalSize": false,
         "_string": "A",
         "_N$string": "A",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -463,7 +463,7 @@
         "_useOriginalSize": false,
         "_string": "B",
         "_N$string": "B",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -524,7 +524,7 @@
         "_useOriginalSize": false,
         "_string": "C",
         "_N$string": "C",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -585,7 +585,7 @@
         "_useOriginalSize": false,
         "_string": "C",
         "_N$string": "C",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -646,7 +646,7 @@
         "_useOriginalSize": false,
         "_string": "C",
         "_N$string": "C",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -707,7 +707,7 @@
         "_useOriginalSize": false,
         "_string": "D",
         "_N$string": "D",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4025,7 +4025,7 @@
         ],
         "_string": "Đưa tay vào giấy",
         "_N$string": "Đưa tay vào giấy",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

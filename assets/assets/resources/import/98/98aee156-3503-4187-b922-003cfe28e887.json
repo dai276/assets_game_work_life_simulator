@@ -486,7 +486,7 @@
         ],
         "_string": "Làm bài kiểm tra viết",
         "_N$string": "Làm bài kiểm tra viết",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -707,7 +707,7 @@
     ],
     "_string": "300",
     "_N$string": "300",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -773,7 +773,7 @@
     ],
     "_string": "Label",
     "_N$string": "Label",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_styleFlags": 1,
     "_N$horizontalAlign": 1,
@@ -858,7 +858,7 @@
         ],
         "_string": "đi làm",
         "_N$string": "đi làm",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1096,7 +1096,7 @@
         ],
         "_string": "bắt đầu ngay lập tức",
         "_N$string": "bắt đầu ngay lập tức",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1500,7 +1500,7 @@
         ],
         "_string": "Làm bài kiểm tra viết",
         "_N$string": "Làm bài kiểm tra viết",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1721,7 +1721,7 @@
     ],
     "_string": "300",
     "_N$string": "300",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1787,7 +1787,7 @@
     ],
     "_string": "Label",
     "_N$string": "Label",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_styleFlags": 1,
     "_N$horizontalAlign": 1,
@@ -1872,7 +1872,7 @@
         ],
         "_string": "đi làm",
         "_N$string": "đi làm",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2110,7 +2110,7 @@
         ],
         "_string": "bắt đầu ngay lập tức",
         "_N$string": "bắt đầu ngay lập tức",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2514,7 +2514,7 @@
         ],
         "_string": "Làm bài kiểm tra viết",
         "_N$string": "Làm bài kiểm tra viết",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2735,7 +2735,7 @@
     ],
     "_string": "300",
     "_N$string": "300",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2801,7 +2801,7 @@
     ],
     "_string": "Label",
     "_N$string": "Label",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_styleFlags": 1,
     "_N$horizontalAlign": 1,
@@ -2886,7 +2886,7 @@
         ],
         "_string": "đi làm",
         "_N$string": "đi làm",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3124,7 +3124,7 @@
         ],
         "_string": "bắt đầu ngay lập tức",
         "_N$string": "bắt đầu ngay lập tức",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3528,7 +3528,7 @@
         ],
         "_string": "Làm bài kiểm tra viết",
         "_N$string": "Làm bài kiểm tra viết",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3749,7 +3749,7 @@
     ],
     "_string": "300",
     "_N$string": "300",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -3815,7 +3815,7 @@
     ],
     "_string": "Label",
     "_N$string": "Label",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_styleFlags": 1,
     "_N$horizontalAlign": 1,
@@ -3900,7 +3900,7 @@
         ],
         "_string": "đi làm",
         "_N$string": "đi làm",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4138,7 +4138,7 @@
         ],
         "_string": "bắt đầu ngay lập tức",
         "_N$string": "bắt đầu ngay lập tức",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -1046,7 +1046,7 @@
         ],
         "_string": "Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi.",
         "_N$string": "Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi. Ngày hôm nay thật mệt mỏi.",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1112,7 +1112,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1587,7 +1587,7 @@
         ],
         "_string": "+100",
         "_N$string": "+100",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1763,7 +1763,7 @@
         ],
         "_string": "03:00 sáng",
         "_N$string": "03:00 sáng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1879,7 +1879,7 @@
         ],
         "_string": "Đêm 21:50",
         "_N$string": "Đêm 21:50",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2003,7 +2003,7 @@
         ],
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2348,7 +2348,7 @@
         ],
         "_string": "Tôi thật khốn khổ!",
         "_N$string": "Tôi thật khốn khổ!",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2416,7 +2416,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }

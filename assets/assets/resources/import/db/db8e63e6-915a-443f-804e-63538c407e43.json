@@ -135,7 +135,7 @@
         "_useOriginalSize": false,
         "_string": "200000",
         "_N$string": "200000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -213,7 +213,7 @@
         "_useOriginalSize": false,
         "_string": "Mẹo: Nếu lần trước bạn không gửi bản lưu vào đám mây trước khi thoát khỏi trò chơi, điều này có thể khiến bản lưu cục bộ và bản lưu vào đám mây không nhất quán nên giao diện lựa chọn này xuất hiện.",
         "_N$string": "Mẹo: Nếu lần trước bạn không gửi bản lưu vào đám mây trước khi thoát khỏi trò chơi, điều này có thể khiến bản lưu cục bộ và bản lưu vào đám mây không nhất quán nên giao diện lựa chọn này xuất hiện.",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -282,7 +282,7 @@
         "_useOriginalSize": false,
         "_string": "Mẹo: Có thể có độ trễ khi tải kho lưu trữ. Nếu không có phản hồi khi bạn chọn kho lưu trữ, đừng thoát khỏi trò chơi, vui lòng đợi 10-20 giây và thử lại!",
         "_N$string": "Mẹo: Có thể có độ trễ khi tải kho lưu trữ. Nếu không có phản hồi khi bạn chọn kho lưu trữ, đừng thoát khỏi trò chơi, vui lòng đợi 10-20 giây và thử lại!",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -351,7 +351,7 @@
         "_useOriginalSize": false,
         "_string": "35",
         "_N$string": "35",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -526,7 +526,7 @@
         ],
         "_string": "Sử dụng lưu trữ đám mây",
         "_N$string": "Sử dụng lưu trữ đám mây",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -668,7 +668,7 @@
         "_useOriginalSize": false,
         "_string": "35",
         "_N$string": "35",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -736,7 +736,7 @@
         "_useOriginalSize": false,
         "_string": "200000",
         "_N$string": "200000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -921,7 +921,7 @@
         ],
         "_string": "Sử dụng kho lưu trữ cục bộ",
         "_N$string": "Sử dụng kho lưu trữ cục bộ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -125,7 +125,7 @@
         "_useOriginalSize": false,
         "_string": "Đã trả lời",
         "_N$string": "Đã trả lời",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -251,7 +251,7 @@
         "_useOriginalSize": false,
         "_string": "Bậc thầy học thuật bất khả chiến bại",
         "_N$string": "Bậc thầy học thuật bất khả chiến bại",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -312,7 +312,7 @@
         "_useOriginalSize": false,
         "_string": "Trả lời thành công! lựa chọn:",
         "_N$string": "Trả lời thành công! lựa chọn:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -373,7 +373,7 @@
         "_useOriginalSize": false,
         "_string": "C",
         "_N$string": "C",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

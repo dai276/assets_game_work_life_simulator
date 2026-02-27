@@ -1,0 +1,252 @@
+{
+  "__type__": "cc.EffectAsset",
+  "_name": "sprite_light",
+  "techniques": [
+    {
+      "passes": [
+        {
+          "blendState": {
+            "targets": [
+              {
+                "blend": true
+              }
+            ]
+          },
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "properties": {
+            "texture": {
+              "value": "white",
+              "type": 29
+            },
+            "alphaThreshold": {
+              "value": [
+                0.5
+              ],
+              "type": 13
+            },
+            "albedo": {
+              "value": [
+                1,
+                1,
+                1,
+                1
+              ],
+              "editor": {
+                "type": "color",
+                "tooltip": "ánh sáng xung quanh"
+              },
+              "type": 16
+            },
+            "spotLightPos": {
+              "value": [
+                1,
+                1
+              ],
+              "type": 14
+            },
+            "spotLightDir": {
+              "value": [
+                1,
+                1
+              ],
+              "type": 14
+            },
+            "spotLightParam": {
+              "value": [
+                1,
+                1,
+                1,
+                1
+              ],
+              "type": 16
+            },
+            "spotLightColor": {
+              "value": [
+                1,
+                1,
+                1,
+                1
+              ],
+              "type": 16
+            },
+            "spotLightCutOff": {
+              "value": [
+                1
+              ],
+              "type": 13
+            },
+            "pointLightPos": {
+              "type": 16
+            },
+            "pointLightColor": {
+              "type": 16
+            },
+            "pointLightParam": {
+              "type": 16
+            }
+          },
+          "program": "sprite_light|vs|fs"
+        }
+      ]
+    }
+  ],
+  "shaders": [
+    {
+      "hash": 2456311750,
+      "glsl3": {
+        "vert": "\nprecision highp float;\nuniform CCGlobal {\n  mat4 cc_matView;\n  mat4 cc_matViewInv;\n  mat4 cc_matProj;\n  mat4 cc_matProjInv;\n  mat4 cc_matViewProj;\n  mat4 cc_matViewProjInv;\n  vec4 cc_cameraPos;\n  vec4 cc_time;\n  mediump vec4 cc_screenSize;\n  mediump vec4 cc_screenScale;\n};\nuniform CCLocal {\n  mat4 cc_matWorld;\n  mat4 cc_matWorldIT;\n};\nin vec3 a_position;\nin vec4 a_color;\nout vec4 v_color;\nout vec2 v_gPos;\n#if USE_TEXTURE\nin vec2 a_uv0;\nout vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  vec4 gPos = cc_matWorld * pos;\n  v_gPos = gPos.xy;\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  v_gPos = pos.xy;\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}",
+        "frag": "\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform ALPHA_TEST {\n    float alphaThreshold;\n  };\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nin vec4 v_color;\nin vec2 v_gPos;\n#if USE_TEXTURE\nin vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if USE_TINT\n#endif\nuniform blocks {\n  vec4 albedo;\n};\nuniform spotLight {\n  vec2 spotLightPos;\n  vec2 spotLightDir;\n  vec4 spotLightParam;\n  vec4 spotLightColor;\n  float spotLightCutOff;\n};\nuniform pointLight {\n  vec4 pointLightPos[10];\n  vec4 pointLightColor[10];\n  vec4 pointLightParam[10];\n};\nvoid main () {\n  vec4 diffuse = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n    diffuse *= texture(texture, v_uv0);\n    #if CC_USE_ALPHA_ATLAS_TEXTURE\n    diffuse.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n  diffuse *= v_color;\n  vec3 albedoColor = diffuse.xyz * albedo.xyz * 1.2;\n  vec3 lightColor = vec3(0.0);\n  vec2 pos;\n  float factor;\n  float d;\n  float kc;\n  float kl;\n  float kq;\n  float identity;\n  float k;\n  vec4 color;\n  for(int i = 0;i<10;i++){\n    pos = pointLightPos[i].xy;\n    factor = pointLightPos[i].z;\n    color = pointLightColor[i];\n    d = distance(pos, v_gPos);\n    kc = pointLightParam[i].x;\n    kl = pointLightParam[i].y;\n    kq = pointLightParam[i].z;\n    identity = pointLightParam[i].w;\n    k = 1.0/(1.0 + kl*d + kq*d*d) * identity;\n    lightColor += color.xyz * diffuse.xyz * k;\n  }\n  pos = spotLightPos;\n  color = spotLightColor;\n  d = distance(pos, v_gPos);\n  kc = spotLightParam.x;\n  kl = spotLightParam.y;\n  kq = spotLightParam.z;\n  identity = spotLightParam.w;\n  float k1 = 1.0/(1.0 + kl * d + kq * d * d) * identity;\n  factor = cos(spotLightCutOff);\n  vec2 dir = v_gPos - pos;\n  dir = normalize(dir);\n  float theta = dot(dir, spotLightDir);\n  float k2 = smoothstep(factor - 0.1, factor, theta);\n  vec2 centerPos = spotLightDir * 10.0 + spotLightPos;\n  vec2 pixDir = v_gPos - centerPos;\n  float dotValue = dot(spotLightDir, pixDir);\n  k2 = step(0.0, dotValue) * k2;\n  lightColor += color.xyz * diffuse.xyz * k1 * k2;\n  vec4 outColor = vec4(albedoColor.xyz+lightColor.xyz, 1.0);\n  ALPHA_TEST(outColor);\n  gl_FragColor = outColor;\n}"
+      },
+      "glsl1": {
+        "vert": "\nprecision highp float;\nuniform mat4 cc_matViewProj;\nuniform mat4 cc_matWorld;\nattribute vec3 a_position;\nattribute vec4 a_color;\nvarying vec4 v_color;\nvarying vec2 v_gPos;\n#if USE_TEXTURE\nattribute vec2 a_uv0;\nvarying vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  vec4 gPos = cc_matWorld * pos;\n  v_gPos = gPos.xy;\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  v_gPos = pos.xy;\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}",
+        "frag": "\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform float alphaThreshold;\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nvarying vec4 v_color;\nvarying vec2 v_gPos;\n#if USE_TEXTURE\nvarying vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if USE_TINT\n#endif\nuniform vec4 albedo;\nuniform vec2 spotLightPos;\nuniform vec2 spotLightDir;\nuniform vec4 spotLightParam;\nuniform vec4 spotLightColor;\nuniform float spotLightCutOff;\nuniform vec4 pointLightPos[10];\nuniform vec4 pointLightColor[10];\nuniform vec4 pointLightParam[10];\nvoid main () {\n  vec4 diffuse = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n    diffuse *= texture2D(texture, v_uv0);\n    #if CC_USE_ALPHA_ATLAS_TEXTURE\n    diffuse.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n  diffuse *= v_color;\n  vec3 albedoColor = diffuse.xyz * albedo.xyz * 1.2;\n  vec3 lightColor = vec3(0.0);\n  vec2 pos;\n  float factor;\n  float d;\n  float kc;\n  float kl;\n  float kq;\n  float identity;\n  float k;\n  vec4 color;\n  for(int i = 0;i<10;i++){\n    pos = pointLightPos[i].xy;\n    factor = pointLightPos[i].z;\n    color = pointLightColor[i];\n    d = distance(pos, v_gPos);\n    kc = pointLightParam[i].x;\n    kl = pointLightParam[i].y;\n    kq = pointLightParam[i].z;\n    identity = pointLightParam[i].w;\n    k = 1.0/(1.0 + kl*d + kq*d*d) * identity;\n    lightColor += color.xyz * diffuse.xyz * k;\n  }\n  pos = spotLightPos;\n  color = spotLightColor;\n  d = distance(pos, v_gPos);\n  kc = spotLightParam.x;\n  kl = spotLightParam.y;\n  kq = spotLightParam.z;\n  identity = spotLightParam.w;\n  float k1 = 1.0/(1.0 + kl * d + kq * d * d) * identity;\n  factor = cos(spotLightCutOff);\n  vec2 dir = v_gPos - pos;\n  dir = normalize(dir);\n  float theta = dot(dir, spotLightDir);\n  float k2 = smoothstep(factor - 0.1, factor, theta);\n  vec2 centerPos = spotLightDir * 10.0 + spotLightPos;\n  vec2 pixDir = v_gPos - centerPos;\n  float dotValue = dot(spotLightDir, pixDir);\n  k2 = step(0.0, dotValue) * k2;\n  lightColor += color.xyz * diffuse.xyz * k1 * k2;\n  vec4 outColor = vec4(albedoColor.xyz+lightColor.xyz, 1.0);\n  ALPHA_TEST(outColor);\n  gl_FragColor = outColor;\n}"
+      },
+      "builtins": {
+        "globals": {
+          "blocks": [
+            {
+              "name": "CCGlobal",
+              "defines": []
+            }
+          ],
+          "samplers": []
+        },
+        "locals": {
+          "blocks": [
+            {
+              "name": "CCLocal",
+              "defines": []
+            }
+          ],
+          "samplers": []
+        }
+      },
+      "defines": [
+        {
+          "name": "USE_TEXTURE",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "CC_USE_MODEL",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_ALPHA_TEST",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_TINT",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "CC_USE_ALPHA_ATLAS_TEXTURE",
+          "type": "boolean",
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "name": "ALPHA_TEST",
+          "members": [
+            {
+              "name": "alphaThreshold",
+              "type": 13,
+              "count": 1
+            }
+          ],
+          "defines": [
+            "USE_ALPHA_TEST"
+          ],
+          "binding": 0
+        },
+        {
+          "name": "blocks",
+          "members": [
+            {
+              "name": "albedo",
+              "type": 16,
+              "count": 1
+            }
+          ],
+          "defines": [],
+          "binding": 1
+        },
+        {
+          "name": "spotLight",
+          "members": [
+            {
+              "name": "spotLightPos",
+              "type": 14,
+              "count": 1
+            },
+            {
+              "name": "spotLightDir",
+              "type": 14,
+              "count": 1
+            },
+            {
+              "name": "spotLightParam",
+              "type": 16,
+              "count": 1
+            },
+            {
+              "name": "spotLightColor",
+              "type": 16,
+              "count": 1
+            },
+            {
+              "name": "spotLightCutOff",
+              "type": 13,
+              "count": 1
+            }
+          ],
+          "defines": [],
+          "binding": 2
+        },
+        {
+          "name": "pointLight",
+          "members": [
+            {
+              "name": "pointLightPos",
+              "type": 16,
+              "count": 10
+            },
+            {
+              "name": "pointLightColor",
+              "type": 16,
+              "count": 10
+            },
+            {
+              "name": "pointLightParam",
+              "type": 16,
+              "count": 10
+            }
+          ],
+          "defines": [],
+          "binding": 3
+        }
+      ],
+      "samplers": [
+        {
+          "name": "texture",
+          "type": 29,
+          "count": 1,
+          "defines": [
+            "USE_TEXTURE"
+          ],
+          "binding": 30
+        }
+      ],
+      "record": null,
+      "name": "sprite_light|vs|fs"
+    }
+  ]
+}

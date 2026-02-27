@@ -572,7 +572,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -740,7 +740,7 @@
         "_useOriginalSize": false,
         "_string": "Woooooooooooooooooo",
         "_N$string": "Woooooooooooooooooo",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$cacheMode": 2
@@ -918,7 +918,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -1054,7 +1054,7 @@
         ],
         "_string": "nhuộm tóc",
         "_N$string": "nhuộm tóc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1240,7 +1240,7 @@
         "_useOriginalSize": false,
         "_string": "10000",
         "_N$string": "10000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2

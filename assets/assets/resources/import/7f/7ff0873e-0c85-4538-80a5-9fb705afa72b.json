@@ -203,7 +203,7 @@
         "_useOriginalSize": false,
         "_string": "tiêu đề",
         "_N$string": "tiêu đề",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -268,7 +268,7 @@
         "_useOriginalSize": false,
         "_string": "15 nhân dân tệ",
         "_N$string": "15 nhân dân tệ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -386,7 +386,7 @@
         "_useOriginalSize": false,
         "_string": "1",
         "_N$string": "1",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -555,7 +555,7 @@
         "_useOriginalSize": false,
         "_string": "cảm giác no\ncảm giác no\ncảm giác no",
         "_N$string": "cảm giác no\ncảm giác no\ncảm giác no",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 2
@@ -621,7 +621,7 @@
         "_useOriginalSize": false,
         "_string": "cảm giác no",
         "_N$string": "cảm giác no",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18
       }
     ],

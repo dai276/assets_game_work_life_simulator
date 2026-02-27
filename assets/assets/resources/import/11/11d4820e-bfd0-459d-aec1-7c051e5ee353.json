@@ -1784,7 +1784,7 @@
         ],
         "_string": "ông già chơi cờ",
         "_N$string": "ông già chơi cờ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1965,7 +1965,7 @@
         ],
         "_string": "Ông chủ Vương",
         "_N$string": "Ông chủ Vương",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2260,7 +2260,7 @@
         ],
         "_string": "Sở hữu",
         "_N$string": "Sở hữu",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2491,7 +2491,7 @@
         "_useOriginalSize": false,
         "_string": "50",
         "_N$string": "50",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2614,7 +2614,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2901,7 +2901,7 @@
         "_useOriginalSize": false,
         "_string": "cờ vua hối tiếc",
         "_N$string": "cờ vua hối tiếc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3081,7 +3081,7 @@
         "_useOriginalSize": false,
         "_string": "cánh tay phải của Chúa",
         "_N$string": "cánh tay phải của Chúa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3145,7 +3145,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn có thể thực hiện một nước cờ của đối thủ!",
         "_N$string": "Bạn có thể thực hiện một nước cờ của đối thủ!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

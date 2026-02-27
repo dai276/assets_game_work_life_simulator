@@ -144,7 +144,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn được người có thiện chí đưa đến bệnh viện và bạn phải chi trả chi phí y tế",
         "_N$string": "Bạn được người có thiện chí đưa đến bệnh viện và bạn phải chi trả chi phí y tế",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -354,7 +354,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -563,7 +563,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -772,7 +772,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -893,7 +893,7 @@
         ],
         "_string": "Trả tiền túi",
         "_N$string": "Trả tiền túi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1128,7 +1128,7 @@
         ],
         "_string": "Điều trị miễn phí",
         "_N$string": "Điều trị miễn phí",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1263,7 +1263,7 @@
         ],
         "_string": "rời khỏi",
         "_N$string": "rời khỏi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -233,7 +233,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$overflow": 1
@@ -295,7 +295,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$overflow": 3
@@ -487,7 +487,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -619,7 +619,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -751,7 +751,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -881,7 +881,7 @@
         "_useOriginalSize": false,
         "_string": "Ghim nó lên trên cùng",
         "_N$string": "Ghim nó lên trên cùng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -959,7 +959,7 @@
         "_useOriginalSize": false,
         "_string": "không có",
         "_N$string": "không có",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$overflow": 1
@@ -1023,7 +1023,7 @@
         "_useOriginalSize": false,
         "_string": "Hiện tại không có nhiệm vụ nào, bạn có thể khám phá xung quanh!",
         "_N$string": "Hiện tại không có nhiệm vụ nào, bạn có thể khám phá xung quanh!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$overflow": 3

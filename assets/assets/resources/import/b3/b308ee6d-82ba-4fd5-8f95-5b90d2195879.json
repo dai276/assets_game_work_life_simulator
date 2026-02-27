@@ -274,7 +274,7 @@
         "_useOriginalSize": false,
         "_string": "giải quyết tranh chấp",
         "_N$string": "giải quyết tranh chấp",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -353,7 +353,7 @@
         "_useOriginalSize": false,
         "_string": "Số trận thắng:",
         "_N$string": "Số trận thắng:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -414,7 +414,7 @@
         "_useOriginalSize": false,
         "_string": "30",
         "_N$string": "30",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -483,7 +483,7 @@
         "_useOriginalSize": false,
         "_string": "Số vòng thất bại:",
         "_N$string": "Số vòng thất bại:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -544,7 +544,7 @@
         "_useOriginalSize": false,
         "_string": "30",
         "_N$string": "30",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -706,7 +706,7 @@
         "_useOriginalSize": false,
         "_string": "Hoa hồng đấu tập:",
         "_N$string": "Hoa hồng đấu tập:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -774,7 +774,7 @@
         "_useOriginalSize": false,
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -849,7 +849,7 @@
         "_useOriginalSize": false,
         "_string": "Đây là mức lương tranh đấu của bạn cho ngày hôm nay!",
         "_N$string": "Đây là mức lương tranh đấu của bạn cho ngày hôm nay!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1192,7 +1192,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

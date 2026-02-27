@@ -274,7 +274,7 @@
         ],
         "_string": "ĐƯỢC RỒI",
         "_N$string": "ĐƯỢC RỒI",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -351,7 +351,7 @@
         "_useOriginalSize": false,
         "_string": "Người này đang ăn trộm trong cộng đồng, mong các bạn lưu ý điều này. Do sơ suất của nhân viên bảo vệ nên người này đã được cho vào mà không kiểm tra danh tính.",
         "_N$string": "Người này đang ăn trộm trong cộng đồng, mong các bạn lưu ý điều này. Do sơ suất của nhân viên bảo vệ nên người này đã được cho vào mà không kiểm tra danh tính.",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$overflow": 1
@@ -415,7 +415,7 @@
         "_useOriginalSize": false,
         "_string": "khỏe:",
         "_N$string": "khỏe:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -534,7 +534,7 @@
         "_useOriginalSize": false,
         "_string": "50",
         "_N$string": "50",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

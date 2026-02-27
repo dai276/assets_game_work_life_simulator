@@ -214,7 +214,7 @@
         "_useOriginalSize": false,
         "_string": "Cuộc thi cờ thỏ cáo",
         "_N$string": "Cuộc thi cờ thỏ cáo",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -351,7 +351,7 @@
         ],
         "_string": "Để làm phong phú thêm hoạt động giải trí của mọi người, cộng đồng tổ chức trò chơi cờ thỏ cáo",
         "_N$string": "Để làm phong phú thêm hoạt động giải trí của mọi người, cộng đồng tổ chức trò chơi cờ thỏ cáo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 30,
         "_N$verticalAlign": 1
       }
@@ -418,7 +418,7 @@
         ],
         "_string": "Cạnh tranh, hình thức là",
         "_N$string": "Cạnh tranh, hình thức là",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 30,
         "_N$verticalAlign": 1
       }
@@ -485,7 +485,7 @@
         ],
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 30,
         "_N$verticalAlign": 1
       }
@@ -552,7 +552,7 @@
         ],
         "_string": "Nếu thắng bạn sẽ được vào vòng tiếp theo",
         "_N$string": "Nếu thắng bạn sẽ được vào vòng tiếp theo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 30,
         "_N$verticalAlign": 1
       }
@@ -786,7 +786,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1035,7 +1035,7 @@
         ],
         "_string": "tham gia",
         "_N$string": "tham gia",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1167,7 +1167,7 @@
         "_useOriginalSize": false,
         "_string": "-10",
         "_N$string": "-10",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1248,7 +1248,7 @@
         "_useOriginalSize": false,
         "_string": "Phần thưởng vô địch:",
         "_N$string": "Phần thưởng vô địch:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1366,7 +1366,7 @@
         "_useOriginalSize": false,
         "_string": "500",
         "_N$string": "500",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

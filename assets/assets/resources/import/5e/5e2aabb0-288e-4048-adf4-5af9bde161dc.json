@@ -126,7 +126,7 @@
         "_useOriginalSize": false,
         "_string": "Chuẩn bị lên mạng",
         "_N$string": "Chuẩn bị lên mạng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -417,7 +417,7 @@
     "_useOriginalSize": false,
     "_string": "kiểm tra âm nhạc",
     "_N$string": "kiểm tra âm nhạc",
-    "_fontSize": 28,
+    "_fontSize": 20,
     "_lineHeight": 28,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -600,7 +600,7 @@
     "_useOriginalSize": false,
     "_string": "10000",
     "_N$string": "10000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -720,7 +720,7 @@
     "_useOriginalSize": false,
     "_string": "hơn",
     "_N$string": "hơn",
-    "_fontSize": 24,
+    "_fontSize": 17,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1128,7 +1128,7 @@
     "_useOriginalSize": false,
     "_string": "kiểm tra âm nhạc",
     "_N$string": "kiểm tra âm nhạc",
-    "_fontSize": 28,
+    "_fontSize": 20,
     "_lineHeight": 28,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1311,7 +1311,7 @@
     "_useOriginalSize": false,
     "_string": "10000",
     "_N$string": "10000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1431,7 +1431,7 @@
     "_useOriginalSize": false,
     "_string": "hơn",
     "_N$string": "hơn",
-    "_fontSize": 24,
+    "_fontSize": 17,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1839,7 +1839,7 @@
     "_useOriginalSize": false,
     "_string": "kiểm tra âm nhạc",
     "_N$string": "kiểm tra âm nhạc",
-    "_fontSize": 28,
+    "_fontSize": 20,
     "_lineHeight": 28,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2022,7 +2022,7 @@
     "_useOriginalSize": false,
     "_string": "10000",
     "_N$string": "10000",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2142,7 +2142,7 @@
     "_useOriginalSize": false,
     "_string": "hơn",
     "_N$string": "hơn",
-    "_fontSize": 24,
+    "_fontSize": 17,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2443,7 +2443,7 @@
         "_useOriginalSize": false,
         "_string": "Mục tiếp theo",
         "_N$string": "Mục tiếp theo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -286,7 +286,7 @@
         ],
         "_string": "Jinlebao",
         "_N$string": "Jinlebao",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -850,7 +850,7 @@
         ],
         "_string": "(Có sẵn ở:",
         "_N$string": "(Có sẵn ở:",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -910,7 +910,7 @@
         ],
         "_string": "3000/5000",
         "_N$string": "3000/5000",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -973,7 +973,7 @@
         ],
         "_string": ")",
         "_N$string": ")",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1033,7 +1033,7 @@
         ],
         "_string": "36000",
         "_N$string": "36000",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1096,7 +1096,7 @@
         ],
         "_string": "36000",
         "_N$string": "36000",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1159,7 +1159,7 @@
         ],
         "_string": "36000",
         "_N$string": "36000",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1222,7 +1222,7 @@
         ],
         "_string": "36000",
         "_N$string": "36000",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1482,7 +1482,7 @@
         ],
         "_string": "quỹ khách sạn 8 ngày",
         "_N$string": "quỹ khách sạn 8 ngày",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1549,7 +1549,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1612,7 +1612,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1675,7 +1675,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1797,7 +1797,7 @@
         ],
         "_string": "Xếp hạng quỹ",
         "_N$string": "Xếp hạng quỹ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1913,7 +1913,7 @@
         ],
         "_string": "lịch sử giao dịch",
         "_N$string": "lịch sử giao dịch",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2322,7 +2322,7 @@
         ],
         "_string": "bán",
         "_N$string": "bán",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2379,7 +2379,7 @@
         ],
         "_string": "Số lượng",
         "_N$string": "Số lượng",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2442,7 +2442,7 @@
         ],
         "_string": "Thu nhập của ngày hôm qua",
         "_N$string": "Thu nhập của ngày hôm qua",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2505,7 +2505,7 @@
         ],
         "_string": "nắm giữ lợi nhuận",
         "_N$string": "nắm giữ lợi nhuận",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2568,7 +2568,7 @@
         ],
         "_string": "quỹ khách sạn 8 ngày",
         "_N$string": "quỹ khách sạn 8 ngày",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -2636,7 +2636,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2699,7 +2699,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2762,7 +2762,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2884,7 +2884,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2941,7 +2941,7 @@
         ],
         "_string": "999999",
         "_N$string": "999999",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -3223,7 +3223,7 @@
         ],
         "_string": "3000",
         "_N$string": "3000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3291,7 +3291,7 @@
         ],
         "_string": "(Phí xử lý 1,5%)",
         "_N$string": "(Phí xử lý 1,5%)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3640,7 +3640,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3697,7 +3697,7 @@
         ],
         "_string": "Số lượng",
         "_N$string": "Số lượng",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3760,7 +3760,7 @@
         ],
         "_string": "giá trị ròng",
         "_N$string": "giá trị ròng",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3823,7 +3823,7 @@
         ],
         "_string": "Tăng hàng tuần",
         "_N$string": "Tăng hàng tuần",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3886,7 +3886,7 @@
         ],
         "_string": "quỹ khách sạn 8 ngày",
         "_N$string": "quỹ khách sạn 8 ngày",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -3954,7 +3954,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4017,7 +4017,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4080,7 +4080,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4202,7 +4202,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4259,7 +4259,7 @@
         ],
         "_string": "999999",
         "_N$string": "999999",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -4705,7 +4705,7 @@
         ],
         "_string": "Chi tiết quỹ",
         "_N$string": "Chi tiết quỹ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4762,7 +4762,7 @@
         ],
         "_string": "quỹ khách sạn 8 ngày",
         "_N$string": "quỹ khách sạn 8 ngày",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4825,7 +4825,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4888,7 +4888,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4951,7 +4951,7 @@
         ],
         "_string": "3600",
         "_N$string": "3600",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5073,7 +5073,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5189,7 +5189,7 @@
         ],
         "_string": "bán",
         "_N$string": "bán",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5782,7 +5782,7 @@
         ],
         "_string": "Xếp hạng quỹ",
         "_N$string": "Xếp hạng quỹ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6619,7 +6619,7 @@
         ],
         "_string": "lịch sử giao dịch",
         "_N$string": "lịch sử giao dịch",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6969,7 +6969,7 @@
         ],
         "_string": "Chi tiết doanh thu",
         "_N$string": "Chi tiết doanh thu",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

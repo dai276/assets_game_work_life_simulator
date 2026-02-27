@@ -601,7 +601,7 @@
         ],
         "_string": "Bỏ điện thoại của bạn đi",
         "_N$string": "Bỏ điện thoại của bạn đi",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1484,7 +1484,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1543,7 +1543,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 14,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1608,7 +1608,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1674,7 +1674,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2399,7 +2399,7 @@
         "_useOriginalSize": false,
         "_string": "Không\nthích hợp\ndi chuyển\nGạch",
         "_N$string": "Không\nthích hợp\ndi chuyển\nGạch",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2471,7 +2471,7 @@
         "_useOriginalSize": false,
         "_string": "Không\nthích hợp\ntình yêu\ntình yêu",
         "_N$string": "Không\nthích hợp\ntình yêu\ntình yêu",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2543,7 +2543,7 @@
         "_useOriginalSize": false,
         "_string": "Làm việc chăm chỉ và được chứng nhận trực tiếp! Hãy nhớ rằng, chỉ có nghèo khó mới có được thứ gì đó mà không mất gì! Tài năng có thể được thực hiện mà không cần làm việc",
         "_N$string": "Làm việc chăm chỉ và được chứng nhận trực tiếp! Hãy nhớ rằng, chỉ có nghèo khó mới có được thứ gì đó mà không mất gì! Tài năng có thể được thực hiện mà không cần làm việc",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -2677,7 +2677,7 @@
         "_useOriginalSize": false,
         "_string": "Thu nhập từ công việc tăng",
         "_N$string": "Thu nhập từ công việc tăng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2744,7 +2744,7 @@
         "_useOriginalSize": false,
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -2808,7 +2808,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }

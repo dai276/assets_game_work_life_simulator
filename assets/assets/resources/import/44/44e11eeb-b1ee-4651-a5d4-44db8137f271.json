@@ -594,7 +594,7 @@
         ],
         "_string": "24:00",
         "_N$string": "24:00",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -726,7 +726,7 @@
         ],
         "_string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
         "_N$string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3,
@@ -792,7 +792,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1034,7 +1034,7 @@
         ],
         "_string": "trò chuyện",
         "_N$string": "trò chuyện",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1556,7 +1556,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 3
       }
@@ -1620,7 +1620,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1853,7 +1853,7 @@
         ],
         "_string": "Đêm 21:50",
         "_N$string": "Đêm 21:50",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1977,7 +1977,7 @@
         ],
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2322,7 +2322,7 @@
         ],
         "_string": "Tôi thật khốn khổ!",
         "_N$string": "Tôi thật khốn khổ!",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -2390,7 +2390,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }

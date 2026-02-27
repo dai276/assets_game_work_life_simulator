@@ -286,7 +286,7 @@
         "_useOriginalSize": false,
         "_string": "tôm",
         "_N$string": "tôm",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -352,7 +352,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$overflow": 3

@@ -2524,7 +2524,7 @@
         ],
         "_string": "woo woo woo",
         "_N$string": "woo woo woo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2660,7 +2660,7 @@
         ],
         "_string": "woo woo woo",
         "_N$string": "woo woo woo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2796,7 +2796,7 @@
         ],
         "_string": "woo woo woo",
         "_N$string": "woo woo woo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5564,7 +5564,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 2
       }

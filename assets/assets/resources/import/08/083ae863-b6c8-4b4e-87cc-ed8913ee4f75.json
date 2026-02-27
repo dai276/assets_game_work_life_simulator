@@ -299,7 +299,7 @@
         "_useOriginalSize": false,
         "_string": "Họ tên: Mã Đông Mai",
         "_N$string": "Họ tên: Mã Đông Mai",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -364,7 +364,7 @@
         "_useOriginalSize": false,
         "_string": "Giới thiệu nhân viên: sự lựa chọn toàn diện\ntay",
         "_N$string": "Giới thiệu nhân viên: sự lựa chọn toàn diện\ntay",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -529,7 +529,7 @@
         "_useOriginalSize": false,
         "_string": "Tuyển dụng[150]",
         "_N$string": "Tuyển dụng[150]",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_enableWrapText": false,
         "_N$horizontalAlign": 1,

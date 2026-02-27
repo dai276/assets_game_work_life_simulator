@@ -242,7 +242,7 @@
         "_useOriginalSize": false,
         "_string": "đóng cửa",
         "_N$string": "đóng cửa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -368,7 +368,7 @@
         "_useOriginalSize": false,
         "_string": "sự kiện đêm",
         "_N$string": "sự kiện đêm",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -436,7 +436,7 @@
         "_useOriginalSize": false,
         "_string": "Tôi ngủ trong phòng theo giờ của khách sạn 8 ngày một đêm và nghỉ ngơi rất tốt.",
         "_N$string": "Tôi ngủ trong phòng theo giờ của khách sạn 8 ngày một đêm và nghỉ ngơi rất tốt.",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$overflow": 2
       }
@@ -565,7 +565,7 @@
         "_useOriginalSize": false,
         "_string": "Những thay đổi trong tâm lý",
         "_N$string": "Những thay đổi trong tâm lý",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -633,7 +633,7 @@
         "_useOriginalSize": false,
         "_string": "Tôi ngủ trong phòng theo giờ của khách sạn 8 ngày một đêm và nghỉ ngơi rất tốt.",
         "_N$string": "Tôi ngủ trong phòng theo giờ của khách sạn 8 ngày một đêm và nghỉ ngơi rất tốt.",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$overflow": 2
       }

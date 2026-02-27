@@ -186,7 +186,7 @@
         "_useOriginalSize": false,
         "_string": "Lưu ý: Cố gắng đến sớm nhất có thể",
         "_N$string": "Lưu ý: Cố gắng đến sớm nhất có thể",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -250,7 +250,7 @@
         "_useOriginalSize": false,
         "_string": "Chỉ huy lựa chọn tay lái của xe cho góc cua tiếp theo!",
         "_N$string": "Chỉ huy lựa chọn tay lái của xe cho góc cua tiếp theo!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
       }

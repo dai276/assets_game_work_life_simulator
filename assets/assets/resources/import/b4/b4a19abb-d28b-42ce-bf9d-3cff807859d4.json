@@ -143,7 +143,7 @@
         "_useOriginalSize": false,
         "_string": "xe cân bằng",
         "_N$string": "xe cân bằng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -331,7 +331,7 @@
         "_useOriginalSize": false,
         "_string": "999",
         "_N$string": "999",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -453,7 +453,7 @@
         ],
         "_string": "999",
         "_N$string": "999",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

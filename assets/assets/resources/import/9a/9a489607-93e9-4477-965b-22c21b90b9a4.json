@@ -767,7 +767,7 @@
         ],
         "_string": "sao biển",
         "_N$string": "sao biển",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -1074,7 +1074,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1295,7 +1295,7 @@
         ],
         "_string": "Mua lô gỗ này",
         "_N$string": "Mua lô gỗ này",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1431,7 +1431,7 @@
         ],
         "_string": "Xem (2 lần)",
         "_N$string": "Xem (2 lần)",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1570,7 +1570,7 @@
         "_useOriginalSize": false,
         "_string": "(Giá lô gỗ này:",
         "_N$string": "(Giá lô gỗ này:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1644,7 +1644,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1718,7 +1718,7 @@
         "_useOriginalSize": false,
         "_string": ")",
         "_N$string": ")",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2060,7 +2060,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2276,7 +2276,7 @@
         ],
         "_string": "sao biển",
         "_N$string": "sao biển",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }

@@ -548,7 +548,7 @@
         "_useOriginalSize": false,
         "_string": "điều",
         "_N$string": "điều",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -728,7 +728,7 @@
         "_useOriginalSize": false,
         "_string": "đồ cũ",
         "_N$string": "đồ cũ",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -908,7 +908,7 @@
         "_useOriginalSize": false,
         "_string": "Đánh giá kho báu",
         "_N$string": "Đánh giá kho báu",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1088,7 +1088,7 @@
         "_useOriginalSize": false,
         "_string": "nội thất",
         "_N$string": "nội thất",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1268,7 +1268,7 @@
         "_useOriginalSize": false,
         "_string": "khác",
         "_N$string": "khác",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1331,7 +1331,7 @@
         ],
         "_string": "Balo",
         "_N$string": "Balo",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1405,7 +1405,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1682,7 +1682,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1815,7 +1815,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1948,7 +1948,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2081,7 +2081,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2214,7 +2214,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2347,7 +2347,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2480,7 +2480,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2613,7 +2613,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

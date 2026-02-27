@@ -341,7 +341,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -523,7 +523,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -589,7 +589,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -655,7 +655,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -1081,7 +1081,7 @@
         "_useOriginalSize": false,
         "_string": "1565",
         "_N$string": "1565",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1263,7 +1263,7 @@
         ],
         "_string": "để bán",
         "_N$string": "để bán",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1398,7 +1398,7 @@
         ],
         "_string": "Bảo trì(50)",
         "_N$string": "Bảo trì(50)",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

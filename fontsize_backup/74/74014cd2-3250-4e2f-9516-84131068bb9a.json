@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_name":"sprite_tocolor","_effectAsset":{"__uuid__":"9acR2JOctJeo+wZk8YJqIJ"},"_techniqueData":{"0":{"defines":{"USE_TEXTURE":true,"INPUT_IS_GAMMA":true},"props":{"toColor":{"__type__":"cc.Color","r":241,"g":238,"b":226}}}}}

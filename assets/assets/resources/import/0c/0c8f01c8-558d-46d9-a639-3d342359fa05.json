@@ -359,7 +359,7 @@
         "_useOriginalSize": false,
         "_string": "999999",
         "_N$string": "999999",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -427,7 +427,7 @@
         "_useOriginalSize": false,
         "_string": "tiền gửi",
         "_N$string": "tiền gửi",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -501,7 +501,7 @@
         "_useOriginalSize": false,
         "_string": "Vui lòng nhập số tiền cần gửi:",
         "_N$string": "Vui lòng nhập số tiền cần gửi:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -564,7 +564,7 @@
         "_useOriginalSize": false,
         "_string": "Lãi suất hàng năm:",
         "_N$string": "Lãi suất hàng năm:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -627,7 +627,7 @@
         "_useOriginalSize": false,
         "_string": "0.3%",
         "_N$string": "0.3%",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -798,7 +798,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -993,7 +993,7 @@
         "_useOriginalSize": false,
         "_string": "Số dư tài khoản vãng lai:",
         "_N$string": "Số dư tài khoản vãng lai:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -1056,7 +1056,7 @@
         "_useOriginalSize": false,
         "_string": "500000",
         "_N$string": "500000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 2,
         "_N$verticalAlign": 1

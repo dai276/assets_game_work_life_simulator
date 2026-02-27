@@ -411,7 +411,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -475,7 +475,7 @@
         "_useOriginalSize": false,
         "_string": "x16",
         "_N$string": "x16",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -852,7 +852,7 @@
         "_useOriginalSize": false,
         "_string": "?",
         "_N$string": "?",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1030,7 +1030,7 @@
         "_useOriginalSize": false,
         "_string": "?",
         "_N$string": "?",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1208,7 +1208,7 @@
         "_useOriginalSize": false,
         "_string": "?",
         "_N$string": "?",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1386,7 +1386,7 @@
         "_useOriginalSize": false,
         "_string": "?",
         "_N$string": "?",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1551,7 +1551,7 @@
         "_useOriginalSize": false,
         "_string": "Một cú nhấp chuột để đưa vào",
         "_N$string": "Một cú nhấp chuột để đưa vào",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1735,7 +1735,7 @@
         "_useOriginalSize": false,
         "_string": "Việc mở khóa yêu cầu:",
         "_N$string": "Việc mở khóa yêu cầu:",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1848,7 +1848,7 @@
         "_useOriginalSize": false,
         "_string": "x5",
         "_N$string": "x5",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2121,7 +2121,7 @@
         "_useOriginalSize": false,
         "_string": "Mở khóa miễn phí",
         "_N$string": "Mở khóa miễn phí",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2352,7 +2352,7 @@
         "_useOriginalSize": false,
         "_string": "Mở khóa",
         "_N$string": "Mở khóa",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

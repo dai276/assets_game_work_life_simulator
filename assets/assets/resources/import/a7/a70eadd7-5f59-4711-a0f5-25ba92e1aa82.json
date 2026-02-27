@@ -180,7 +180,7 @@
         "_useOriginalSize": false,
         "_string": "Giới thiệu kỹ năng",
         "_N$string": "Giới thiệu kỹ năng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -238,7 +238,7 @@
         "_useOriginalSize": false,
         "_string": "Kỹ năng có thể được mở khóa khi cấp độ của nhân viên đạt đến cấp độ nhỏ.",
         "_N$string": "Kỹ năng có thể được mở khóa khi cấp độ của nhân viên đạt đến cấp độ nhỏ.",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -489,7 +489,7 @@
         "_useOriginalSize": false,
         "_string": "Trợ giúp chuyển phát nhanh",
         "_N$string": "Trợ giúp chuyển phát nhanh",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -611,7 +611,7 @@
         "_useOriginalSize": false,
         "_string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
         "_N$string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -863,7 +863,7 @@
         "_useOriginalSize": false,
         "_string": "Trợ giúp chuyển phát nhanh",
         "_N$string": "Trợ giúp chuyển phát nhanh",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -985,7 +985,7 @@
         "_useOriginalSize": false,
         "_string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
         "_N$string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1237,7 +1237,7 @@
         "_useOriginalSize": false,
         "_string": "Trợ giúp chuyển phát nhanh",
         "_N$string": "Trợ giúp chuyển phát nhanh",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1359,7 +1359,7 @@
         "_useOriginalSize": false,
         "_string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
         "_N$string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3

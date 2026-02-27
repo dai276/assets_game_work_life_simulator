@@ -233,7 +233,7 @@
         ],
         "_string": "Chàng trai, cậu phải biết số tiền mà gia đình cậu nợ chúng tôi!",
         "_N$string": "Chàng trai, cậu phải biết số tiền mà gia đình cậu nợ chúng tôi!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 24,
         "_styleFlags": 1,
         "_N$verticalAlign": 1,
@@ -371,7 +371,7 @@
         ],
         "_string": "10",
         "_N$string": "10",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

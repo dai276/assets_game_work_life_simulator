@@ -148,11 +148,11 @@ function removePatchPath(bid, pid, channel, version) {
 
 if (jsb && jsb.fileUtils) {
     // 注入补丁库的searchPath
-    injectSearchPath();
+    //injectSearchPath();
 
     try {
         // 检查补丁库版本号
-        preparePatchPath()
+        //preparePatchPath()
     } catch (e) {
         console.log("preparePatchPath exception:", e.message);
         console.log(e.stack)

@@ -220,7 +220,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -297,7 +297,7 @@
         "_useOriginalSize": false,
         "_string": "Số lượng hoàn thành:",
         "_N$string": "Số lượng hoàn thành:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -362,7 +362,7 @@
         "_useOriginalSize": false,
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -430,7 +430,7 @@
         "_useOriginalSize": false,
         "_string": "Số sao khuôn",
         "_N$string": "Số sao khuôn",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -713,7 +713,7 @@
         "_useOriginalSize": false,
         "_string": "45",
         "_N$string": "45",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -781,7 +781,7 @@
         "_useOriginalSize": false,
         "_string": "45",
         "_N$string": "45",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -849,7 +849,7 @@
         "_useOriginalSize": false,
         "_string": "45",
         "_N$string": "45",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -917,7 +917,7 @@
         "_useOriginalSize": false,
         "_string": "Lợi nhuận cuối cùng:",
         "_N$string": "Lợi nhuận cuối cùng:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -985,7 +985,7 @@
         "_useOriginalSize": false,
         "_string": "365",
         "_N$string": "365",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

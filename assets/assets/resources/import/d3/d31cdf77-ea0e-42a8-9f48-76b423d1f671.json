@@ -389,7 +389,7 @@
     "node": {
       "__id__": 8
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 24,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -460,7 +460,7 @@
     ],
     "_string": "Vui lòng nhập mã đổi thưởng",
     "_N$string": "Vui lòng nhập mã đổi thưởng",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
     "_N$overflow": 1
@@ -698,7 +698,7 @@
         ],
         "_string": "trao đổi",
         "_N$string": "trao đổi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -775,7 +775,7 @@
         "_useOriginalSize": false,
         "_string": "Đổi mã",
         "_N$string": "Đổi mã",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

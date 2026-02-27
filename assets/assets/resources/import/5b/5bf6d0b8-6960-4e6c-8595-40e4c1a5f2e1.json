@@ -389,7 +389,7 @@
         ],
         "_string": "Phong cảnh bên sông đẹp quá!",
         "_N$string": "Phong cảnh bên sông đẹp quá!",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3,
@@ -457,7 +457,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -528,7 +528,7 @@
         ],
         "_string": "Phong cảnh bên sông đẹp quá!",
         "_N$string": "Phong cảnh bên sông đẹp quá!",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3,
@@ -596,7 +596,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }

@@ -129,7 +129,7 @@
         ],
         "_string": "Điểm: 80 điểm",
         "_N$string": "Điểm: 80 điểm",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -310,7 +310,7 @@
         ],
         "_string": "đóng cửa",
         "_N$string": "đóng cửa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -386,7 +386,7 @@
         ],
         "_string": "Chúc mừng! Đã vượt qua kỳ thi!\nVui lòng để lại thông tin liên hệ của bạn.",
         "_N$string": "Chúc mừng! Đã vượt qua kỳ thi!\nVui lòng để lại thông tin liên hệ của bạn.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

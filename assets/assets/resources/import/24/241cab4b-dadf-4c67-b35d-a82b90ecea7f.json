@@ -367,7 +367,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -436,7 +436,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -559,7 +559,7 @@
         "_useOriginalSize": false,
         "_string": "1565",
         "_N$string": "1565",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -623,7 +623,7 @@
         "_useOriginalSize": false,
         "_string": "nanmu vàng",
         "_N$string": "nanmu vàng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1329,7 +1329,7 @@
         ],
         "_string": "cắt",
         "_N$string": "cắt",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1459,7 +1459,7 @@
         ],
         "_string": "30",
         "_N$string": "30",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1602,7 +1602,7 @@
         "_useOriginalSize": false,
         "_string": "(Số lần cắt tích lũy:",
         "_N$string": "(Số lần cắt tích lũy:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1676,7 +1676,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1750,7 +1750,7 @@
         "_useOriginalSize": false,
         "_string": ")",
         "_N$string": ")",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1887,7 +1887,7 @@
         "_useOriginalSize": false,
         "_string": "Số gỗ còn lại:",
         "_N$string": "Số gỗ còn lại:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1943,7 +1943,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2299,7 +2299,7 @@
         ],
         "_string": "08:00",
         "_N$string": "08:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2360,7 +2360,7 @@
         ],
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

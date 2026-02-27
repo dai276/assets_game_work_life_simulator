@@ -9755,7 +9755,7 @@
         ],
         "_string": "180",
         "_N$string": "180",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -9816,7 +9816,7 @@
         ],
         "_string": "Km/h",
         "_N$string": "Km/h",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10139,7 +10139,7 @@
     ],
     "_string": "80",
     "_N$string": "80",
-    "_fontSize": 24,
+    "_fontSize": 17,
     "_lineHeight": 26,
     "_N$file": {
       "__uuid__": "557ZzYB3xBP6Hag/ABg+nt"
@@ -10262,7 +10262,7 @@
     ],
     "_string": "02m30",
     "_N$string": "02m30",
-    "_fontSize": 24,
+    "_fontSize": 17,
     "_lineHeight": 26,
     "_N$file": {
       "__uuid__": "72ita5H8tMlb2CNEXmiLtp"
@@ -10783,7 +10783,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -10847,7 +10847,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -10911,7 +10911,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -10975,7 +10975,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -11252,7 +11252,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$verticalAlign": 1,
     "_N$overflow": 3
@@ -11319,7 +11319,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$verticalAlign": 1,
     "_N$overflow": 3
@@ -11386,7 +11386,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$verticalAlign": 1,
     "_N$overflow": 3
@@ -11453,7 +11453,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$verticalAlign": 1,
     "_N$overflow": 3
@@ -11520,7 +11520,7 @@
     ],
     "_string": "Quy tắc rẽ góc phải:",
     "_N$string": "Quy tắc rẽ góc phải:",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 18,
     "_N$verticalAlign": 1,
     "_N$overflow": 3
@@ -11652,7 +11652,7 @@
         ],
         "_string": " 08:00",
         "_N$string": " 08:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

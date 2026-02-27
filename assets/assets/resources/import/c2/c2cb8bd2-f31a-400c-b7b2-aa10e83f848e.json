@@ -2084,7 +2084,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -3308,7 +3308,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4532,7 +4532,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -4814,7 +4814,7 @@
         ],
         "_string": "Một số cư dân phàn nàn rằng bạn quá ồn ào. Hãy ngừng làm việc ngay lập tức!",
         "_N$string": "Một số cư dân phàn nàn rằng bạn quá ồn ào. Hãy ngừng làm việc ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -5689,7 +5689,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -5934,7 +5934,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -7120,7 +7120,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -7361,7 +7361,7 @@
         ],
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$file": {
           "__uuid__": "62Q6or7OVHPoxVJEY98uwB"
@@ -7907,7 +7907,7 @@
         ],
         "_string": "24:00",
         "_N$string": "24:00",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8150,7 +8150,7 @@
         ],
         "_string": "10%",
         "_N$string": "10%",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8213,7 +8213,7 @@
         ],
         "_string": "Mục tiêu kỹ thuật",
         "_N$string": "Mục tiêu kỹ thuật",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8491,7 +8491,7 @@
         ],
         "_string": "sức mạnh thể chất",
         "_N$string": "sức mạnh thể chất",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8558,7 +8558,7 @@
         ],
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -8942,7 +8942,7 @@
         ],
         "_string": "sức mạnh thể chất",
         "_N$string": "sức mạnh thể chất",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -9009,7 +9009,7 @@
         ],
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -9393,7 +9393,7 @@
         ],
         "_string": "sức mạnh thể chất",
         "_N$string": "sức mạnh thể chất",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -9460,7 +9460,7 @@
         ],
         "_string": "tình trạng",
         "_N$string": "tình trạng",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10183,7 +10183,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10244,7 +10244,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10317,7 +10317,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10378,7 +10378,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10451,7 +10451,7 @@
         ],
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -10512,7 +10512,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11083,7 +11083,7 @@
         ],
         "_string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
         "_N$string": "Di chuyển thật chậm! Nếu không phải hiện tại thiếu người, ta thật sự muốn bảo ngươi rời đi ngay lập tức!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -11308,7 +11308,7 @@
         ],
         "_string": "Bắt đầu công việc!",
         "_N$string": "Bắt đầu công việc!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11713,7 +11713,7 @@
         ],
         "_string": "Một nhân viên bị ốm, hãy giải quyết trong vòng 2 phút!",
         "_N$string": "Một nhân viên bị ốm, hãy giải quyết trong vòng 2 phút!",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

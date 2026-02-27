@@ -277,7 +277,7 @@
         "_useOriginalSize": false,
         "_string": "Tâm lý suy sụp, cuộc sống không dễ dàng, khó tiếp tục",
         "_N$string": "Tâm lý suy sụp, cuộc sống không dễ dàng, khó tiếp tục",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -461,7 +461,7 @@
         ],
         "_string": "khởi động lại",
         "_N$string": "khởi động lại",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -758,7 +758,7 @@
         ],
         "_string": "Khởi động lại ngay hôm nay",
         "_N$string": "Khởi động lại ngay hôm nay",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -835,7 +835,7 @@
         "_useOriginalSize": false,
         "_string": "Số lần khởi động lại: 3 lần",
         "_N$string": "Số lần khởi động lại: 3 lần",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

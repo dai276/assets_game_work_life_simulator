@@ -202,7 +202,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -279,7 +279,7 @@
         "_useOriginalSize": false,
         "_string": "Cắt giảm chi phí:",
         "_N$string": "Cắt giảm chi phí:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -344,7 +344,7 @@
         "_useOriginalSize": false,
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -412,7 +412,7 @@
         "_useOriginalSize": false,
         "_string": "Số tiền bán hàng:",
         "_N$string": "Số tiền bán hàng:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$horizontalAlign": 1,
@@ -477,7 +477,7 @@
         "_useOriginalSize": false,
         "_string": "200",
         "_N$string": "200",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -545,7 +545,7 @@
         "_useOriginalSize": false,
         "_string": "Lợi nhuận cuối cùng:",
         "_N$string": "Lợi nhuận cuối cùng:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -613,7 +613,7 @@
         "_useOriginalSize": false,
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

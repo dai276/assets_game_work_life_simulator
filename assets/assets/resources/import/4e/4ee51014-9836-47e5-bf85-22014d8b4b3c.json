@@ -259,7 +259,7 @@
         "_useOriginalSize": false,
         "_string": "Ngân sách hiện tại:",
         "_N$string": "Ngân sách hiện tại:",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -328,7 +328,7 @@
         "_useOriginalSize": false,
         "_string": "100000",
         "_N$string": "100000",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -623,7 +623,7 @@
         "_useOriginalSize": false,
         "_string": "Bắt đầu làm",
         "_N$string": "Bắt đầu làm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -848,7 +848,7 @@
         "_useOriginalSize": false,
         "_string": "làm cho khỏe lại",
         "_N$string": "làm cho khỏe lại",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

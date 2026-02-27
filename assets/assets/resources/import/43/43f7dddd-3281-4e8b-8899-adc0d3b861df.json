@@ -252,7 +252,7 @@
         "_useOriginalSize": false,
         "_string": "nhân viên bán thời gian",
         "_N$string": "nhân viên bán thời gian",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18
       }
     ],
@@ -315,7 +315,7 @@
         "_useOriginalSize": false,
         "_string": "(Lương ngày: 200)",
         "_N$string": "(Lương ngày: 200)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18
       }
     ],
@@ -381,7 +381,7 @@
         "_useOriginalSize": false,
         "_string": "Vị trí hiện đang trống",
         "_N$string": "Vị trí hiện đang trống",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$overflow": 1
       }

@@ -299,7 +299,7 @@
         "_useOriginalSize": false,
         "_string": "10%",
         "_N$string": "10%",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -530,7 +530,7 @@
         "_useOriginalSize": false,
         "_string": "99",
         "_N$string": "99",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -654,7 +654,7 @@
         "_useOriginalSize": false,
         "_string": "măng mùa đông",
         "_N$string": "măng mùa đông",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1
       }
@@ -715,7 +715,7 @@
         "_useOriginalSize": false,
         "_string": "18",
         "_N$string": "18",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -783,7 +783,7 @@
         "_useOriginalSize": false,
         "_string": "/chia sẻ",
         "_N$string": "/chia sẻ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

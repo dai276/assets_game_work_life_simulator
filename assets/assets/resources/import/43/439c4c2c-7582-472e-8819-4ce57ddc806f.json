@@ -218,7 +218,7 @@
         "_useOriginalSize": false,
         "_string": "thuê xe",
         "_N$string": "thuê xe",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -563,7 +563,7 @@
         "_useOriginalSize": false,
         "_string": "Phòng cộng đồng cũ",
         "_N$string": "Phòng cộng đồng cũ",
-        "_fontSize": 32,
+        "_fontSize": 22,
         "_lineHeight": 34,
         "_N$overflow": 1
       }
@@ -626,7 +626,7 @@
         "_useOriginalSize": false,
         "_string": "600/tháng",
         "_N$string": "600/tháng",
-        "_fontSize": 32,
+        "_fontSize": 22,
         "_lineHeight": 34,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -749,7 +749,7 @@
         "_useOriginalSize": false,
         "_string": "rời khỏi",
         "_N$string": "rời khỏi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -885,7 +885,7 @@
         "_useOriginalSize": false,
         "_string": "Ra khỏi xe",
         "_N$string": "Ra khỏi xe",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1132,7 +1132,7 @@
         "_useOriginalSize": false,
         "_string": "500",
         "_N$string": "500",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$verticalAlign": 1
       }
@@ -1311,7 +1311,7 @@
         "_useOriginalSize": false,
         "_string": "800",
         "_N$string": "800",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$verticalAlign": 1
       }

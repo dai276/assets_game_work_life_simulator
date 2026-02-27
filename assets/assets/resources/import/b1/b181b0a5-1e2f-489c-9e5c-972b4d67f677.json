@@ -264,7 +264,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 30,
         "_enableWrapText": false,
         "_N$verticalAlign": 1,
@@ -446,7 +446,7 @@
         "_useOriginalSize": false,
         "_string": "00:30",
         "_N$string": "00:30",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -521,7 +521,7 @@
         "_useOriginalSize": false,
         "_string": "Thời gian hoạt động: 1.6-1.31",
         "_N$string": "Thời gian hoạt động: 1.6-1.31",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_enableWrapText": false,
         "_N$verticalAlign": 1
@@ -639,7 +639,7 @@
         "_useOriginalSize": false,
         "_string": "(Giới hạn nhận phong bì đỏ hàng ngày: 800)",
         "_N$string": "(Giới hạn nhận phong bì đỏ hàng ngày: 800)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_enableWrapText": false,
         "_N$verticalAlign": 1

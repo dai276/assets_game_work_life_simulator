@@ -367,7 +367,7 @@
         "_useOriginalSize": false,
         "_string": "Sau khi đã có kinh nghiệm thì mình tìm anh Bảo xem có được không\nCó cơ hội tốt hơn để quảng bá?",
         "_N$string": "Sau khi đã có kinh nghiệm thì mình tìm anh Bảo xem có được không\nCó cơ hội tốt hơn để quảng bá?",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -495,7 +495,7 @@
         "_useOriginalSize": false,
         "_string": "-25",
         "_N$string": "-25",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -618,7 +618,7 @@
         "_useOriginalSize": false,
         "_string": "7:00-14:00",
         "_N$string": "7:00-14:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

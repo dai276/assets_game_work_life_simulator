@@ -928,7 +928,7 @@
         "_useOriginalSize": false,
         "_string": "R&D bắt đầu",
         "_N$string": "R&D bắt đầu",
-        "_fontSize": 50,
+        "_fontSize": 35,
         "_lineHeight": 50,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1108,7 +1108,7 @@
         "_useOriginalSize": false,
         "_string": "R&D bắt đầu",
         "_N$string": "R&D bắt đầu",
-        "_fontSize": 50,
+        "_fontSize": 35,
         "_lineHeight": 50,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1233,7 +1233,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1301,7 +1301,7 @@
         "_useOriginalSize": false,
         "_string": "điểm chất lượng",
         "_N$string": "điểm chất lượng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1372,7 +1372,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1440,7 +1440,7 @@
         "_useOriginalSize": false,
         "_string": "điểm hiệu quả",
         "_N$string": "điểm hiệu quả",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1511,7 +1511,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1579,7 +1579,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm ẩn",
         "_N$string": "Điểm ẩn",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1650,7 +1650,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1718,7 +1718,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng số điểm 1",
         "_N$string": "Tổng số điểm 1",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1789,7 +1789,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1857,7 +1857,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng số điểm 2",
         "_N$string": "Tổng số điểm 2",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1928,7 +1928,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1996,7 +1996,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng số điểm 3",
         "_N$string": "Tổng số điểm 3",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2067,7 +2067,7 @@
         "_useOriginalSize": false,
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2135,7 +2135,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng điểm hiện tại",
         "_N$string": "Tổng điểm hiện tại",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

@@ -3931,7 +3931,7 @@
         "_useOriginalSize": false,
         "_string": "1",
         "_N$string": "1",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$file": {
           "__uuid__": "66lJuquPtH+5fCU1+iHHC0"
@@ -4530,7 +4530,7 @@
         "_useOriginalSize": false,
         "_string": "2",
         "_N$string": "2",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$file": {
           "__uuid__": "66lJuquPtH+5fCU1+iHHC0"
@@ -5129,7 +5129,7 @@
         "_useOriginalSize": false,
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$file": {
           "__uuid__": "66lJuquPtH+5fCU1+iHHC0"
@@ -5728,7 +5728,7 @@
         "_useOriginalSize": false,
         "_string": "4",
         "_N$string": "4",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$file": {
           "__uuid__": "66lJuquPtH+5fCU1+iHHC0"
@@ -6327,7 +6327,7 @@
         "_useOriginalSize": false,
         "_string": "5",
         "_N$string": "5",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$file": {
           "__uuid__": "66lJuquPtH+5fCU1+iHHC0"
@@ -7116,7 +7116,7 @@
     "_useOriginalSize": false,
     "_string": "2",
     "_N$string": "2",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$file": {
       "__uuid__": "14gvapQF9DWbq83UCNII8T"
@@ -7781,7 +7781,7 @@
     "_useOriginalSize": false,
     "_string": "2",
     "_N$string": "2",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$file": {
       "__uuid__": "14gvapQF9DWbq83UCNII8T"
@@ -8446,7 +8446,7 @@
     "_useOriginalSize": false,
     "_string": "2",
     "_N$string": "2",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$file": {
       "__uuid__": "14gvapQF9DWbq83UCNII8T"
@@ -9111,7 +9111,7 @@
     "_useOriginalSize": false,
     "_string": "2",
     "_N$string": "2",
-    "_fontSize": 16,
+    "_fontSize": 12,
     "_lineHeight": 20,
     "_N$file": {
       "__uuid__": "14gvapQF9DWbq83UCNII8T"
@@ -10919,7 +10919,7 @@
         ],
         "_string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
         "_N$string": "kiểm tra kiểm tra kiểm tra bản đồ kiểm tra bản đồ kiểm tra",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3,
@@ -10985,7 +10985,7 @@
         ],
         "_string": "abcd ",
         "_N$string": "abcd ",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -11942,7 +11942,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -12006,7 +12006,7 @@
         "_useOriginalSize": false,
         "_string": "Số lượng đồ cần vận chuyển:",
         "_N$string": "Số lượng đồ cần vận chuyển:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -12065,7 +12065,7 @@
         "_useOriginalSize": false,
         "_string": "Trọng lượng hàng hóa cần vận chuyển:",
         "_N$string": "Trọng lượng hàng hóa cần vận chuyển:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -12122,7 +12122,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -12188,7 +12188,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -12417,7 +12417,7 @@
         "_useOriginalSize": false,
         "_string": "Gia nhập cộng đồng...",
         "_N$string": "Gia nhập cộng đồng...",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 32,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

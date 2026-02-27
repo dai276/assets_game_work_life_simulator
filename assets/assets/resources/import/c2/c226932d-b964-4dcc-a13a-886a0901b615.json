@@ -124,7 +124,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm xúc xắc Ruyi bạn chọn",
         "_N$string": "Điểm xúc xắc Ruyi bạn chọn",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1009,7 +1009,7 @@
         ],
         "_string": "Chọn điểm",
         "_N$string": "Chọn điểm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

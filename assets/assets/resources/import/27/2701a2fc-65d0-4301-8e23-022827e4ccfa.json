@@ -185,7 +185,7 @@
         ],
         "_string": "đột phá thú cưng",
         "_N$string": "đột phá thú cưng",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -317,7 +317,7 @@
         ],
         "_string": "đột phá",
         "_N$string": "đột phá",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -509,7 +509,7 @@
         "_useOriginalSize": false,
         "_string": "mua nhỏ",
         "_N$string": "mua nhỏ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -672,7 +672,7 @@
         "_useOriginalSize": false,
         "_string": "Mức độ tim:",
         "_N$string": "Mức độ tim:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1536,7 +1536,7 @@
         "_useOriginalSize": false,
         "_string": "Phần thưởng đột phá:",
         "_N$string": "Phần thưởng đột phá:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1615,7 +1615,7 @@
         "_useOriginalSize": false,
         "_string": "Yêu cầu đột phá:",
         "_N$string": "Yêu cầu đột phá:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1684,7 +1684,7 @@
         "_useOriginalSize": false,
         "_string": "Sự thuận lợi:",
         "_N$string": "Sự thuận lợi:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1753,7 +1753,7 @@
         "_useOriginalSize": false,
         "_string": "Chất liệu mang tính đột phá:",
         "_N$string": "Chất liệu mang tính đột phá:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1946,7 +1946,7 @@
         ],
         "_string": "mỗi mỗi mỗi",
         "_N$string": "mỗi mỗi mỗi",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -2014,7 +2014,7 @@
         ],
         "_string": "Mỗi khác mỗi khác",
         "_N$string": "Mỗi khác mỗi khác",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -2082,7 +2082,7 @@
         ],
         "_string": "Text",
         "_N$string": "Text",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -2266,7 +2266,7 @@
         ],
         "_string": "mỗi mỗi mỗi",
         "_N$string": "mỗi mỗi mỗi",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -2334,7 +2334,7 @@
         ],
         "_string": "Mỗi khác mỗi khác",
         "_N$string": "Mỗi khác mỗi khác",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -2402,7 +2402,7 @@
         ],
         "_string": "Text",
         "_N$string": "Text",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$cacheMode": 2
@@ -2649,7 +2649,7 @@
         "_useOriginalSize": false,
         "_string": "x10",
         "_N$string": "x10",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2835,7 +2835,7 @@
         "_useOriginalSize": false,
         "_string": "x10",
         "_N$string": "x10",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3098,7 +3098,7 @@
         "_useOriginalSize": false,
         "_string": "100/100",
         "_N$string": "100/100",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3344,7 +3344,7 @@
         "_useOriginalSize": false,
         "_string": "x10",
         "_N$string": "x10",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3530,7 +3530,7 @@
         "_useOriginalSize": false,
         "_string": "x10",
         "_N$string": "x10",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3716,7 +3716,7 @@
         "_useOriginalSize": false,
         "_string": "x10",
         "_N$string": "x10",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3924,7 +3924,7 @@
         "_useOriginalSize": false,
         "_string": "Điều kiện cho mỗi buổi như sau:\nNgười mới: Số tiền lớn hơn 4.000\nMột chút kiến thức: Vốn lớn hơn 550",
         "_N$string": "Điều kiện cho mỗi buổi như sau:\nNgười mới: Số tiền lớn hơn 4.000\nMột chút kiến thức: Vốn lớn hơn 550",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$verticalAlign": 1,
         "_N$overflow": 3

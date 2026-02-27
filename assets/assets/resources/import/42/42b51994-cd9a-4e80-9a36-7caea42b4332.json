@@ -7400,7 +7400,7 @@
         "_useOriginalSize": false,
         "_string": "Còn lại:",
         "_N$string": "Còn lại:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7504,7 +7504,7 @@
     "_useOriginalSize": false,
     "_string": "0%",
     "_N$string": "0%",
-    "_fontSize": 18,
+    "_fontSize": 13,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -7591,7 +7591,7 @@
         "_useOriginalSize": false,
         "_string": "Còn lại:",
         "_N$string": "Còn lại:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7695,7 +7695,7 @@
     "_useOriginalSize": false,
     "_string": "0%",
     "_N$string": "0%",
-    "_fontSize": 18,
+    "_fontSize": 13,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -7782,7 +7782,7 @@
         "_useOriginalSize": false,
         "_string": "Còn lại:",
         "_N$string": "Còn lại:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7886,7 +7886,7 @@
     "_useOriginalSize": false,
     "_string": "5 tấn",
     "_N$string": "5 tấn",
-    "_fontSize": 18,
+    "_fontSize": 13,
     "_lineHeight": 20,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -10666,7 +10666,7 @@
         ],
         "_string": "trò chuyện",
         "_N$string": "trò chuyện",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -11298,7 +11298,7 @@
         "_useOriginalSize": false,
         "_string": "Số lượng khuôn đã hoàn thành:",
         "_N$string": "Số lượng khuôn đã hoàn thành:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11355,7 +11355,7 @@
         ],
         "_string": "08:00",
         "_N$string": "08:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11417,7 +11417,7 @@
         "_useOriginalSize": false,
         "_string": "20",
         "_N$string": "20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11484,7 +11484,7 @@
         ],
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -11605,7 +11605,7 @@
         ],
         "_string": "+20",
         "_N$string": "+20",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

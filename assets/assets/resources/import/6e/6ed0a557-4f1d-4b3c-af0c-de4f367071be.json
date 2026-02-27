@@ -799,7 +799,7 @@
         "_useOriginalSize": false,
         "_string": "Ánh sáng của Yongxing",
         "_N$string": "Ánh sáng của Yongxing",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -973,7 +973,7 @@
         "_useOriginalSize": false,
         "_string": "Ánh sáng của Yongxing",
         "_N$string": "Ánh sáng của Yongxing",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1135,7 +1135,7 @@
         "_useOriginalSize": false,
         "_string": "Mọi người đã có rất nhiều đóng góp cho sự phát triển của Yongxing. Chúng tôi xin gửi lời cảm ơn chân thành tới toàn thể cư dân. Chính vì các bạn mà Yongxing sẽ ngày càng phát triển tốt hơn! Sau đây là danh sách cư dân danh dự của Yongxing, sẽ được cập nhật liên tục. (Không theo thứ tự cụ thể)",
         "_N$string": "Mọi người đã có rất nhiều đóng góp cho sự phát triển của Yongxing. Chúng tôi xin gửi lời cảm ơn chân thành tới toàn thể cư dân. Chính vì các bạn mà Yongxing sẽ ngày càng phát triển tốt hơn! Sau đây là danh sách cư dân danh dự của Yongxing, sẽ được cập nhật liên tục. (Không theo thứ tự cụ thể)",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$overflow": 1
       }
@@ -1307,7 +1307,7 @@
         ],
         "_string": "xem danh sách",
         "_N$string": "xem danh sách",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1525,7 +1525,7 @@
         "_useOriginalSize": false,
         "_string": "Quy trình lễ hội Yongxing\nThời gian hoạt động: 6.1-6.3\nHoạt động làm việc bán thời gian: Bạn có thể nhận được phiếu giảm giá làm việc bằng cách làm việc bán thời gian! Hãy đi và làm việc chăm chỉ!\nSự kiện trong thời gian có hạn: Độc quyền trong thời gian có hạn, nhận phần thưởng trong thời gian có hạn và trang trí công viên của bạn!\nNhiệm vụ có hạn: Những vị khách bí ẩn đang đến, hãy đi mời họ! Còn nhiều giải thưởng giới hạn bí ẩn hơn đang chờ bạn\nThời gian hoạt động: 6.4-6.11\nHoạt động lễ hội: Trò chơi đã bắt đầu, hãy sử dụng phiếu thưởng công việc để bắt đầu lễ hội, có những giải thưởng có hạn đang chờ bạn trong hộp kho báu!\nBữa tối Lễ hội Yongxing sẽ bắt đầu sau 18:00, chào mừng bạn đến tham dự",
         "_N$string": "Quy trình lễ hội Yongxing\nThời gian hoạt động: 6.1-6.3\nHoạt động làm việc bán thời gian: Bạn có thể nhận được phiếu giảm giá làm việc bằng cách làm việc bán thời gian! Hãy đi và làm việc chăm chỉ!\nSự kiện trong thời gian có hạn: Độc quyền trong thời gian có hạn, nhận phần thưởng trong thời gian có hạn và trang trí công viên của bạn!\nNhiệm vụ có hạn: Những vị khách bí ẩn đang đến, hãy đi mời họ! Còn nhiều giải thưởng giới hạn bí ẩn hơn đang chờ bạn\nThời gian hoạt động: 6.4-6.11\nHoạt động lễ hội: Trò chơi đã bắt đầu, hãy sử dụng phiếu thưởng công việc để bắt đầu lễ hội, có những giải thưởng có hạn đang chờ bạn trong hộp kho báu!\nBữa tối Lễ hội Yongxing sẽ bắt đầu sau 18:00, chào mừng bạn đến tham dự",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$overflow": 3
       }
@@ -1798,7 +1798,7 @@
         "_useOriginalSize": false,
         "_string": "1. Quy tắc hoạt động: Kiếm càng nhiều tiền càng tốt trong vòng 7 ngày tham gia trò chơi.\n2. Thời gian hoạt động: 2023.4.12-2023.5.2\n3. Thời gian nhận giải: 2023.5.3-2023.5.9",
         "_N$string": "1. Quy tắc hoạt động: Kiếm càng nhiều tiền càng tốt trong vòng 7 ngày tham gia trò chơi.\n2. Thời gian hoạt động: 2023.4.12-2023.5.2\n3. Thời gian nhận giải: 2023.5.3-2023.5.9",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$overflow": 2
       }
@@ -1924,7 +1924,7 @@
         "_useOriginalSize": false,
         "_string": "Thời gian hoạt động: 2023.4.1-2023.4.14",
         "_N$string": "Thời gian hoạt động: 2023.4.1-2023.4.14",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2103,7 +2103,7 @@
         ],
         "_string": "Chấp nhận thử thách",
         "_N$string": "Chấp nhận thử thách",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2287,7 +2287,7 @@
         ],
         "_string": "yêu cầu phần thưởng",
         "_N$string": "yêu cầu phần thưởng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2471,7 +2471,7 @@
         ],
         "_string": "Danh sách xếp hạng",
         "_N$string": "Danh sách xếp hạng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

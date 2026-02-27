@@ -130,7 +130,7 @@
         "_useOriginalSize": false,
         "_string": "Rất tiếc bạn đã trượt bài kiểm tra",
         "_N$string": "Rất tiếc bạn đã trượt bài kiểm tra",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -304,7 +304,7 @@
         "_useOriginalSize": false,
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

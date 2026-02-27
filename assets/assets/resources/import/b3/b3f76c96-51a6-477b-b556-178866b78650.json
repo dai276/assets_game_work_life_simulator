@@ -339,7 +339,7 @@
         "_useOriginalSize": false,
         "_string": "5",
         "_N$string": "5",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -403,7 +403,7 @@
         "_useOriginalSize": false,
         "_string": "Giao hàng trong vài phút",
         "_N$string": "Giao hàng trong vài phút",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -467,7 +467,7 @@
         "_useOriginalSize": false,
         "_string": "phát triển mạnh",
         "_N$string": "phát triển mạnh",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -535,7 +535,7 @@
         "_useOriginalSize": false,
         "_string": "phát triển mạnh",
         "_N$string": "phát triển mạnh",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -603,7 +603,7 @@
         "_useOriginalSize": false,
         "_string": "Phí việc vặt",
         "_N$string": "Phí việc vặt",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -667,7 +667,7 @@
         "_useOriginalSize": false,
         "_string": "6,00 nhân dân tệ",
         "_N$string": "6,00 nhân dân tệ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -791,7 +791,7 @@
         "_useOriginalSize": false,
         "_string": "lấy một đơn đặt hàng",
         "_N$string": "lấy một đơn đặt hàng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -969,7 +969,7 @@
         "_useOriginalSize": false,
         "_string": "5",
         "_N$string": "5",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1033,7 +1033,7 @@
         "_useOriginalSize": false,
         "_string": "Giao hàng trong vài phút",
         "_N$string": "Giao hàng trong vài phút",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

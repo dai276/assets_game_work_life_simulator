@@ -271,7 +271,7 @@
         "_useOriginalSize": false,
         "_string": "1000",
         "_N$string": "1000",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -445,7 +445,7 @@
         "_useOriginalSize": false,
         "_string": "Máy quét mã thông minh",
         "_N$string": "Máy quét mã thông minh",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

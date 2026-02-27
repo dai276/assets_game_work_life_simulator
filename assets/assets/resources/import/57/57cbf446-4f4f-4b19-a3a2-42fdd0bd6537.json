@@ -131,7 +131,7 @@
         ],
         "_string": "Tiểu Địch Sở Hưng",
         "_N$string": "Tiểu Địch Sở Hưng",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
       }
@@ -1219,7 +1219,7 @@
         ],
         "_string": "Lấy lại nó",
         "_N$string": "Lấy lại nó",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1282,7 +1282,7 @@
         ],
         "_string": "100",
         "_N$string": "100",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1345,7 +1345,7 @@
         ],
         "_string": "Một nâng cấp tích cực!",
         "_N$string": "Một nâng cấp tích cực!",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1470,7 +1470,7 @@
         ],
         "_string": "0",
         "_N$string": "0",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1601,7 +1601,7 @@
         ],
         "_string": "00000",
         "_N$string": "00000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -1780,7 +1780,7 @@
         ],
         "_string": "Bỏ điện thoại của bạn đi",
         "_N$string": "Bỏ điện thoại của bạn đi",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

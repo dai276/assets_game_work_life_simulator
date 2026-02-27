@@ -134,7 +134,7 @@
         "_useOriginalSize": false,
         "_string": "Chọn thú cưng",
         "_N$string": "Chọn thú cưng",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -490,7 +490,7 @@
         "_useOriginalSize": false,
         "_string": "chim",
         "_N$string": "chim",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -564,7 +564,7 @@
         "_useOriginalSize": false,
         "_string": "mô tả:",
         "_N$string": "mô tả:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -632,7 +632,7 @@
         "_useOriginalSize": false,
         "_string": "mô tả mô tả mô tả mô tả mô tả mô tả mô tả",
         "_N$string": "mô tả mô tả mô tả mô tả mô tả mô tả mô tả",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 3
       }
@@ -918,7 +918,7 @@
         "_useOriginalSize": false,
         "_string": "chim",
         "_N$string": "chim",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -992,7 +992,7 @@
         "_useOriginalSize": false,
         "_string": "mô tả:",
         "_N$string": "mô tả:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1060,7 +1060,7 @@
         "_useOriginalSize": false,
         "_string": "mô tả mô tả mô tả mô tả mô tả mô tả mô tả",
         "_N$string": "mô tả mô tả mô tả mô tả mô tả mô tả mô tả",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 3
       }
@@ -1346,7 +1346,7 @@
         "_useOriginalSize": false,
         "_string": "chim",
         "_N$string": "chim",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1420,7 +1420,7 @@
         "_useOriginalSize": false,
         "_string": "mô tả:",
         "_N$string": "mô tả:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1488,7 +1488,7 @@
         "_useOriginalSize": false,
         "_string": "mô tả mô tả mô tả mô tả mô tả mô tả mô tả",
         "_N$string": "mô tả mô tả mô tả mô tả mô tả mô tả mô tả",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$overflow": 3
       }
@@ -1667,7 +1667,7 @@
         ],
         "_string": "Lựa chọn",
         "_N$string": "Lựa chọn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

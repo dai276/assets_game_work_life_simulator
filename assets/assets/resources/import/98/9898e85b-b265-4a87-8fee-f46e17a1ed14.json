@@ -199,7 +199,7 @@
         ],
         "_string": "tốt và nhanh chóng",
         "_N$string": "tốt và nhanh chóng",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
       }
@@ -1190,7 +1190,7 @@
         ],
         "_string": "10/100",
         "_N$string": "10/100",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1319,7 +1319,7 @@
         ],
         "_string": "Trình độ cao",
         "_N$string": "Trình độ cao",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1565,7 +1565,7 @@
         ],
         "_string": "* Hoàn thành nhiệm vụ trong thời gian giới hạn để trở thành đội trưởng",
         "_N$string": "* Hoàn thành nhiệm vụ trong thời gian giới hạn để trở thành đội trưởng",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1682,7 +1682,7 @@
         ],
         "_string": "Số người di chuyển:",
         "_N$string": "Số người di chuyển:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1742,7 +1742,7 @@
         ],
         "_string": "1/3",
         "_N$string": "1/3",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2574,7 +2574,7 @@
         ],
         "_string": "Địa điểm:",
         "_N$string": "Địa điểm:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2641,7 +2641,7 @@
         ],
         "_string": "tín hiệu:",
         "_N$string": "tín hiệu:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2708,7 +2708,7 @@
         ],
         "_string": "Số lượng công nhân:",
         "_N$string": "Số lượng công nhân:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2773,7 +2773,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2837,7 +2837,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2901,7 +2901,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3114,7 +3114,7 @@
         ],
         "_string": "Tổng số tiền bồi thường ước tính:",
         "_N$string": "Tổng số tiền bồi thường ước tính:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3181,7 +3181,7 @@
         ],
         "_string": "Tổng năng lực:",
         "_N$string": "Tổng năng lực:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3246,7 +3246,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3310,7 +3310,7 @@
             "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
           }
         ],
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3651,7 +3651,7 @@
         ],
         "_string": "chấp nhận nhiệm vụ",
         "_N$string": "chấp nhận nhiệm vụ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3708,7 +3708,7 @@
         ],
         "_string": "(trong vòng 120 giây)",
         "_N$string": "(trong vòng 120 giây)",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3827,7 +3827,7 @@
         ],
         "_string": "Hết hạn",
         "_N$string": "Hết hạn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3884,7 +3884,7 @@
         ],
         "_string": "(Làm mới sau 120 giây)",
         "_N$string": "(Làm mới sau 120 giây)",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4003,7 +4003,7 @@
         ],
         "_string": "Bắt đầu một nhiệm vụ",
         "_N$string": "Bắt đầu một nhiệm vụ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4060,7 +4060,7 @@
         ],
         "_string": "(trong vòng 120 giây)",
         "_N$string": "(trong vòng 120 giây)",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

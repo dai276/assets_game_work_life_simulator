@@ -867,7 +867,7 @@
         ],
         "_string": "10/100",
         "_N$string": "10/100",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1057,7 +1057,7 @@
         ],
         "_string": "Tỷ lệ sống sót tích lũy:",
         "_N$string": "Tỷ lệ sống sót tích lũy:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1125,7 +1125,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1193,7 +1193,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1278,7 +1278,7 @@
         ],
         "_string": "10086",
         "_N$string": "10086",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -1345,7 +1345,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1413,7 +1413,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1487,7 +1487,7 @@
         ],
         "_string": "bầu trời",
         "_N$string": "bầu trời",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1555,7 +1555,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1623,7 +1623,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1766,7 +1766,7 @@
         ],
         "_string": "Số tiền tích lũy kiếm được:",
         "_N$string": "Số tiền tích lũy kiếm được:",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$cacheMode": 2
       }
@@ -1834,7 +1834,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1902,7 +1902,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -1987,7 +1987,7 @@
         ],
         "_string": "10086",
         "_N$string": "10086",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20
       }
     ],
@@ -2054,7 +2054,7 @@
         ],
         "_string": "Đã di chuyển tổng cộng 100 viên gạch",
         "_N$string": "Đã di chuyển tổng cộng 100 viên gạch",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -2122,7 +2122,7 @@
         ],
         "_string": "（30/100）",
         "_N$string": "（30/100）",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -2503,7 +2503,7 @@
         ],
         "_string": "Tổng quan",
         "_N$string": "Tổng quan",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2745,7 +2745,7 @@
         ],
         "_string": "làm việc để kiếm sống",
         "_N$string": "làm việc để kiếm sống",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2987,7 +2987,7 @@
         ],
         "_string": "liên hệ xã hội",
         "_N$string": "liên hệ xã hội",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3229,7 +3229,7 @@
         ],
         "_string": "Thức ăn và chỗ ở",
         "_N$string": "Thức ăn và chỗ ở",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3471,7 +3471,7 @@
         ],
         "_string": "Thời gian rảnh rỗi",
         "_N$string": "Thời gian rảnh rỗi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3713,7 +3713,7 @@
         ],
         "_string": "khác",
         "_N$string": "khác",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

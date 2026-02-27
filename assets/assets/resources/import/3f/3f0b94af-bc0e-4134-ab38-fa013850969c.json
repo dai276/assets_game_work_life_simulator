@@ -311,7 +311,7 @@
         ],
         "_string": "Giá thị trường: 60-80",
         "_N$string": "Giá thị trường: 60-80",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -376,7 +376,7 @@
         "_useOriginalSize": false,
         "_string": "Label",
         "_N$string": "Label",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -446,7 +446,7 @@
         ],
         "_string": "Đơn giá: 80",
         "_N$string": "Đơn giá: 80",
-        "_fontSize": 25,
+        "_fontSize": 18,
         "_lineHeight": 25,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -568,7 +568,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

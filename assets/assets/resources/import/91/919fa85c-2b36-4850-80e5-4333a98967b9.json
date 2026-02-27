@@ -151,7 +151,7 @@
         "_useOriginalSize": false,
         "_string": "Thực hiện công việc dỡ gạch một lần",
         "_N$string": "Thực hiện công việc dỡ gạch một lần",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -215,7 +215,7 @@
         "_useOriginalSize": false,
         "_string": "(0/1)",
         "_N$string": "(0/1)",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -345,7 +345,7 @@
         "_useOriginalSize": false,
         "_string": "phần thưởng:",
         "_N$string": "phần thưởng:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -464,7 +464,7 @@
         "_useOriginalSize": false,
         "_string": "500",
         "_N$string": "500",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

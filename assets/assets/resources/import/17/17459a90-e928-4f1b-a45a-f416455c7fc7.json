@@ -219,7 +219,7 @@
         ],
         "_string": "600",
         "_N$string": "600",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1079,7 +1079,7 @@
         "_useOriginalSize": false,
         "_string": "50",
         "_N$string": "50",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2952,7 +2952,7 @@
         ],
         "_string": "00a56",
         "_N$string": "00a56",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_N$file": {
           "__uuid__": "45dIdo5WhLx6LLOMEhVTaK"
         },
@@ -3255,7 +3255,7 @@
         ],
         "_string": "Ông chủ, nhìn kìa~",
         "_N$string": "Ông chủ, nhìn kìa~",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$overflow": 2
       }
@@ -3441,7 +3441,7 @@
         ],
         "_string": "đừng bận tâm",
         "_N$string": "đừng bận tâm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3563,7 +3563,7 @@
         ],
         "_string": "350",
         "_N$string": "350",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3688,7 +3688,7 @@
         ],
         "_string": "đừng bận tâm",
         "_N$string": "đừng bận tâm",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3810,7 +3810,7 @@
         ],
         "_string": "350",
         "_N$string": "350",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4107,7 +4107,7 @@
         ],
         "_string": "Ông chủ, nhìn kìa~",
         "_N$string": "Ông chủ, nhìn kìa~",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$overflow": 2
       }
@@ -4554,7 +4554,7 @@
         "_useOriginalSize": false,
         "_string": "+8",
         "_N$string": "+8",
-        "_fontSize": 35,
+        "_fontSize": 24,
         "_N$file": {
           "__uuid__": "62F04AO6FGabhBXgj5zX6i"
         },
@@ -4730,7 +4730,7 @@
         "_useOriginalSize": false,
         "_string": "+8",
         "_N$string": "+8",
-        "_fontSize": 35,
+        "_fontSize": 24,
         "_N$file": {
           "__uuid__": "62F04AO6FGabhBXgj5zX6i"
         },

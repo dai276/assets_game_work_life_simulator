@@ -367,7 +367,7 @@
         ],
         "_string": "Aishidaduo Aishidaduo",
         "_N$string": "Aishidaduo Aishidaduo",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -434,7 +434,7 @@
         ],
         "_string": "Aishidaduo Aishidaduo",
         "_N$string": "Aishidaduo Aishidaduo",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -850,7 +850,7 @@
         ],
         "_string": "08:00",
         "_N$string": "08:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -970,7 +970,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1365,7 +1365,7 @@
         ],
         "_string": "1/2",
         "_N$string": "1/2",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2084,7 +2084,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2141,7 +2141,7 @@
         ],
         "_string": "găng tay bông",
         "_N$string": "găng tay bông",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2267,7 +2267,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2901,7 +2901,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2958,7 +2958,7 @@
         ],
         "_string": "găng tay bông",
         "_N$string": "găng tay bông",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3084,7 +3084,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3718,7 +3718,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3775,7 +3775,7 @@
         ],
         "_string": "găng tay bông",
         "_N$string": "găng tay bông",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3901,7 +3901,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4535,7 +4535,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4592,7 +4592,7 @@
         ],
         "_string": "găng tay bông",
         "_N$string": "găng tay bông",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4718,7 +4718,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5352,7 +5352,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5409,7 +5409,7 @@
         ],
         "_string": "găng tay bông",
         "_N$string": "găng tay bông",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5535,7 +5535,7 @@
         ],
         "_string": "15",
         "_N$string": "15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6154,7 +6154,7 @@
         ],
         "_string": "Balo",
         "_N$string": "Balo",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6272,7 +6272,7 @@
         ],
         "_string": "Ba lô của bạn trống rỗng!",
         "_N$string": "Ba lô của bạn trống rỗng!",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 30,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6395,7 +6395,7 @@
         ],
         "_string": "Đi mua hàng",
         "_N$string": "Đi mua hàng",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6872,7 +6872,7 @@
         ],
         "_string": "Quá rẻ, xin vui lòng bổ sung thêm!",
         "_N$string": "Quá rẻ, xin vui lòng bổ sung thêm!",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7038,7 +7038,7 @@
         ],
         "_string": "thực hiện một thỏa thuận",
         "_N$string": "thực hiện một thỏa thuận",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

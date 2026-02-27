@@ -296,7 +296,7 @@
         "_useOriginalSize": false,
         "_string": "20:15",
         "_N$string": "20:15",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -364,7 +364,7 @@
         "_useOriginalSize": false,
         "_string": "Thứ hai",
         "_N$string": "Thứ hai",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -492,7 +492,7 @@
         "_useOriginalSize": false,
         "_string": "20000000",
         "_N$string": "20000000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -732,7 +732,7 @@
         "_useOriginalSize": false,
         "_string": "Lời khuyên: 2",
         "_N$string": "Lời khuyên: 2",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -796,7 +796,7 @@
         "_useOriginalSize": false,
         "_string": "Tốc độ học: thấp",
         "_N$string": "Tốc độ học: thấp",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

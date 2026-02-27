@@ -353,7 +353,7 @@
         "_useOriginalSize": false,
         "_string": "999999",
         "_N$string": "999999",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -421,7 +421,7 @@
         "_useOriginalSize": false,
         "_string": "Rút tiền",
         "_N$string": "Rút tiền",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -495,7 +495,7 @@
         "_useOriginalSize": false,
         "_string": "Vui lòng nhập số tiền cần rút:",
         "_N$string": "Vui lòng nhập số tiền cần rút:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -665,7 +665,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -860,7 +860,7 @@
         "_useOriginalSize": false,
         "_string": "Số dư tài khoản vãng lai:",
         "_N$string": "Số dư tài khoản vãng lai:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -923,7 +923,7 @@
         "_useOriginalSize": false,
         "_string": "500000",
         "_N$string": "500000",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 2,
         "_N$verticalAlign": 1

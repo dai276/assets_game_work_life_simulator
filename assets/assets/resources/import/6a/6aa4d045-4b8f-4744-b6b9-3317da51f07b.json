@@ -694,7 +694,7 @@
         ],
         "_string": "ông già bí ẩn",
         "_N$string": "ông già bí ẩn",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -835,7 +835,7 @@
         ],
         "_string": "Demo, chỉ là kỹ năng của bạn",
         "_N$string": "Demo, chỉ là kỹ năng của bạn",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$overflow": 1
       }
@@ -1126,7 +1126,7 @@
         ],
         "_string": "Sở hữu",
         "_N$string": "Sở hữu",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1309,7 +1309,7 @@
         "_useOriginalSize": false,
         "_string": "50",
         "_N$string": "50",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1544,7 +1544,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1742,7 +1742,7 @@
         ],
         "_string": "Không ra ngoài",
         "_N$string": "Không ra ngoài",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1872,7 +1872,7 @@
         ],
         "_string": "chơi bài",
         "_N$string": "chơi bài",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2061,7 +2061,7 @@
         ],
         "_string": "Đi thêm một vòng nữa",
         "_N$string": "Đi thêm một vòng nữa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2138,7 +2138,7 @@
         "_useOriginalSize": false,
         "_string": "Bạn có thể đi bộ hai vòng liên tiếp",
         "_N$string": "Bạn có thể đi bộ hai vòng liên tiếp",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

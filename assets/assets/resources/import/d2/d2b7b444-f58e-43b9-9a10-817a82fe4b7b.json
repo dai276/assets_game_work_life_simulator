@@ -177,7 +177,7 @@
         "_useOriginalSize": false,
         "_string": "Chi tiết kỹ năng",
         "_N$string": "Chi tiết kỹ năng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -294,7 +294,7 @@
         "_useOriginalSize": false,
         "_string": "Quét mã QR để thoát khỏi kho",
         "_N$string": "Quét mã QR để thoát khỏi kho",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -423,7 +423,7 @@
         "_useOriginalSize": false,
         "_string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
         "_N$string": "Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng Mô tả liên quan đến kỹ năng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -703,7 +703,7 @@
         "_useOriginalSize": false,
         "_string": "trồng lại",
         "_N$string": "trồng lại",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

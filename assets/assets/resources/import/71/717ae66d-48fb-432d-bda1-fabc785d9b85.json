@@ -214,7 +214,7 @@
         "_useOriginalSize": false,
         "_string": "Thu nhập từ công việc tăng",
         "_N$string": "Thu nhập từ công việc tăng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -278,7 +278,7 @@
         "_useOriginalSize": false,
         "_string": "10:00",
         "_N$string": "10:00",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -407,7 +407,7 @@
         ],
         "_string": "Do ảnh hưởng của điều kiện thị trường, lao động ngày nay",
         "_N$string": "Do ảnh hưởng của điều kiện thị trường, lao động ngày nay",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -468,7 +468,7 @@
         ],
         "_string": "Tăng thu nhập hoạt động",
         "_N$string": "Tăng thu nhập hoạt động",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }
@@ -529,7 +529,7 @@
         ],
         "_string": "5%",
         "_N$string": "5%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$verticalAlign": 1
       }

@@ -164,7 +164,7 @@
         "_useOriginalSize": false,
         "_string": "Lời khuyên phù hợp với lứa tuổi",
         "_N$string": "Lời khuyên phù hợp với lứa tuổi",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -238,7 +238,7 @@
         "_useOriginalSize": false,
         "_string": "Trò chơi này là một trò chơi thông thường có lối chơi đơn giản, phù hợp với người dùng từ 12 tuổi trở lên.\n       Trò chơi không có hệ thống xã hội và mô hình lợi nhuận của trò chơi là quảng cáo và không có nội dung trả phí.\nCó một hệ thống xác thực tên thật trong trò chơi. Người dùng được chứng nhận là trẻ vị thành niên sẽ phải chịu sự quản lý sau: Người dùng được chứng nhận là trẻ vị thành niên chỉ có thể vào trò chơi từ 20:00 đến 21:00 thứ Sáu, thứ Bảy, Chủ nhật hàng tuần và các ngày lễ hợp pháp.",
         "_N$string": "Trò chơi này là một trò chơi thông thường có lối chơi đơn giản, phù hợp với người dùng từ 12 tuổi trở lên.\n       Trò chơi không có hệ thống xã hội và mô hình lợi nhuận của trò chơi là quảng cáo và không có nội dung trả phí.\nCó một hệ thống xác thực tên thật trong trò chơi. Người dùng được chứng nhận là trẻ vị thành niên sẽ phải chịu sự quản lý sau: Người dùng được chứng nhận là trẻ vị thành niên chỉ có thể vào trò chơi từ 20:00 đến 21:00 thứ Sáu, thứ Bảy, Chủ nhật hàng tuần và các ngày lễ hợp pháp.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$overflow": 3
       }
@@ -470,7 +470,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

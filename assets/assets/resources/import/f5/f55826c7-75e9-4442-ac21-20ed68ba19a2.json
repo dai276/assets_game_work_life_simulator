@@ -222,7 +222,7 @@
         "_useOriginalSize": false,
         "_string": "gợi ý",
         "_N$string": "gợi ý",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -352,7 +352,7 @@
         "_useOriginalSize": false,
         "_string": "Đi bộ quá chậm? Hãy đến và thử đồ uống thể thao mới nhất do Yongxing tung ra. Bạn có thể uống ngay trong ngày sau khi uống.",
         "_N$string": "Đi bộ quá chậm? Hãy đến và thử đồ uống thể thao mới nhất do Yongxing tung ra. Bạn có thể uống ngay trong ngày sau khi uống.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -416,7 +416,7 @@
         "_useOriginalSize": false,
         "_string": "Tăng tốc độ di chuyển thêm 50%",
         "_N$string": "Tăng tốc độ di chuyển thêm 50%",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -652,7 +652,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -729,7 +729,7 @@
         "_useOriginalSize": false,
         "_string": "(Nó sẽ không còn bật lên vào cùng ngày sau khi bỏ cuộc)",
         "_N$string": "(Nó sẽ không còn bật lên vào cùng ngày sau khi bỏ cuộc)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1016,7 +1016,7 @@
         ],
         "_string": "uống",
         "_N$string": "uống",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1251,7 +1251,7 @@
         ],
         "_string": "xem quảng cáo",
         "_N$string": "xem quảng cáo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1328,7 +1328,7 @@
         "_useOriginalSize": false,
         "_string": "(Nó sẽ không còn bật lên vào cùng ngày sau khi bỏ cuộc)",
         "_N$string": "(Nó sẽ không còn bật lên vào cùng ngày sau khi bỏ cuộc)",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1669,7 +1669,7 @@
         ],
         "_string": "uống",
         "_N$string": "uống",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1951,7 +1951,7 @@
         ],
         "_string": "xem quảng cáo",
         "_N$string": "xem quảng cáo",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2251,7 +2251,7 @@
         ],
         "_string": "uống",
         "_N$string": "uống",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2327,7 +2327,7 @@
         ],
         "_string": "bỏ cuộc",
         "_N$string": "bỏ cuộc",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

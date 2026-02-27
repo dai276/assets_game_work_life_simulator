@@ -337,7 +337,7 @@
         "_useOriginalSize": false,
         "_string": "Điểm kỹ năng làm việc*1",
         "_N$string": "Điểm kỹ năng làm việc*1",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -472,7 +472,7 @@
         "_useOriginalSize": false,
         "_string": "Thu nhập từ công việc tăng 2%",
         "_N$string": "Thu nhập từ công việc tăng 2%",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -588,7 +588,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

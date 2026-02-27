@@ -138,7 +138,7 @@
         "_useOriginalSize": false,
         "_string": "Mua hàng thành công!",
         "_N$string": "Mua hàng thành công!",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 34,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -202,7 +202,7 @@
         "_useOriginalSize": false,
         "_string": "Sản phẩm đang được vận chuyển...",
         "_N$string": "Sản phẩm đang được vận chuyển...",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -439,7 +439,7 @@
         "_useOriginalSize": false,
         "_string": "hy vọng",
         "_N$string": "hy vọng",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -497,7 +497,7 @@
         "_useOriginalSize": false,
         "_string": "Sáng mai 11 giờ",
         "_N$string": "Sáng mai 11 giờ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -561,7 +561,7 @@
         "_useOriginalSize": false,
         "_string": "dịch vụ",
         "_N$string": "dịch vụ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -677,7 +677,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

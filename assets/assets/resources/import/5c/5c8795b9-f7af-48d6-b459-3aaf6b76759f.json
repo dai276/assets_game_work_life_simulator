@@ -216,7 +216,7 @@
         "_useOriginalSize": false,
         "_string": "phản hồi lỗi",
         "_N$string": "phản hồi lỗi",
-        "_fontSize": 28,
+        "_fontSize": 20,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -513,7 +513,7 @@
         ],
         "_string": "nộp",
         "_N$string": "nộp",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -779,7 +779,7 @@
     "node": {
       "__id__": 14
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -862,7 +862,7 @@
     ],
     "_string": "Nhập tiêu đề, nhỏ hơn hoặc bằng 20 từ",
     "_N$string": "Nhập tiêu đề, nhỏ hơn hoặc bằng 20 từ",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1082,7 +1082,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_N$overflow": 1
   },
@@ -1163,7 +1163,7 @@
     ],
     "_string": "Nhập mô tả, nhỏ hơn hoặc bằng 200 từ",
     "_N$string": "Nhập mô tả, nhỏ hơn hoặc bằng 200 từ",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_N$overflow": 1
   },
@@ -1187,7 +1187,7 @@
         "_useOriginalSize": false,
         "_string": "Số lần còn lại hôm nay: 3 lần",
         "_N$string": "Số lần còn lại hôm nay: 3 lần",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

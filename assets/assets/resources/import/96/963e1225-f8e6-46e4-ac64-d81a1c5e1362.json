@@ -315,7 +315,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$file": {
           "__uuid__": "4a0WcwkilBh5V86WPNVBbI"
@@ -445,7 +445,7 @@
         "_useOriginalSize": false,
         "_string": "Biến rác thải thành kho báu",
         "_N$string": "Biến rác thải thành kho báu",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -651,7 +651,7 @@
         ],
         "_string": "lon",
         "_N$string": "lon",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       },
@@ -1037,7 +1037,7 @@
     "_useOriginalSize": false,
     "_string": "0",
     "_N$string": "0",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1061,7 +1061,7 @@
         ],
         "_string": "0,2 nhân dân tệ/cái",
         "_N$string": "0,2 nhân dân tệ/cái",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -1188,7 +1188,7 @@
         ],
         "_string": "lon",
         "_N$string": "lon",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       },
@@ -1574,7 +1574,7 @@
     "_useOriginalSize": false,
     "_string": "0",
     "_N$string": "0",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -1598,7 +1598,7 @@
         ],
         "_string": "0,2 nhân dân tệ/cái",
         "_N$string": "0,2 nhân dân tệ/cái",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -1725,7 +1725,7 @@
         ],
         "_string": "lon",
         "_N$string": "lon",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       },
@@ -2111,7 +2111,7 @@
     "_useOriginalSize": false,
     "_string": "0",
     "_N$string": "0",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2135,7 +2135,7 @@
         ],
         "_string": "0,2 nhân dân tệ/cái",
         "_N$string": "0,2 nhân dân tệ/cái",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -2262,7 +2262,7 @@
         ],
         "_string": "lon",
         "_N$string": "lon",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       },
@@ -2648,7 +2648,7 @@
     "_useOriginalSize": false,
     "_string": "0",
     "_N$string": "0",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 24,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1
@@ -2672,7 +2672,7 @@
         ],
         "_string": "0,2 nhân dân tệ/cái",
         "_N$string": "0,2 nhân dân tệ/cái",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$verticalAlign": 1
       }
@@ -2918,7 +2918,7 @@
         "_useOriginalSize": false,
         "_string": "x24",
         "_N$string": "x24",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3092,7 +3092,7 @@
         "_useOriginalSize": false,
         "_string": "x24",
         "_N$string": "x24",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3266,7 +3266,7 @@
         "_useOriginalSize": false,
         "_string": "x24",
         "_N$string": "x24",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3440,7 +3440,7 @@
         "_useOriginalSize": false,
         "_string": "x24",
         "_N$string": "x24",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3565,7 +3565,7 @@
         "_useOriginalSize": false,
         "_string": "Giá bán:",
         "_N$string": "Giá bán:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3633,7 +3633,7 @@
         "_useOriginalSize": false,
         "_string": "150",
         "_N$string": "150",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3760,7 +3760,7 @@
         "_useOriginalSize": false,
         "_string": "rời khỏi",
         "_N$string": "rời khỏi",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3896,7 +3896,7 @@
         "_useOriginalSize": false,
         "_string": "để bán",
         "_N$string": "để bán",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

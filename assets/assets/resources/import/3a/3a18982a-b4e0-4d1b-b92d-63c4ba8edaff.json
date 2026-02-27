@@ -263,7 +263,7 @@
         ],
         "_string": "7:00-14:00",
         "_N$string": "7:00-14:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -330,7 +330,7 @@
         ],
         "_string": "Công việc này sẽ được tính là làm thêm giờ sau 18h.\nCông nhân cần được trả lương 20/giờ",
         "_N$string": "Công việc này sẽ được tính là làm thêm giờ sau 18h.\nCông nhân cần được trả lương 20/giờ",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_styleFlags": 1,
         "_N$verticalAlign": 1
@@ -437,7 +437,7 @@
         ],
         "_string": "2000",
         "_N$string": "2000",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -504,7 +504,7 @@
         ],
         "_string": "Xây dựng nhà máy vật liệu xây dựng",
         "_N$string": "Xây dựng nhà máy vật liệu xây dựng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -575,7 +575,7 @@
         ],
         "_string": "Dẫn dắt một nhóm (ít nhất 3 người) để hoàn thành các yêu cầu kỹ thuật",
         "_N$string": "Dẫn dắt một nhóm (ít nhất 3 người) để hoàn thành các yêu cầu kỹ thuật",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 17,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -642,7 +642,7 @@
         ],
         "_string": "Thu nhập dự án ước tính: 1.000",
         "_N$string": "Thu nhập dự án ước tính: 1.000",
-        "_fontSize": 17,
+        "_fontSize": 12,
         "_lineHeight": 17,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1046,7 +1046,7 @@
         ],
         "_string": "bắt đầu làm việc",
         "_N$string": "bắt đầu làm việc",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

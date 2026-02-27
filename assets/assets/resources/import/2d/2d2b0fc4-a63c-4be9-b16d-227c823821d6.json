@@ -691,7 +691,7 @@
         "_useOriginalSize": false,
         "_string": "Chưa có thứ hạng",
         "_N$string": "Chưa có thứ hạng",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -757,7 +757,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -977,7 +977,7 @@
         "_useOriginalSize": false,
         "_string": "Xếp hạng",
         "_N$string": "Xếp hạng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -1046,7 +1046,7 @@
         "_useOriginalSize": false,
         "_string": "phần thưởng",
         "_N$string": "phần thưởng",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

@@ -252,7 +252,7 @@
         "_useOriginalSize": false,
         "_string": "trứng tươi",
         "_N$string": "trứng tươi",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 22,
         "_N$overflow": 1
       }
@@ -369,7 +369,7 @@
         "_useOriginalSize": false,
         "_string": "mua sắm siêu thị",
         "_N$string": "mua sắm siêu thị",
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -493,7 +493,7 @@
         "_useOriginalSize": false,
         "_string": "Số lượng mua:",
         "_N$string": "Số lượng mua:",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -719,7 +719,7 @@
         "_useOriginalSize": false,
         "_string": "123",
         "_N$string": "123",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -843,7 +843,7 @@
         "_useOriginalSize": false,
         "_string": "Tổng giá: 0",
         "_N$string": "Tổng giá: 0",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1019,7 +1019,7 @@
         ],
         "_string": "Chắc chắn",
         "_N$string": "Chắc chắn",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

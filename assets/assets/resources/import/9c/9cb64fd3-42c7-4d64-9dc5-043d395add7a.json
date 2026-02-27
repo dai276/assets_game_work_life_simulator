@@ -694,7 +694,7 @@
         ],
         "_string": "Bố cục hoàn chỉnh",
         "_N$string": "Bố cục hoàn chỉnh",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -985,7 +985,7 @@
         "_useOriginalSize": false,
         "_string": "Hiện tại chưa có đồ đạc, bạn có thể đến trung tâm mua sắm nội thất để mua.",
         "_N$string": "Hiện tại chưa có đồ đạc, bạn có thể đến trung tâm mua sắm nội thất để mua.",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,

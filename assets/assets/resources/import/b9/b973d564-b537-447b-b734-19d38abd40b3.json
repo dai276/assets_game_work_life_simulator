@@ -393,7 +393,7 @@
         "_useOriginalSize": false,
         "_string": "30%",
         "_N$string": "30%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -505,7 +505,7 @@
         "_useOriginalSize": false,
         "_string": "Vạc đồng",
         "_N$string": "Vạc đồng",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

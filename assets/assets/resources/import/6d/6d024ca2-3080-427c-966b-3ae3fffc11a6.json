@@ -774,7 +774,7 @@
     "node": {
       "__id__": 13
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -855,7 +855,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1119,7 +1119,7 @@
     "node": {
       "__id__": 21
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1200,7 +1200,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1464,7 +1464,7 @@
     "node": {
       "__id__": 29
     },
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1545,7 +1545,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1759,7 +1759,7 @@
         "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
       }
     ],
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,
@@ -1842,7 +1842,7 @@
     ],
     "_string": "Khóa bí mật: Khi lấy được kho lưu trữ của người chơi. Bạn cần nhập khóa bí mật để giải mã nó!",
     "_N$string": "Khóa bí mật: Khi lấy được kho lưu trữ của người chơi. Bạn cần nhập khóa bí mật để giải mã nó!",
-    "_fontSize": 20,
+    "_fontSize": 14,
     "_lineHeight": 25,
     "_enableWrapText": false,
     "_N$verticalAlign": 1,

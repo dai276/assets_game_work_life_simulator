@@ -134,7 +134,7 @@
         ],
         "_string": "Yongxing GPT",
         "_N$string": "Yongxing GPT",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -425,7 +425,7 @@
         "_useOriginalSize": false,
         "_string": "Xin chào, vui lòng chọn hướng bạn muốn biết",
         "_N$string": "Xin chào, vui lòng chọn hướng bạn muốn biết",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 1
@@ -564,7 +564,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -762,7 +762,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 22,
         "_N$verticalAlign": 1,
         "_N$overflow": 3
@@ -1379,7 +1379,7 @@
         "_useOriginalSize": false,
         "_string": "[\"Dì của cô ấy\" được gọi là gì trong tiếng Nhật]",
         "_N$string": "[\"Dì của cô ấy\" được gọi là gì trong tiếng Nhật]",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1540,7 +1540,7 @@
         "_useOriginalSize": false,
         "_string": "[\"Dì của cô ấy\" được gọi là gì trong tiếng Nhật]",
         "_N$string": "[\"Dì của cô ấy\" được gọi là gì trong tiếng Nhật]",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

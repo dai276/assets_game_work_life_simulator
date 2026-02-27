@@ -2494,7 +2494,7 @@
         "_useOriginalSize": false,
         "_string": "20%",
         "_N$string": "20%",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2769,7 +2769,7 @@
         ],
         "_string": "Sửa",
         "_N$string": "Sửa",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2905,7 +2905,7 @@
         "_useOriginalSize": false,
         "_string": "+30%",
         "_N$string": "+30%",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 14,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3087,7 +3087,7 @@
         ],
         "_string": "Hướng dẫn của chuyên gia",
         "_N$string": "Hướng dẫn của chuyên gia",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3223,7 +3223,7 @@
         "_useOriginalSize": false,
         "_string": "+30%",
         "_N$string": "+30%",
-        "_fontSize": 14,
+        "_fontSize": 12,
         "_lineHeight": 14,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3280,7 +3280,7 @@
         ],
         "_string": "Số lần còn lại: 0/3",
         "_N$string": "Số lần còn lại: 0/3",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3343,7 +3343,7 @@
         ],
         "_string": "00:00",
         "_N$string": "00:00",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3548,7 +3548,7 @@
         "_useOriginalSize": false,
         "_string": "100%",
         "_N$string": "100%",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 16,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3681,7 +3681,7 @@
         "_useOriginalSize": false,
         "_string": "Hiện tại còn lại",
         "_N$string": "Hiện tại còn lại",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -3750,7 +3750,7 @@
         "_useOriginalSize": false,
         "_string": "3",
         "_N$string": "3",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3824,7 +3824,7 @@
         "_useOriginalSize": false,
         "_string": "Có thể sửa chữa",
         "_N$string": "Có thể sửa chữa",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1,
@@ -3952,7 +3952,7 @@
         "_useOriginalSize": false,
         "_string": "+20%",
         "_N$string": "+20%",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

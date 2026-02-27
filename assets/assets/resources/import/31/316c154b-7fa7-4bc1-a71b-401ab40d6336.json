@@ -642,7 +642,7 @@
         "_useOriginalSize": false,
         "_string": "Nền tảng chính thức cung cấp hàng chục tỷ khoản trợ cấp và hàng nghìn sản phẩm tốt được giảm giá mỗi ngày.",
         "_N$string": "Nền tảng chính thức cung cấp hàng chục tỷ khoản trợ cấp và hàng nghìn sản phẩm tốt được giảm giá mỗi ngày.",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -987,7 +987,7 @@
         ],
         "_string": "Thay đổi một đợt",
         "_N$string": "Thay đổi một đợt",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1218,7 +1218,7 @@
         ],
         "_string": "Thay đổi một đợt",
         "_N$string": "Thay đổi một đợt",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1532,7 +1532,7 @@
         ],
         "_string": "Mọi",
         "_N$string": "Mọi",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -1599,7 +1599,7 @@
         ],
         "_string": "10",
         "_N$string": "10",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -1666,7 +1666,7 @@
         ],
         "_string": "Mỗi hộp mù phải chứa một sản phẩm cao cấp",
         "_N$string": "Mỗi hộp mù phải chứa một sản phẩm cao cấp",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 26,
         "_N$verticalAlign": 1
       }
@@ -1906,7 +1906,7 @@
         ],
         "_string": "Thay đổi một đợt",
         "_N$string": "Thay đổi một đợt",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2080,7 +2080,7 @@
         ],
         "_string": "Thông báo xác suất",
         "_N$string": "Thông báo xác suất",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2526,7 +2526,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2769,7 +2769,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3120,7 +3120,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3471,7 +3471,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3822,7 +3822,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4173,7 +4173,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4524,7 +4524,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4875,7 +4875,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5226,7 +5226,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5577,7 +5577,7 @@
         "_useOriginalSize": false,
         "_string": "100 nhân dân tệ",
         "_N$string": "100 nhân dân tệ",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -5952,7 +5952,7 @@
         ],
         "_string": "03:00",
         "_N$string": "03:00",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6117,7 +6117,7 @@
         ],
         "_string": "600220",
         "_N$string": "600220",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6355,7 +6355,7 @@
         ],
         "_string": "Lĩnh vực chung",
         "_N$string": "Lĩnh vực chung",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6478,7 +6478,7 @@
         ],
         "_string": "Lĩnh vực chung",
         "_N$string": "Lĩnh vực chung",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6593,7 +6593,7 @@
         ],
         "_string": "lĩnh vực cao cấp",
         "_N$string": "lĩnh vực cao cấp",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6716,7 +6716,7 @@
         ],
         "_string": "lĩnh vực cao cấp",
         "_N$string": "lĩnh vực cao cấp",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6831,7 +6831,7 @@
         ],
         "_string": "bán chớp nhoáng",
         "_N$string": "bán chớp nhoáng",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -6954,7 +6954,7 @@
         ],
         "_string": "bán chớp nhoáng",
         "_N$string": "bán chớp nhoáng",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7069,7 +7069,7 @@
         ],
         "_string": "trường hộp mù",
         "_N$string": "trường hộp mù",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -7192,7 +7192,7 @@
         ],
         "_string": "trường hộp mù",
         "_N$string": "trường hộp mù",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

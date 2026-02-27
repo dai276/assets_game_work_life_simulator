@@ -246,7 +246,7 @@
         ],
         "_string": "Bạn phải rẻ hơn, ah ah ah ah",
         "_N$string": "Bạn phải rẻ hơn, ah ah ah ah",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$overflow": 1
       }
@@ -598,7 +598,7 @@
         ],
         "_string": "08:00",
         "_N$string": "08:00",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -718,7 +718,7 @@
         ],
         "_string": "108.5",
         "_N$string": "108.5",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1504,7 +1504,7 @@
         "_useOriginalSize": false,
         "_string": "Tên mặt hàng:",
         "_N$string": "Tên mặt hàng:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1566,7 +1566,7 @@
         "_useOriginalSize": false,
         "_string": "điện thoại di động cũ",
         "_N$string": "điện thoại di động cũ",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1630,7 +1630,7 @@
         "_useOriginalSize": false,
         "_string": "cân nặng:",
         "_N$string": "cân nặng:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1692,7 +1692,7 @@
         "_useOriginalSize": false,
         "_string": "0.2kg",
         "_N$string": "0.2kg",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1768,7 +1768,7 @@
         "_useOriginalSize": false,
         "_string": "Mặc cả:",
         "_N$string": "Mặc cả:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2374,7 +2374,7 @@
         "_useOriginalSize": false,
         "_string": "Giá mặt hàng:",
         "_N$string": "Giá mặt hàng:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2434,7 +2434,7 @@
           }
         ],
         "_useOriginalSize": false,
-        "_fontSize": 26,
+        "_fontSize": 18,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2560,7 +2560,7 @@
         "_useOriginalSize": false,
         "_string": "nhìn kỹ hơn",
         "_N$string": "nhìn kỹ hơn",
-        "_fontSize": 24,
+        "_fontSize": 17,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3765,7 +3765,7 @@
         ],
         "_string": "Câu hỏi(0/2)",
         "_N$string": "Câu hỏi(0/2)",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -3900,7 +3900,7 @@
         ],
         "_string": "Mua",
         "_N$string": "Mua",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4035,7 +4035,7 @@
         ],
         "_string": "Hủy bỏ",
         "_N$string": "Hủy bỏ",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 24,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -4324,7 +4324,7 @@
         ],
         "_string": "Bạn phải rẻ hơn, ah ah ah ah",
         "_N$string": "Bạn phải rẻ hơn, ah ah ah ah",
-        "_fontSize": 16,
+        "_fontSize": 12,
         "_lineHeight": 20,
         "_N$overflow": 1
       }

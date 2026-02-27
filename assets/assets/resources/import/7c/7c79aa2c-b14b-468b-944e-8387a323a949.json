@@ -672,7 +672,7 @@
         "_useOriginalSize": false,
         "_string": "trò chơi mới",
         "_N$string": "trò chơi mới",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -849,7 +849,7 @@
         "_useOriginalSize": false,
         "_string": "tiếp tục trò chơi",
         "_N$string": "tiếp tục trò chơi",
-        "_fontSize": 30,
+        "_fontSize": 21,
         "_lineHeight": 28,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1

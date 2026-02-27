@@ -167,7 +167,7 @@
         "_useOriginalSize": false,
         "_string": "3.22 Chúa nhật",
         "_N$string": "3.22 Chúa nhật",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -235,7 +235,7 @@
         "_useOriginalSize": false,
         "_string": "Tôi là nhân viên bảo vệ và tôi thích bánh quy gấu",
         "_N$string": "Tôi là nhân viên bảo vệ và tôi thích bánh quy gấu",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$overflow": 3
       }
@@ -340,7 +340,7 @@
         "_useOriginalSize": false,
         "_string": "3.22 Chúa nhật",
         "_N$string": "3.22 Chúa nhật",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -408,7 +408,7 @@
         "_useOriginalSize": false,
         "_string": "Tôi là nhân viên bảo vệ và tôi thích bánh quy gấu",
         "_N$string": "Tôi là nhân viên bảo vệ và tôi thích bánh quy gấu",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 22,
         "_N$overflow": 3
       }

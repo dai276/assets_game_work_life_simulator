@@ -171,7 +171,7 @@
         "_useOriginalSize": false,
         "_string": "Đào tạo nhân viên",
         "_N$string": "Đào tạo nhân viên",
-        "_fontSize": 22,
+        "_fontSize": 15,
         "_lineHeight": 22,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -568,7 +568,7 @@
         "_useOriginalSize": false,
         "_string": "Các khóa học nâng cao",
         "_N$string": "Các khóa học nâng cao",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -640,7 +640,7 @@
         "_useOriginalSize": false,
         "_string": "Giới thiệu khóa học:",
         "_N$string": "Giới thiệu khóa học:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -705,7 +705,7 @@
         "_useOriginalSize": false,
         "_string": "Được tạo bởi các chuyên gia, đào tạo cá nhân",
         "_N$string": "Được tạo bởi các chuyên gia, đào tạo cá nhân",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -773,7 +773,7 @@
         "_useOriginalSize": false,
         "_string": "Giúp bạn vượt qua những nút thắt ở nơi làm việc",
         "_N$string": "Giúp bạn vượt qua những nút thắt ở nơi làm việc",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -841,7 +841,7 @@
         "_useOriginalSize": false,
         "_string": "Tỷ lệ thành công: 100%",
         "_N$string": "Tỷ lệ thành công: 100%",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1080,7 +1080,7 @@
         "_useOriginalSize": false,
         "_string": "nuôi",
         "_N$string": "nuôi",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1323,7 +1323,7 @@
         "_useOriginalSize": false,
         "_string": "Khóa học trung cấp",
         "_N$string": "Khóa học trung cấp",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1395,7 +1395,7 @@
         "_useOriginalSize": false,
         "_string": "Giới thiệu khóa học:",
         "_N$string": "Giới thiệu khóa học:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1460,7 +1460,7 @@
         "_useOriginalSize": false,
         "_string": "Được tạo ra bởi các thạc sĩ, giảng viên có trình độ học vấn cao",
         "_N$string": "Được tạo ra bởi các thạc sĩ, giảng viên có trình độ học vấn cao",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1528,7 +1528,7 @@
         "_useOriginalSize": false,
         "_string": "Chuẩn bị kỹ lưỡng sẽ giúp bạn làm việc tốt hơn",
         "_N$string": "Chuẩn bị kỹ lưỡng sẽ giúp bạn làm việc tốt hơn",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1596,7 +1596,7 @@
         "_useOriginalSize": false,
         "_string": "Tỷ lệ thành công: 100%",
         "_N$string": "Tỷ lệ thành công: 100%",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1719,7 +1719,7 @@
         "_useOriginalSize": false,
         "_string": "Trồng trọt[600]",
         "_N$string": "Trồng trọt[600]",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -1962,7 +1962,7 @@
         "_useOriginalSize": false,
         "_string": "các khóa học cấp thấp hơn",
         "_N$string": "các khóa học cấp thấp hơn",
-        "_fontSize": 20,
+        "_fontSize": 14,
         "_lineHeight": 20,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2034,7 +2034,7 @@
         "_useOriginalSize": false,
         "_string": "Giới thiệu khóa học:",
         "_N$string": "Giới thiệu khóa học:",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2099,7 +2099,7 @@
         "_useOriginalSize": false,
         "_string": "Giảng dạy lớp lớn, khóa học phong phú,",
         "_N$string": "Giảng dạy lớp lớn, khóa học phong phú,",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2167,7 +2167,7 @@
         "_useOriginalSize": false,
         "_string": "Xe lăn hơi nước dành cho nhân viên",
         "_N$string": "Xe lăn hơi nước dành cho nhân viên",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2235,7 +2235,7 @@
         "_useOriginalSize": false,
         "_string": "Tỷ lệ thành công: 100%",
         "_N$string": "Tỷ lệ thành công: 100%",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
@@ -2358,7 +2358,7 @@
         "_useOriginalSize": false,
         "_string": "Trồng trọt[600]",
         "_N$string": "Trồng trọt[600]",
-        "_fontSize": 18,
+        "_fontSize": 13,
         "_lineHeight": 18,
         "_N$horizontalAlign": 1,
         "_N$verticalAlign": 1
